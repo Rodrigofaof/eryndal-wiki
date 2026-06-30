@@ -1,0 +1,58 @@
+﻿---
+tags: [facção, dwarf, subsolo, pedra]
+banner: "Imagens/dwarf-retrato.png"
+banner_y: 0.4
+tipo: "Facção"
+lider: "Mestre Groven"
+sede: "Raízes sob Solathys"
+alinhamento: "Isolamento — Sobrevivência"
+---
+
+# Clã de Pedra
+
+> [!infobox]
+> ![[dwarf-retrato.png]]
+> | | |
+> |---|---|
+> | **Tipo** | Clã Dwarf das profundezas |
+> | **Líder** | Mestre Groven *(140 anos)* |
+> | **Sede** | Raízes sob [[Solathys]] |
+> | **Status** | 🔴 Isolamento crescente |
+> | **Ameaça** | Algo nas profundezas |
+> | **Aliados** | Nenhum — ainda |
+
+O maior e mais influente dos clãs [[Dwarf]] nas Raízes. Está se isolando de forma alarmante.
+
+---
+
+## 👁️ O Que Estão Vendo
+
+> [!danger] Nos Níveis Inferiores
+> - Rachaduras emitindo **luz negra**
+> - Sons sem frequência identificável
+> - Membros que desceram para inspeção voltaram **quietos** — não agressivos, não corrompidos visualmente. Apenas... quietos.
+>
+> Groven fechou os níveis inferiores. **Não explicou para ninguém fora do clã.**
+
+---
+
+## 🤝 Mudança de Posição
+
+> [!warning] Algo mudou
+> O Clã de Pedra nunca buscou aliados. Mestre Groven está considerando — pela primeira vez em 140 anos de vida — que pode precisar de um.
+>
+> Os [[Fungril]] da rede abaixo deles estão subindo. Isso nunca aconteceu antes.
+
+---
+
+## 👥 Membros em CF 4.247
+
+| Nome | Cargo | Status |
+|---|---|---|
+| [[Mestre Groven]] | Líder do Clã | Ativo — fechou os níveis inferiores |
+| [[Veth Pedra-Viva]] | Especialista em formações de pedra | Ativa — Groven Profundo |
+| [[Orrum]] | O mais antigo de Groven (1.284 anos) | Ativo — grava símbolos no 3º nível |
+
+---
+
+*Relacionado: [[Facções do Mundo]], [[Dwarf]], [[Cosmologia]], [[A Fratura]], [[Fungril]]*

@@ -1,0 +1,230 @@
+# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+configuration:
+  pageTitle: "Eryndal — Wiki do Mundo"
+  pageTitleSuffix: " | Eryndal"
+  enableSPA: true
+  enablePopovers: true
+  analytics:
+    provider: null
+  locale: pt-BR
+  baseUrl: rodrigofaof.github.io/eryndal-wiki
+  ignorePatterns:
+    - private
+    - templates
+    - .obsidian
+    - "Personagens/Fichas"
+    - "Crônicas/Crônica da Relíquia.md"
+    - "Crônicas/Diário do Mundo.md"
+    - "Crônicas/Dias"
+    - "Aventuras"
+    - "Prompts de Imagem*.md"
+    - "CLAUDE.md"
+  theme:
+    fontOrigin: googleFonts
+    cdnCaching: true
+    typography:
+      header: Cinzel
+      body: Lora
+      code: JetBrains Mono
+    colors:
+      lightMode:
+        light: "#f5f0e8"
+        lightgray: "#e0d4bc"
+        gray: "#9e8e72"
+        darkgray: "#4a3a26"
+        dark: "#2c1f0f"
+        secondary: "#8b6914"
+        tertiary: "#4a7a5a"
+        highlight: "rgba(139, 105, 20, 0.12)"
+        textHighlight: "#f0d08088"
+      darkMode:
+        light: "#16120e"
+        lightgray: "#2d2318"
+        gray: "#6b5a42"
+        darkgray: "#c4b49a"
+        dark: "#f0e8d8"
+        secondary: "#d4a840"
+        tertiary: "#6aaa78"
+        highlight: "rgba(212, 168, 64, 0.15)"
+        textHighlight: "#a0680288"
+plugins:
+  - source: github:quartz-community/created-modified-date
+    enabled: true
+    options:
+      defaultDateType: modified
+      priority:
+        - frontmatter
+        - git
+        - filesystem
+    order: 10
+  - source: github:quartz-community/syntax-highlighting
+    enabled: true
+    options:
+      theme:
+        light: github-light
+        dark: github-dark
+      keepBackground: false
+    order: 20
+  - source: github:quartz-community/obsidian-flavored-markdown
+    enabled: true
+    options:
+      enableInHtmlEmbed: false
+      enableCheckbox: true
+    order: 30
+  - source: github:quartz-community/github-flavored-markdown
+    enabled: true
+    order: 40
+  - source: github:quartz-community/table-of-contents
+    enabled: true
+    order: 50
+    layout:
+      position: right
+      priority: 30
+  - source: github:quartz-community/crawl-links
+    enabled: true
+    options:
+      markdownLinkResolution: shortest
+    order: 60
+  - source: github:quartz-community/description
+    enabled: true
+    order: 70
+  - source: github:quartz-community/latex
+    enabled: false
+    order: 80
+  - source: github:quartz-community/hard-line-breaks
+    enabled: false
+    order: 90
+  - source: github:quartz-community/fonts
+    enabled: true
+  - source: github:quartz-community/remove-draft
+    enabled: true
+  - source: github:quartz-community/explicit-publish
+    enabled: false
+  - source: github:quartz-community/alias-redirects
+    enabled: true
+  - source: github:quartz-community/content-index
+    enabled: true
+    options:
+      enableSiteMap: true
+      enableRSS: false
+  - source: github:quartz-community/favicon
+    enabled: true
+  - source: github:quartz-community/og-image
+    enabled: true
+  - source: github:quartz-community/cname
+    enabled: true
+  - source: github:quartz-community/canvas-page
+    enabled: false
+  - source: github:quartz-community/content-page
+    enabled: true
+  - source: github:quartz-community/folder-page
+    enabled: true
+  - source: github:quartz-community/tag-page
+    enabled: true
+  - source: github:quartz-community/explorer
+    enabled: true
+    layout:
+      position: left
+      priority: 50
+  - source: github:quartz-community/graph
+    enabled: true
+    layout:
+      position: right
+      priority: 10
+  - source: github:quartz-community/search
+    enabled: true
+    layout:
+      position: left
+      priority: 20
+      group: toolbar
+      groupOptions:
+        grow: true
+  - source: github:quartz-community/backlinks
+    enabled: true
+    layout:
+      position: right
+      priority: 50
+  - source: github:quartz-community/article-title
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 10
+  - source: github:quartz-community/content-meta
+    enabled: false
+    layout:
+      position: beforeBody
+      priority: 20
+  - source: github:quartz-community/tag-list
+    enabled: false
+    layout:
+      position: beforeBody
+      priority: 30
+  - source: github:quartz-community/page-title
+    enabled: true
+    layout:
+      position: left
+      priority: 10
+  - source: github:quartz-community/darkmode
+    enabled: true
+    layout:
+      position: left
+      priority: 30
+      group: toolbar
+  - source: github:quartz-community/reader-mode
+    enabled: true
+    layout:
+      position: left
+      priority: 35
+      group: toolbar
+  - source: github:quartz-community/breadcrumbs
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 5
+      condition: not-index
+  - source: github:quartz-community/footer
+    enabled: true
+    options:
+      links:
+        Eryndal: https://rodrigofaof.github.io/eryndal-wiki
+  - source: github:quartz-community/spacer
+    enabled: true
+    options: {}
+    order: 25
+    layout:
+      position: left
+      priority: 25
+      display: mobile-only
+  - source: github:quartz-community/bases-page
+    enabled: false
+  - source: github:quartz-community/note-properties
+    enabled: false
+  - source: github:quartz-community/unlisted-pages
+    enabled: true
+    options: {}
+    order: 45
+  - source: github:quartz-community/stacked-pages
+    enabled: false
+layout:
+  groups:
+    toolbar:
+      priority: 35
+      direction: row
+      gap: 0.5rem
+  byPageType:
+    "404":
+      positions:
+        beforeBody: []
+        left: []
+        right: []
+    content: {}
+    folder:
+      exclude:
+        - reader-mode
+      positions:
+        right: []
+    tag:
+      exclude:
+        - reader-mode
+      positions:
+        right: []
