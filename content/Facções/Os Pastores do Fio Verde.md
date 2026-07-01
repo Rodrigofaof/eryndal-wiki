@@ -62,8 +62,6 @@ alinhamento: "Voz de Elyndra — intermediários entre a deusa e o mundo mortal"
 > [!tip] Gancho de Aventura
 > Os Pastores estão pedindo ajuda para acessar uma clareira bloqueada — não por obstáculo físico, mas porque as plantas ao redor cresceram densas demais para atravessar em dias. O crescimento explosivo começou exatamente quando [[A Fratura]] se intensificou. O que está no centro da clareira, os Pastores não sabem. Sabem que o Fio Verde pulsa mais forte lá.
 
-> [!danger] Segredo do Narrador
-> **Belas das Raízes Cantantes** recebeu uma resposta de Elyndra que não compartilhou com ninguém: a deusa disse que a floresta não está convergindo para o oceano. Está convergindo para [[A Sétima Ilha]]. E disse para deixar acontecer. Belas não sabe se deve obedecer — nunca recebeu uma instrução de Elyndra que não entendesse até hoje.
 
 ---
 

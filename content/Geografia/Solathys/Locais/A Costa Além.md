@@ -41,8 +41,6 @@ status: "Inacessível de forma consistente"
 >> | **Primeiro Contato** | Korrath Ondasal, CF 3.900 |
 >> | **Expedição Perdida** | Vael Sombra-de-Água, CF 3.950 |
 
-> [!danger] Segredo do Narrador
-> A Costa Além não é um lugar geográfico fixo. É o fragmento da contra-criação de Azúrael que existe no Mar Thalran — o mesmo lugar onde Vael Sombra-de-Água e sua tripulação estão. O que as expedições encontram é real mas não é consistente porque o fragmento está mais ou menos acessível dependendo do estado do Véu. Com o enfraquecimento desde CF 4.245, a Costa Além está ficando mais fácil de atingir — o que parece uma boa notícia e não é.
 
 > [!question] Mistério em Aberto
 > O compartimento trancado de Davar com as coordenadas. Por que ele as guardou? Por que não entrou no relatório? O que ele encontrou em CF 4.143 que o fez guardar silêncio sobre a coordenada?

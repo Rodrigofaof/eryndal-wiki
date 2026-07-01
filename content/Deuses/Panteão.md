@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865433/Solaren.png"
----
----
 tags:
   - deuses
   - panteão

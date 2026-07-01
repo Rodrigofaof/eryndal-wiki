@@ -1,7 +1,4 @@
 ---
-banner: "[[clank-retrato.png]]"
----
----
 tags: [raça, forjados, ancestralidade, daggerheart, gorvath, construto]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865104/clank-retrato.png"
 banner_y: 0.4

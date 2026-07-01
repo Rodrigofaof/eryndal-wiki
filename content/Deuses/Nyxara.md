@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865349/Nyxara.png"
----
----
 tags:
   - deus
   - nyxara
@@ -17,7 +14,6 @@ alinhamento: Neutro
 
 # Nyxara — A Guardiã dos Segredos
 
-> [!abstract] 🎭 [[Ficha — Nyxara|Ficha de Roleplay → Nyxara]]
 
 > [!quote] *"Nunca minto. Mas escolho muito bem o que digo."*
 
@@ -40,8 +36,6 @@ alinhamento: Neutro
 >> - Monitorar os Sussurradores na investigação do Arquipélago
 >> - Aguardar o momento certo para revelar o que sabe sobre [[A Fratura]]
 >>
->> > [!danger] Segredo do Narrador
->> > Nyxara tem a resposta sobre a origem dos [[Human]]. Decidiu que a humanidade deve encontrá-la sozinha — revelar prematuramente destruiria algo essencial.
 >
 >> [!col-img]
 >> ![Nyxara](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865349/Nyxara.png)

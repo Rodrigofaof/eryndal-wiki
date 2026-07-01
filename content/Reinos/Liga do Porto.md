@@ -65,10 +65,6 @@ alinhamento: "Comércio e influência"
 
 ---
 
-> [!danger] Segredo do Narrador
-> O fogo que destrói os navios não vem do Arquipélago. Vem de [[Porto das Chamas]] — a capital da [[República de Ferro]], no fundo do mar desde CF 2.087. As câmaras estão intactas. Com ar. Com alguém dentro que ficou lá quando a cidade afundou. E que finalmente encontrou uma forma de alcançar a superfície depois de 2.160 anos.
->
-> O sobrevivente silencioso sabe disso. Viu o fogo sair da água — não cair nela. E viu uma figura logo abaixo da superfície, parada, assistindo o navio queimar. A figura acenou para ele. Ele achou que estava delirando. Mas o acordo que fechou — em troca de silêncio, informação sobre onde está seu irmão desaparecido — veio numa nota que apareceu na sua cabine na noite seguinte, com letra que não era de ninguém a bordo.
 
 ---
 

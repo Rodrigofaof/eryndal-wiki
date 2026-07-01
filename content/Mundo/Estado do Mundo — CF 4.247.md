@@ -134,8 +134,6 @@ O que Syleth aprendeu: o que fala através de Toven é anterior à Forja Primord
 
 **O que isso significa:** Algo no Arquipélago está alcançando o continente. Não mandando mensagem. Não experimentando. Queimando navios de forma sistemática — sempre da Liga, nunca de outros, como se soubesse quem pertence a quem.
 
-> [!danger] Segredo do Narrador
-> O fogo não é do Arquipélago. É de Porto das Chamas — a capital da [[República de Ferro]], no fundo do mar desde CF 2.087. Câmaras seladas. Com ar. Com alguém dentro que ficou lá desde que a cidade afundou. E que finalmente encontrou uma forma de alcançar a superfície.
 
 ---
 
@@ -229,7 +227,6 @@ Fascinado pela pesquisa de Keth-Seis e agora também pela questão de Toven Bras
 
 ---
 
-> [!danger] O Que o Narrador Sabe — As Verdades por Trás
 
 > **ARC I:** Aldren Vaux não está apenas protegendo o segredo da Igreja. Ele está com medo. O que sua equipe encontrou na Costa do Esquecimento há dois anos é um templo antigo com o símbolo de Azúrael — mas erguido *antes* da Forja Primordial. O que existe antes de CF 0, antes dos deuses, antes de tudo? A Igreja não tem resposta. E um Conselho Cívico com poder de investigação independente vai chegar lá antes que ela encontre uma.
 >

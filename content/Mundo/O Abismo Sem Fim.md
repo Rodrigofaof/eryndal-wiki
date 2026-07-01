@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865061/azurael.png"
----
----
 tags: [local, cosmologia, azúrael, abismo, vazio]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865061/azurael.png"
 banner_y: 0.4
@@ -49,7 +46,5 @@ status: "Inacessível / Ativo"
 > [!warning] O Véu Está Enfraquecendo
 > As Fraturas de CF 4.245 são a pressão do Abismo sentida de fora. À medida que o Véu enfraquece, a separação entre o Abismo e o plano mortal diminui. O que isso significa em termos práticos — mais Fraturas, alterações no comportamento dos Filamentos, almas desviadas — está acontecendo agora.
 
-> [!danger] Segredo do Narrador
-> O Abismo não é a prisão de Azúrael. É o lugar natal de Azúrael — o estado anterior à criação onde ele e Korreth existiram antes que os seis deuses tececessem o mundo. O que os deuses chamam de "aprisionamento" é, na perspectiva de Azúrael, exílio do estado que ele considera natural. A diferença de perspectiva é o que Nyxara entendeu no CF 380 e nunca articulou publicamente.
 
 *Veja também: [[Azúrael]], [[A Fratura]], [[O Limiar de Pedra]], [[As Raízes]], [[Eira a Sussurradora]], [[Nyxara]], [[Pacto do Véu]]*

@@ -40,8 +40,6 @@ status: "Ativo/Perigoso"
 > [!warning] Tensões Ativas
 > Thren e Tess não sabem da existência um do outro — ou que ambos conhecem a caverna. Quando souberem, as perspectivas deles sobre o que está lá são suficientemente diferentes para conflito produtivo ou improdutivo, dependendo de quem facilita o encontro.
 
-> [!danger] Segredo do Narrador
-> Os cristais são pedra preta em estado de transformação — são o que pedra preta se torna quando em contato prolongado com concentração de Fio Cinza e Fio Vazio simultaneamente. A caverna está literalmente na interseção dos dois Filamentos porque está sobre um ponto onde o Véu é extremamente fino — onde o plano mortal e o domínio de Morthus estão mais próximos do que em qualquer outro ponto de superfície. A alma que Tess encontrou não está presa — está na fronteira, voluntariamente, esperando que alguém venha com a chave do acordo. O mapa da criatura e os padrões da alma juntos formam instruções de como chegar ao ponto nordeste da Sétima Ilha de dentro — não por navio, mas por descida.
 
 > [!tip] Ganchos de Aventura
 > - A alma na caverna deu um nome a Tess. Thren conhece uma criatura que parece reconhecer padrões de rastreamento. Os dois juntos, na caverna, com alguém que pode ler Fio Cinza e Fio Vazio simultaneamente — Petra da Vela ou Isael de Grath-Nor — podem obter instruções completas.

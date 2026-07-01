@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865310/limiar-de-pedra.jpg"
----
----
 tags: [local, cosmologia, raízes, limiar, abismo, dwarf]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865310/limiar-de-pedra.jpg"
 banner_y: 0.5
@@ -62,12 +59,6 @@ status: "Existente — localização precisa desconhecida"
 > [!warning] O Quarto Nível
 > O que o [[Clã de Pedra]] selou no quarto nível de Groven Profundo em CF 3.500 está acima do Limiar — no espaço entre o mundo mortal e a fronteira com o Abismo. Mas o Limiar está subindo. Em algum momento, o que está no quarto nível e o que está além do Limiar vão estar no mesmo espaço. [[Veth Pedra-Viva]] calculou que isso pode acontecer antes de CF 4.260.
 
-> [!danger] O Que o Limiar Realmente É
-> Os textos de [[Elyndra]] preservados por [[Velmira das Raízes]] — que o [[Conselho dos Ancien]] tem em cópia incompleta — descrevem o Limiar não como fronteira criada pelo Pacto do Véu, mas como fronteira que *sempre existiu*, anterior à criação de Eryndal. O Véu separa os deuses dos mortais. O Limiar separa o que os deuses criaram do que existia antes deles.
->
-> Se o Limiar está subindo, pode não ser porque o Abismo está crescendo. Pode ser porque o que foi construído *sobre* o Limiar — Eryndal, As Raízes, Groven Profundo — está afundando em direção a ele. [[A Fratura]] não está apenas rachando o Véu. Pode estar enfraquecendo a fundação sobre a qual Eryndal foi construído.
->
-> Isso tornaria A Fratura não um ataque de baixo para cima, mas um colapso estrutural de dentro para baixo.
 
 ---
 

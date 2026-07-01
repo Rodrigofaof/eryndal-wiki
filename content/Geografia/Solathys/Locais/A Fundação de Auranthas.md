@@ -36,8 +36,6 @@ status: "Soterrado/Parcialmente Acessível"
 > [!warning] Tensões Ativas
 > O poço central que desce abaixo da Fundação foi o que Varath não reportou ao Conselho. Em CF 4.247, o poço tem temperatura acima do normal para um espaço soterrado — o mesmo padrão que a Câmara do Pulso de Korreth e a Câmara da Forja. Varath suspeita da conexão mas ainda não investigou o poço além de três metros de profundidade.
 
-> [!danger] Segredo do Narrador
-> O "mais antigo que qualquer coisa mortal" que Varath encontrou no poço: é o ponto onde Auranthas foi originalmente construída sobre uma câmara pré-mortal que existia antes de qualquer raça. A câmara era de Azúrael — parte da contra-criação que foi enterrada quando os deuses venceram a guerra de CF 0. O "poço" desce até essa câmara. Dentro dela: o texto original do Pacto do Véu, escrito em linguagem que nenhum mortal usa, com a cláusula de Nyxara legível por qualquer um — porque Nyxara a escreveu em todas as línguas que existiriam, incluindo as que ainda não existiam quando escreveu.
 
 > [!tip] Ganchos de Aventura
 > - O arquivo pré-Crise de Sucessão tem material que a [[Igreja de Solaren]] acreditava destruído — incluindo correspondência entre as famílias fundadoras e representantes de Azúrael antes do aprisionamento. Auranthas foi fundada como ponto neutro em negociação que nunca terminou.

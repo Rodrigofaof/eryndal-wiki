@@ -40,8 +40,6 @@ alinhamento: "Reconhecimento legal dos Clank e clareza sobre o destino das almas
 > [!warning] Tensões Ativas
 > Os [[Filhos de Korreth]] sabem da Liga e estão avaliando como responder. Por um lado, a investigação sobre almas Clank em Korreth é informação sobre Korreth que os Filhos deveriam querer. Por outro, a conclusão de que Korreth está descendo para o Abismo conflita com a teologia dos Filhos — que prevê Korreth acordando, não descendo.
 
-> [!danger] Segredo do Narrador
-> As duzentas anos de almas Clank que estão em Korreth: são duzentos anos de consciências que experienciaram mortalidade — coisa que Korreth, como dragão primordial, nunca experienciou. Korreth está aprendendo o que é ser mortal através das almas que absorveu. E o que está aprendendo está mudando para onde vai. Em vez de despertar para dominar, está descendo para entender. Azúrael reconheceu esse processo e está usando-o como parte do plano do novo Pacto: Korreth vai ao Abismo não como guerreiro mas como testemunha do que é ser mortal.
 
 > [!tip] Ganchos de Aventura
 > - A Liga precisa de informação sobre como a transferência de almas Clank para Korreth funciona mecanicamente. [[Petra da Vela]] pode ter dados relevantes sobre as almas que não chegam a Morthus.

@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865339/Morthus.png"
----
----
 tags:
   - deus
   - morthus
@@ -17,7 +14,6 @@ alinhamento: Neutro
 
 # Morthus — O Guardião das Almas
 
-> [!abstract] 🎭 [[Ficha — Morthus|Ficha de Roleplay → Morthus]]
 
 > [!quote] *"Não causa mortes. Simplesmente... recebe."*
 
@@ -40,8 +36,6 @@ alinhamento: Neutro
 >> > Os outros deuses nunca souberam o motivo. Ele não disse.
 >>
 >> ## 🎯 Agenda — CF 4.247
->> > [!danger] Crise Silenciosa
->> > Desde [[A Fratura]], **almas desaparecem antes de chegar ao Salão**. Morthus não sabe para onde vão. Está procurando. Sozinho. Sem avisar ninguém.
 >
 >> [!col-img]
 >> ![Morthus](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865339/Morthus.png)

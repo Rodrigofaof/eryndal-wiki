@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865424/simiah-retrato.jpg"
----
----
 tags: [raça, arborinos, ancestralidade, daggerheart, simiah, floresta-de-vyr]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865424/simiah-retrato.jpg"
 banner_y: 0.4

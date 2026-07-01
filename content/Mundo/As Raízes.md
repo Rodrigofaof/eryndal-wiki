@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865055/as-raizes.jpg"
----
----
 tags: [local, cosmologia, raízes, dwarf, abismo, profundezas]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865055/as-raizes.jpg"
 banner_y: 0.5
@@ -58,10 +55,6 @@ status: "Ativo — níveis superiores habitados, inferiores selados"
 > [!warning] As Estruturas Pré-Dwarf
 > A [[Crônica do Exílio]] documenta que [[Serath o Exilado]] obteve de um Dwarf chamado Dorath de Granito-Velho a descrição de estruturas nos níveis três e quatro que nenhum Dwarf construiu — câmaras com geometria precisa, canais que conduzem algo que não é água, superfícies de temperatura constante. Essas estruturas eram funcionais, não ruínas. E em pelo menos uma ocasião, ao serem ativadas acidentalmente, direcionaram atenção para os escavadores.
 
-> [!danger] O Quarto Nível em CF 4.247
-> A temperatura no quarto nível subiu 0,6 graus no último mês, segundo [[Veth Pedra-Viva]] — que não reportou o dado ao Conselho dos Seis Clãs. Mestre Groven sabe que algo respira lá dentro. A [[Crônica do Exílio]] sugere que o que está no quarto nível é o mesmo processo que Serath identificou em CF 567 — mais avançado agora, após quatro mil anos de crescimento lento.
->
-> O Limiar de Pedra, segundo os textos selados de [[Elyndra]] preservados por [[Velmira das Raízes]], separa não apenas profundidade física mas *intenção cosmológica* — de um lado, o mundo que os seis deuses criaram; do outro, o substrato que existia antes deles e que [[Azúrael]] tentou usar. O que está no quarto nível pode ser a interface entre os dois. Se o Limiar enfraquecer com [[A Fratura]], o que está abaixo não precisa subir por esforço próprio.
 
 ---
 

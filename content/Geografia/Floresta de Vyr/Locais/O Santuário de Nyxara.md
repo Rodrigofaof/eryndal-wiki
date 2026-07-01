@@ -40,8 +40,6 @@ status: "Ativo/Secreto"
 > [!warning] Tensões Ativas
 > A instrução de "mostrem-lhe a câmara" conflita com o protocolo de acesso por convite — o Santuário nunca foi mostrado a não-Faerie além de Eira. As três Faerie em vigília discordam sobre o que fazer: duas querem obedecer Nyxara imediatamente, uma quer consultar o grupo mais amplo primeiro.
 
-> [!danger] Segredo do Narrador
-> O que acontece quando "quem vai ao Abismo" entrar no Santuário: o Fio Noturno denso da câmara vai revelar, em visão clara e não-fragmentada, a cláusula de Nyxara no Pacto do Véu — não como texto, mas como memória da perspectiva de Nyxara no momento em que a escreveu. A pessoa vai entender o que Nyxara entendeu em CF 380 sobre Azúrael. E vai entender por que alguém precisa ir ao Abismo voluntariamente. A câmara não pode ser usada como atalho — só funciona para quem já decidiu ir. Para quem ainda está avaliando, a visão é nebulosa.
 
 > [!tip] Ganchos de Aventura
 > - [[Dwen das Raízes]] conhece o Santuário de longe — Elyndra e Nyxara estão em acordo sobre o Pacto, então Dwen respeita o espaço mas não entra sem convite. Pode facilitar o encontro com as Faerie guardiãs.

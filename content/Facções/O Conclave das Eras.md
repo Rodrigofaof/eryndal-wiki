@@ -62,8 +62,6 @@ Identificar quem está apagando páginas do Arquivo Selado e o que especificamen
 > [!tip] Gancho de Aventura
 > O Conclave precisa de alguém que consiga entrar na sede da Igreja sem ser identificado como afiliado ao Conclave. Eles têm o nome de um arquivo específico em [[Auranthas]] onde acreditam que as páginas apagadas foram guardadas — não destruídas, apenas removidas de circulação.
 
-> [!danger] Segredo do Narrador
-> **Vaelith Arco-de-Lua** sabe quem está apagando as páginas. É [[Vaelith das Páginas]] — parente distante, arquivista do Conselho dos Ancien — que acredita que algumas informações são perigosas demais para existir escritas. Os dois Vaelith nunca se encontraram diretamente. Vaelith Arco-de-Lua prefere que continue assim porque não sabe se conseguiria impedi-la e não quer descobrir que a resposta é não.
 
 ---
 

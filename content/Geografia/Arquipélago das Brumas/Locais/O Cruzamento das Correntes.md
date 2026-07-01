@@ -38,8 +38,6 @@ status: "Ativo/Anomalia"
 > [!warning] Tensões Ativas
 > A Confederação Thalrana ainda não foi informada do Cruzamento. [[Soran das Ondas]] hesita porque a conclusão implica Thalris como causa — acusar o deus patrono da Confederação de dois séculos de manipulação oceânica é politicamente explosivo. Mas não informar enquanto a tração aumenta é potencialmente fatal para navios.
 
-> [!danger] Segredo do Narrador
-> O Cruzamento é a versão oceânica do que As Câmaras de Ecos são nas Terras Cinzentas: um canal de comunicação físico construído por uma entidade divina. Thalris construiu o Cruzamento para que quando o momento certo chegasse, qualquer navio que precisasse chegar à Sétima Ilha chegasse — e qualquer navio que não precisasse não chegasse. O Cruzamento é seletivo: quando a convergência chegar ao ponto único, só navios com pessoas "marcadas" (pelo Fio Vazio, ou por fragmento de Azúrael, ou por instrução divina) serão puxados. Os outros passarão sobre ele sem sentir nada.
 
 > [!tip] Ganchos de Aventura
 > - O diário de bordo de uma das expedições desaparecidas de CF 4.246 foi encontrado à deriva — descreve a tração como "a mão do mar". O capitão não se opôs; deixou o navio ser puxado. Onde terminou?

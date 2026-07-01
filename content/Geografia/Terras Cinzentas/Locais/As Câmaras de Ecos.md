@@ -44,8 +44,6 @@ status: "Ativo / Perigoso"
 > [!warning] Tensão Ativa
 > Os sons que a Vigília Vermelha está monitorando ficaram mais frequentes desde CF 4.245. A reunião de análise para CF 4.248 pode produzir uma conclusão que mude a postura operacional da Vigília — o que afeta o que estão disposta a compartilhar e com quem.
 
-> [!danger] Segredo do Narrador
-> Os sons não estão acelerando porque o Véu está enfraquecendo. Estão acelerando porque o que está no Abismo está respondendo — o Abismo "ouviu" o padrão energético da Batalha das Chamas (onde Varroth e Solaren se manifestaram com máxima intensidade) e está amplificando-o como forma de comunicação. As Câmaras de Ecos são um tipo de linha telefônica com o Abismo. E o Abismo está ligando com mais frequência.
 
 > [!tip] Gancho de Aventura
 > Permanecer nas Câmaras durante uma sequência de sons requer teste de resistência — a intensidade da energia residual é fisicamente desconfortável. Personagens que consigam permanecer podem ouvir variações nos padrões que os documentos escritos não capturam. Alguém com sensibilidade ao Fio Vazio pode ouvir algo além dos sons da batalha.

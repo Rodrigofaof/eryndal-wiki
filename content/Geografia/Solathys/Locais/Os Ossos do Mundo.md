@@ -52,12 +52,6 @@ status: "Ativo — tremores crescentes desde CF 4.245"
 > [!warning] O Pico das Chamas
 > Nenhum mapa mostra o caminho completo até o Pico das Chamas. Os [[Filhos de Korreth]] o conhecem mas não o ensinam a forasteiros. A última expedição independente a tentar chegar ao cume foi em CF 4.180. Três expedicionários, todos experientes. Voltaram dois. O sobrevivente que fez o relatório escreveu apenas: *"O pico reconhece quem tem sangue do Pacto. Para os outros, mostra apenas o que mostrar não custa nada."* Recusou elaborar.
 
-> [!danger] O Que os Tremores São
-> O Conselho dos Ancien tem uma hipótese não documentada formalmente: os tremores não são Korreth acordando. São o que está nas [[As Raízes|Raízes]] respondendo à pressão de [[A Fratura]] — e Os Ossos, sendo pedra de Varroth construída sobre o mesmo subsolo, transmitem essa vibração para a superfície como caixa de ressonância involuntária.
->
-> Se a hipótese estiver correta: o que os [[Filhos de Korreth]] interpretam como seu ancestral dracônico acordando é na verdade a entidade nas Raízes se movendo. E eles estão no pico de maior concentração do Fio de Ferro em Eryndal, sincronizando com esse ritmo, acreditando que é Korreth chamando.
->
-> O sangue do Pacto de Korreth era um fragmento do Vazio. Varroth tentou vinculá-lo à criação mortal. Se o Vazio está chamando o Vazio de volta, o Pacto de CF 800 pode estar fazendo exatamente o contrário do que Varroth pretendia.
 
 ---
 

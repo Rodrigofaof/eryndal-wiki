@@ -63,10 +63,6 @@ alinhamento: "Varroth — força e honra de combate"
 
 ---
 
-> [!danger] Segredo do Narrador
-> Korreth não é uma criação de [[Varroth]]. É um fragmento do Vazio — capturado pelos seis deuses no CF 0 e enganado para habitar o corpo de um dragão primordial como forma de contenção. O pulso que os Filhos sentem não é Korreth "acordando" — é [[Azúrael]] tentando separar o fragmento Vazio de dentro de Korreth para usá-lo no Abismo.
->
-> Os três membros que realizaram os rituais parciais de "Entrega" não são vasos de Korreth. São receptores da comunicação Azúrael-fragmento. O que "ouvem" são fragmentos da intenção de Azúrael, filtrados pela identidade de Korreth — distorcidos, mas reconhecíveis por quem soubesse o que procurar.
 
 ---
 

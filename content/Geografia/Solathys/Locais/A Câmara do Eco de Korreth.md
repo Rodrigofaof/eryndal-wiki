@@ -38,8 +38,6 @@ status: "Ativo/Acesso Restrito"
 > [!warning] Tensões Ativas
 > O segundo pulso foi relatado por Liath ao [[Arauto Brenn]], que escolheu não compartilhar com o grupo completo dos Filhos. A razão de Brenn: o segundo pulso não corresponde à teologia dos Filhos — que prevê Korreth acordando, não Korreth respondendo a algo externo. Compartilhar vai dividir o grupo entre quem aceita a revisão e quem recusa.
 
-> [!danger] Segredo do Narrador
-> O segundo pulso é Azúrael respondendo ao pulso de Korreth — porque Korreth está descendo em direção ao Abismo, não acordando para cima. A câmara amplifica ambos porque a formação rochosa é pedra preta misturada à rocha local, e a pedra preta conduz tanto Fio de Ferro quanto Fio Vazio. Quem entrar na câmara com sensibilidade ao Fio Vazio ([[Tharen Olho-Vivo]], [[Isael de Grath-Nor]], [[Vael Pedra-Preta]]) vai ouvir o segundo pulso mais claramente do que o primeiro — e vai entender que ele vem de baixo.
 
 > [!tip] Ganchos de Aventura
 > - [[Gorrath Marca-de-Pedra]] sentiu o pulso vindo de baixo na câmara em CF 4.246 e não reportou. Por quê? Porque o que veio de baixo não era o pulso esperado — era uma palavra. Uma palavra que reconhece mas não entende.

@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
----
----
 tags: [geografia, arquipélago, mistério, a-fratura]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
 banner_y: 0.4
@@ -54,8 +51,6 @@ descoberto: "CF 4.244"
 
 ## 🔗 Conexão com A Fratura
 
-> [!danger] Correlação documentada
-> O [[Conselho dos Ancien]] confirmou: **cada nova ilha alcançada gera um novo ponto de [[A Fratura]] em [[Solathys]]**. Essa informação está classificada há dois anos.
 
 ---
 

@@ -70,8 +70,6 @@ Morreu no CF 3.953. O filamento continuou porque já estava enraizado fundo dema
 > [!question] Mistério em Aberto
 > Por que A Pedra-Âncora de Véspera ficou mais exigente desde CF 4.245 — o início de [[A Fratura]]? Vessa acredita que a pedra está *respondendo* às Fraturas do Véu, tentando compensar automaticamente. Se ela estiver certa, a pedra pode ser uma chave para entender onde as Fraturas são mais graves.
 
-> [!danger] Segredo do Narrador
-> A Pedra-Âncora não está apenas respondendo às Fraturas — está tentando alcançar outros pontos da rede de ancoragem que Essel das Cinzas planejou mas nunca completou. No CF 3.953, quando ela morreu, havia quatro pontos planejados para âncoras similares ao longo da fronteira. Apenas um foi concluído. Os outros três pontos ainda existem como "slots vazios" na rede — locais onde o solo tem uma qualidade diferente, onde plantas curiosamente resistem às Terras Cinzentas por alguns metros extras. Se as outras três pedras fossem criadas, a rede completa poderia criar uma barreira permanente contra a expansão das Terras Cinzentas. A pedra atual está tentando alcançar esses pontos porque A Fratura está acelerando a expansão cinza em toda a fronteira.
 
 ---
 

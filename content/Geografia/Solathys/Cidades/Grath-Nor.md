@@ -39,8 +39,6 @@ governante: "O Círculo das Memórias (5 Anciãos Inferis)"
 >> > [!warning] Após a Declaração
 >> > Grath-Nor recebe cada vez menos navios comerciais desde CF 4.150. A Igreja bloqueou formalmente rotas de suprimento. A cidade sobrevive com pesca e aquicultura — os Inferis são mais autossuficientes do que a Igreja calculou.
 >>
->> > [!danger] O Poço
->> > O poço no centro de Grath-Nor existia antes dos primeiros [[Inferis]] chegarem à ilha. Profundidade desconhecida. Nenhuma corda alcançou o fundo. Desde A Fratura, uma luz fraca — não solar, não lunar — emana dele durante a noite.
 >
 >> [!col-img]
 >> ![grath-nor](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865239/grath-nor.png)
@@ -64,8 +62,6 @@ governante: "O Círculo das Memórias (5 Anciãos Inferis)"
 
 ---
 
-> [!danger] Segredo do Narrador
-> O Poço de Grath-Nor é uma das poucas conexões naturais com o Abismo Sem Fim que existem em Eryndal — não criada por A Fratura, mas **antiga**. O que a Vigília Vermelha descobriu em 48 horas é que a luz que emana do Poço não é da Fratura. É anterior. E que os [[Inferis]] de Grath-Nor sabem disso há séculos — e estiveram aguardando o momento certo para contar.
 
 > [!tip] Ganchos de Aventura
 > - Yssa quer fazer contato com aventureiros para entregar informação sobre o Poço à [[Vigília Vermelha]] — mas não pode sair da ilha sem ser perseguida pela Igreja

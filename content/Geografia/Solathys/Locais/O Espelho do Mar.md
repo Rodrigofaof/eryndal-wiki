@@ -45,8 +45,6 @@ status: "Ativo / Anomalia"
 >> | **Descoberto** | CF 3.750 |
 >> | **Extensão** | ~2 km² |
 
-> [!danger] Segredo do Narrador
-> O Espelho do Mar é um ponto de visibilidade bidirecional: de Eryndal, se pode ver o Abismo. Do Abismo, se pode ver Eryndal. Azúrael usa esse ponto para observar o plano mortal — não para agir, porque o Véu ainda impede interação direta, mas para observar. O evento de CF 4.246 no Templo das Chamas ("O Céu de Duas Estrelas") foi a versão em grande escala do que acontece constantemente no Espelho do Mar: Azúrael está olhando para cima.
 
 > [!tip] Gancho de Aventura
 > Uma embarcação parada no centro do Espelho do Mar pode tentar comunicação com o que está refletido — não fisicamente, mas através do Fio Vazio ou de rituais de Morthus que atravessam os planos. O risco: não é apenas visão. É contato.

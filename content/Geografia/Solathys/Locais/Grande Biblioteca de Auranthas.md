@@ -55,10 +55,6 @@ status: "Ativo — acesso parcialmente restrito"
 > [!warning] Tessara Venn
 > [[Tessara Venn]] foi archivista do Acervo Restrito entre CF 4.215 e CF 4.231, quando foi demitida por "irregularidades no inventário". Ela tem memória fotográfica de tudo que passou pelo inventário nesse período — incluindo o símbolo de [[Azúrael]] encontrado nas ruínas da [[Costa do Esquecimento]] que a Igreja catalogou e depois negou ter recebido. Ela opera uma loja de antiguidades em Auranthas. Varath sabe onde ela está.
 
-> [!danger] O Que Está Sendo Apagado
-> As páginas removidas documentam menções ao Arquipélago das Brumas em textos anteriores a CF 4.100. Se essas referências existiam — e Varath confirma que existiam, pois as leu — significa que o Arquipélago era conhecido antes de Davar "descobri-lo" em CF 4.244. E se era conhecido, alguém sabia de sua existência e escolheu não tornar esse conhecimento público.
->
-> A [[Igreja de Solaren]] tem motivos para esse apagamento: os documentos internos da Igreja, que [[Tessara Venn]] catalogou, incluem menção a um símbolo de [[Azúrael]] nas ruínas da Costa do Esquecimento. Se o Arquipélago é a contra-criação de Azúrael, e a Igreja sabia disso, a posição pública da Igreja sobre Azúrael — "aprisionado, inerte, sem relevância atual" — seria falsidade documentada.
 
 ---
 

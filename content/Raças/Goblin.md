@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865232/goblin-retrato.jpg"
----
----
 tags: [raça, graüns, ancestralidade, daggerheart, nyxara, goblins]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865232/goblin-retrato.jpg"
 banner_y: 0.4

@@ -53,14 +53,6 @@ alinhamento: "Proteção de Eryndal através do conhecimento proibido"
 
 ---
 
-> [!danger] O Que Eles Sabem
-> A Vigília possui o maior acervo de conhecimento sobre o Fio Vazio de Eryndal — incluindo:
-> - Mapas de distribuição de Fio Vazio em Solathys e regiões além
-> - Cópias dos escritos de [[Serath o Exilado]] (presumidamente)
-> - Análises dos efeitos do Fio Vazio em mortais expostos
-> - Uma teoria sobre *o que* exatamente [[Azúrael]] deixou para trás quando foi aprisionado
->
-> Essa última teoria está selada em um arquivo que só A Voz pode acessar. O título do arquivo, visível no índice geral, é: **"A Marca Não É o Mundo. É o Que Está Embaixo."**
 
 ---
 

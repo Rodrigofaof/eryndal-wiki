@@ -38,8 +38,6 @@ status: "Ativo/Perigoso"
 > [!warning] Tensões Ativas
 > A expansão do Claro é a primeira vez que a pedra preta avança em área na floresta. Bren não tem referência para o que isso significa — se é aceleração normal do que sempre foi lento, ou mudança qualitativa. [[Dwen das Raízes]] acredita que é mudança qualitativa.
 
-> [!danger] Segredo do Narrador
-> O Claro de Pedra é, em escala cosmológica, o ponto mais próximo da superfície de Eryndal ao que Azúrael é: a pedra preta é o próprio material do Abismo manifestando-se no plano mortal através dos pontos mais fracos do Véu. O Claro expande porque o Véu afina com A Fratura. A criatura que ficou: não está parada — está em comunicação vertical, servindo de relé entre o Abismo e os pontos de chegada na costa. O Claro é o equivalente florestal do [[O Cruzamento das Correntes]]: um ponto de contato entre os planos que Azúrael usa ativamente.
 
 > [!tip] Ganchos de Aventura
 > - [[Kor Dente-de-Pedra]] precisa de pedra preta de origem não-catalogada para o segundo componente de sua liga. O Claro tem afloramento natural — mas remover pedra preta do Claro é o tipo de coisa que a floresta pode responder de formas imprevisíveis.

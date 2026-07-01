@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
----
----
 tags: [crônicas, era-atual, presente]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
 banner_y: 0.5
@@ -21,14 +18,10 @@ banner_y: 0.5
 > [!warning] [[Arquipélago das Brumas]]
 > Três expedições desaparecidas. Uma base na Ilha Cinza. A [[Irmandade da Bruma]] continua enviando gente. A Igreja quer controle exclusivo. O [[Conselho dos Ancien]] quer respostas.
 
-> [!danger] [[Terras Cinzentas]]
-> As [[A Fratura|Fraturas]] são visíveis a olho nu. Clãs guerreiros mobilizando — não em guerra, mas em preparação. Para o quê, nenhum clã especificou.
 
 > [!warning] [[Floresta de Vyr]]
 > Conflito crescente com o desmatamento naval. Um grupo de [[Faun]] e [[Firbolg]] desapareceu misteriosamente para dentro da floresta.
 
-> [!danger] Nas Raízes
-> O [[Clã de Pedra]] está quieto. Muito quieto. Os [[Fungril]] estão subindo.
 
 ---
 

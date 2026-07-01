@@ -46,10 +46,6 @@ Vyr é mais do que uma floresta — é uma **extensão viva de [[Elyndra]]**. O 
 
 ## ⚠️ Crise Atual
 
-> [!danger] A Floresta Vai Reagir
-> Um ataque a lenhadores aconteceu na última lua. Nenhum habitante assumiu responsabilidade. A floresta não disse nada.
->
-> Os [[Firbolg]] estão sumindo — grupos inteiros simplesmente não estão mais lá. Os [[Simiah]] documentaram tudo. E a [[Elyndra]] está com raiva silenciosa.
 
 ---
 

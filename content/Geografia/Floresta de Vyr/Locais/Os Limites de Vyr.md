@@ -37,8 +37,6 @@ status: "Ativo/Perigoso"
 > [!warning] Tensões Ativas
 > As rachaduras por onde as criaturas emergem estão ficando maiores. Bren teme que eventualmente o que emerge não seja criatura — seja o que as criaturas estão evitando, que está sendo comprimido para cima pelo que acontece no Abismo abaixo.
 
-> [!danger] Segredo do Narrador
-> As rachaduras não são abertas pelas criaturas — são abertas pela pressão do Abismo que cresce à medida que A Fratura progride. O que está comprimindo: a contenção original do Véu, que nas Raízes tem camada física de pedra que está literalmente rachando. Quando as rachaduras nos Limites atingirem um metro de largura — aproximação: CF 4.249-4.251 — o que sobe não será criatura de pedra. Será o próprio subsolo do Abismo tornando-se Eryndal.
 
 > [!tip] Ganchos de Aventura
 > - Uma das criaturas parou nos Limites e não continuou. Está em espera — por quê? O que está esperando que ainda não chegou?

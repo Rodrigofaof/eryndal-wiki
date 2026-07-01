@@ -1,7 +1,4 @@
 ---
-banner: "[[faerie-retrato.png]]"
----
----
 tags: [raça, fadais, ancestralidade, daggerheart, filamentos, fadas]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865179/faerie-retrato.png"
 banner_y: 0.4

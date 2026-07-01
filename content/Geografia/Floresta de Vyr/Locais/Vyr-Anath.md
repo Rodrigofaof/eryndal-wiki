@@ -52,10 +52,6 @@ status: "Soterrado sob a Floresta de Vyr"
 > [!question] A Biblioteca Perdida
 > Quatro mil duzentos e oitenta e oito volumes ficaram sob a floresta. A pedra da floresta preserva — a umidade não penetra, a temperatura se mantém. Há alta probabilidade de que parte significativa da biblioteca ainda esteja legível, se alguém conseguisse chegar às câmaras inferiores onde a biblioteca estava armazenada. Ninguém tentou em dois mil anos.
 
-> [!danger] Segredo do Narrador
-> [[Velmira das Raízes]] ainda vive na floresta. Ela sabe onde estão as câmaras de Vyr-Anath. A mensagem que Elyndra enviou a Sylara — *"a floresta não pode proteger o mundo, mas pode proteger o que o mundo vai precisar depois"* — se refere, na interpretação de Velmira, ao conteúdo da biblioteca. Especificamente ao setor que ela não conseguiu alcançar antes da queda: a seção dos textos de Elyndra, onde a deusa havia ditado, entre CF 800 e CF 900, suas observações sobre o que existia abaixo do Limiar de Pedra.
->
-> Os textos que o [[Conselho dos Ancien]] tem são cópia incompleta. Os originais estão em Vyr-Anath.
 
 ---
 

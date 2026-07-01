@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865256/igreja-solaren.jpg"
----
----
 tags:
   - facção
   - igreja
@@ -52,8 +49,6 @@ A solução de Aldren Vaux: **controlar** a exploração, não bloqueá-la. Colo
 
 ---
 
-> [!danger] Segredo Interno
-> A Igreja sabe da [[Costa do Esquecimento]]. O Alto Sacerdote tem uma equipe lá há dois anos. Ainda não informou o que encontrou nem mesmo ao Conselho Eclesial.
 
 ---
 

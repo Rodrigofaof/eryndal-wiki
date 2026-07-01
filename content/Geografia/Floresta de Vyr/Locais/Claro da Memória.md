@@ -33,8 +33,6 @@ guardiao: "Sylara, Anciã dos Faun"
 >> > [!warning] A floresta está inquieta
 >> > Desde A Fratura, o Claro da Memória está manifestando algo novo: no centro do claro, uma área de grama de três metros de diâmetro cresceu dourada — não amarela, *dourada*. Como se Solaren e Elyndra estivessem tocando o mesmo ponto ao mesmo tempo. Os [[Firbolg]] estão preocupados. Os [[Faun]] estão aterrorizados.
 >>
->> > [!danger] A mensagem de Elyndra
->> > Sylara recebeu, três dias atrás, a comunicação mais clara de Elyndra em séculos — não em palavras, mas em imagem: a floresta se contraindo. Se enrolando ao redor de algo no centro. Como uma criatura se preparando para absorver um golpe.
 >
 >> [!col-img]
 >> ![claro-da-memoria](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865106/claro-da-memoria.png)

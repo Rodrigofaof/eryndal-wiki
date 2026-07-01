@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
----
----
 tags: [local, arquipélago-das-brumas, ilhas, azúrael, vazio]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
 banner_y: 0.4
@@ -46,8 +43,6 @@ status: "Explorado parcialmente / Perigoso"
 >> | **Área** | ~18 km² |
 >> | **Ruínas** | ~60% da superfície |
 
-> [!danger] Segredo do Narrador
-> A Quinta Ilha é o ponto de concentração mais alto da contra-criação de Azúrael no plano mortal. As câmaras mais profundas são literalmente a borda do fragmento — o ponto onde o plano mortal e o estado anterior à criação se tocam sem que o Véu intervenha diretamente. Entrar nas câmaras mais profundas é entrar num lugar que existe simultaneamente em Eryndal e no fragmento. Por isso a geometria não funciona: o espaço é dois lugares ao mesmo tempo.
 
 > [!question] Mistério em Aberto
 > Para quem foram construídas as estruturas de quatro metros de altura? A contra-criação de Azúrael nunca teve habitantes conhecidos — ele foi aprisionado antes de terminar sua obra. O que estas ruínas são, então? Construções de uma civilização que nunca existiu no plano mortal? Ou a materialização de algo que Azúrael projetou mas nunca habitou?

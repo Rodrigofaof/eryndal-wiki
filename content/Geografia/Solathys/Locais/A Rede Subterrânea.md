@@ -38,8 +38,6 @@ status: "Ativo/Secreto"
 > [!warning] Tensões Ativas
 > A [[Vigília Vermelha]] sabe da existência da Rede mas não do mapa completo. Tem dois agentes que entraram na Rede a convite e que reportam estrutura mas não localização específica. A Igreja não sabe que a Rede existe — a Vigília não compartilhou porque compartilhar implicaria revelar que monitora os Sussurradores.
 
-> [!danger] Segredo do Narrador
-> A câmara mais profunda da Rede em Auranthas — sete metros abaixo do resto, acessível por trapdoor que a maioria dos membros não sabe que existe — contém o original da mensagem de Nyxara de CF 1.620. Não é cópia, não é transcrição — é o que foi escrito imediatamente após os dezessete Sussurradores receberem a visão simultânea. Está em dezessete versões diferentes do mesmo texto. Dezesseis versões dizem o mesmo. A décima sétima tem uma frase a mais que as outras. A frase a mais: "a porta pode ser aberta de dentro".
 
 > [!tip] Ganchos de Aventura
 > - [[Cael Branco]] pode facilitar acesso a um dos pontos de encontro da Rede onde "Os que perguntam" se reúne. O que os personagens podem oferecer em troca: informação verificada sobre o Arquipélago.

@@ -62,8 +62,6 @@ alinhamento: "Cada ferida é uma história — as cicatrizes de A Fratura precis
 > [!tip] Gancho de Aventura
 > Os Marcados chegaram a uma Fratura ativa que está além da sua capacidade de documentar com segurança — um ponto onde o Fio Vazio é tão denso que deixa qualquer pessoa inconsciente após dois minutos de exposição. Precisam de alguém com resistência mágica ou equipamento adequado para entrar, observar e sair com dados.
 
-> [!danger] Segredo do Narrador
-> **Torath do Grito-Longo** tem uma memória que não é dele — desde que entrou em contato próximo com uma Fratura severa três meses atrás, às vezes tem flashes de uma perspectiva que não reconhece. A perspectiva é de cima, muito acima, olhando para baixo para um mundo que é simultaneamente Eryndal e não é. O que a perspectiva está procurando, ele não sabe. Mas está ficando mais frequente, e começou a aparecer quando está acordado.
 
 ---
 

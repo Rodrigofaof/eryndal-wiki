@@ -61,8 +61,6 @@ alinhamento: "A floresta lembra o que os mortais esquecem — eles são seus arq
 > [!tip] Gancho de Aventura
 > As Raízes que Lembram raramente pedem ajuda externa. Estão pedindo agora — precisam de alguém que entre no ponto onde o Fio Verde cessa e volte para contar o que há lá. Firbolg que tentaram não voltaram. Ou voltaram diferentes.
 
-> [!danger] Segredo do Narrador
-> **Seren-de-Vyr** é velho o suficiente para ter estado presente em CF 89 quando a floresta começou. Ele não é um Firbolg que entrou na floresta e ficou — ele *é* a floresta parcialmente. Essa fusão é o que permite sua longevidade absurda. A imagem que Fen trouxe não era profecia: era uma memória de Seren. A floresta mostrou o que aconteceu quando [[Azúrael]] foi aprisionado. A quebra foi real, ocorreu no plano das raízes, e ainda não foi reparada.
 
 ---
 

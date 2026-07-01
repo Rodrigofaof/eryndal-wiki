@@ -63,8 +63,6 @@ alinhamento: "Invisibilidade por utilidade — quem conserta as máquinas ouve a
 > [!tip] Gancho de Aventura
 > A Engrenagem tem um técnico desaparecido em [[Groven Profundo]] — **[[Fex do Vapor]]**, que foi installar equipamento no segundo nível e não voltou. Vrex quer que alguém vá buscá-la. O que ninguém sabe: Fex foi ao terceiro nível por conta própria depois de ouvir algo.
 
-> [!danger] Segredo do Narrador
-> **Krix da Gaveta-Secreta** mantém um arquivo paralelo ao da Engrenagem — um que **Vrex** não sabe que existe. Esse arquivo contém evidências de que três membros da Engrenagem foram contactados diretamente por entidades que nenhum deles consegue identificar nos sonhos. Os contatos têm um padrão: ocorrem sempre que a pessoa passa perto de um ponto de Fratura. Krix não sabe se deve interpretar isso como ameaça ou recrutamento.
 
 ---
 

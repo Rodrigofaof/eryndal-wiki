@@ -72,10 +72,6 @@ alinhamento: "Soberania marítima, equilíbrio entre raças"
 
 ---
 
-> [!danger] Segredo do Narrador
-> A Voz desaparecida foi levada pela Sétima Ilha — não fisicamente, mas sua consciência foi "visitada" durante os 14 dias. O que está na Sétima Ilha usou esses 14 dias para aprender tudo sobre a Confederação: estrutura, nomes, rotas, votos do Conselho. Os mapas que a Voz desenha nos muros são mapas de correntes que a Sétima Ilha usará para chegar ao continente quando estiver pronta.
->
-> [[Thalris]] sabe. Está em silêncio porque não pode agir diretamente — Pacto do Véu. Mas [[Lira das Águas]] está indo à Sétima Ilha, e Thalris vai garantir que ela chegue. O que acontece depois é com ela.
 
 ---
 

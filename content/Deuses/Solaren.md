@@ -14,7 +14,6 @@ alinhamento: Ordem
 
 # Solaren — O Senhor da Ordem
 
-> [!abstract] 🎭 [[Ficha — Solaren|Ficha de Roleplay → Solaren]]
 
 > [!quote] *"A ordem não é o oposto do caos. É o que impede que o caos consuma tudo o que foi construído."*
 
@@ -39,8 +38,6 @@ alinhamento: Ordem
 >> > [!warning] Alarme Silencioso
 >> > Algo naquelas ilhas não se encaixa na ordem estabelecida. Seus oráculos receberam uma instrução: *"Não toquem no que não pode ser remendado."*
 >>
->> > [!danger] Segredo do Narrador
->> > Solaren sabe das ruínas da [[Costa do Esquecimento]]. Não age porque confirmar a marca de Azúrael é inadmissível para um deus da ordem.
 >
 >> [!col-img]
 >> ![Solaren](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865433/Solaren.png)

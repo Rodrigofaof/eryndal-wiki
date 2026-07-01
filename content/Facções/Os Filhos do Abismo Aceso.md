@@ -62,8 +62,6 @@ alinhamento: "Conhecimento como sobrevivência — a ignorância sobre Azúrael 
 > [!tip] Gancho de Aventura
 > Os Filhos precisam de alguém que acesse o [[O Abismo Sem Fim]] de forma controlada e volte — ou pelo menos que consiga falar com alguém que já foi e voltou. Estão dispostos a compartilhar tudo o que sabem sobre a geometria do Vazio em troca de um testemunho direto. Acreditam que **[[Mira Soren]]**, onde quer que esteja, pode ter informações relevantes.
 
-> [!danger] Segredo do Narrador
-> **Dael das Marcas-Internas** descobriu um padrão nas marcas de nascença dos Inferis: elas não são aleatórias. São sequenciais. Cada geração de Inferis carrega uma porção de um símbolo maior. Quando todas as porções forem reunidas no mesmo local, o símbolo se completará. Dael tem 80% do símbolo mapeado. Não sabe o que acontece quando completa. Não contou para os outros membros porque a implicação é perturbadora: os Inferis não foram criados por Azúrael. Foram criados *para* alguma coisa específica.
 
 ---
 

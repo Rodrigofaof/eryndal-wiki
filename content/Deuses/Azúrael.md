@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865061/azurael.png"
----
----
 tags: [deus, azúrael, vazio, aprisionado, mistério]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865061/azurael.png"
 banner_y: 0.5
@@ -13,9 +10,7 @@ alinhamento: "Destruição"
 
 # Azúrael — O Deus Esquecido
 
-> [!abstract] 🎭 [[Ficha — Azúrael|Ficha de Roleplay → Azúrael]]
 
-> [!danger] Aviso ao Narrador — As informações abaixo são o que os PJs *podem descobrir*. A verdade completa pertence às notas separadas do Narrador.
 
 > [!grid]
 >> [!col]
@@ -30,8 +25,6 @@ alinhamento: "Destruição"
 >> ## 🔮 O Que Está Acontecendo
 >> Desde [[A Fratura]], pesquisadores notaram padrões nos pontos de ruptura. Quando mapeados juntos, formam uma forma. Quem tentou identificá-la não terminou o mapa.
 >>
->> > [!danger] A Teoria Mais Aceita
->> > Azúrael não está tentando *escapar* do Abismo. Está tentando *trazer o Abismo para cá*.
 >>
 >> ## 🎲 Ganchos
 >> > [!tip] Para investigar

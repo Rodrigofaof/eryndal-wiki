@@ -41,8 +41,6 @@ status: "Ativo / Acesso Restrito"
 >> | **Temperatura** | 44°C (anormal) |
 >> | **Som** | Periódico, 4-8 segundos de intervalo |
 
-> [!danger] Segredo do Narrador
-> O som é Korreth respondendo ao chamado de Azúrael — o pulso que os Filhos de Korreth sentem no sangue tem origem física neste ponto de Groven, que está diretamente acima do ponto mais profundo das câmaras de Brenn e, por conseguinte, da camada de rocha de contra-criação que toca o Abismo. A Câmara do Pulso é o microfone que transmite o que está acontecendo no Abismo para a superfície. Quem souber ouvir pode discernir não apenas que há movimento — mas em que direção.
 
 > [!question] Mistério em Aberto
 > O diário pessoal do morador mais antigo do entorno documenta o som desde CF 4.200. Antes de CF 4.200, não há registro — mas isso pode ser ausência de registros, não ausência do som. Quando o som começou?

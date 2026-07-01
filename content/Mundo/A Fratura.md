@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782864893/a-fratura.png"
----
----
 tags: [crônicas, a-fratura, mistério, conflito-central]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782864893/a-fratura.png"
 banner_y: 0.4
@@ -14,8 +11,6 @@ banner_y: 0.4
 
 ---
 
-> [!danger] AMEAÇA ATIVA — CF 4.245 ao presente
-> A Fratura é o fenômeno mais perigoso que Eryndal enfrenta desde as Guerras Divinas. Está se espalhando. Ninguém concorda sobre como parar.
 
 ---
 

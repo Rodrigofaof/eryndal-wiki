@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865488/Varroth.png"
----
----
 tags:
   - deus
   - varroth
@@ -17,7 +14,6 @@ alinhamento: Conflito
 
 # Varroth — O Deus da Guerra
 
-> [!abstract] 🎭 [[Ficha — Varroth|Ficha de Roleplay → Varroth]]
 
 > [!quote] *"Um mortal que sobrevive ao combate merece o que conquistou. Simples assim."*
 
@@ -41,8 +37,6 @@ alinhamento: Conflito
 >> > [!warning] Impaciente
 >> > A Era da Descoberta é, para ele, uma era de *hesitação*. Os mortais encontraram terras novas e constroem comitês.
 >>
->> > [!danger] Segredo do Narrador
->> > A batalha do CF 2.087 deixou a essência de Korreth presa nas [[Terras Cinzentas]]. [[A Fratura]] está reativando essa essência.
 >
 >> [!col-img]
 >> ![Varroth](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865488/Varroth.png)

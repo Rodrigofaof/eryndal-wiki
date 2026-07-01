@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782864893/a-fratura.png"
----
----
 tags: [mundo, cosmologia, planos, véu, abismo]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782864893/a-fratura.png"
 banner_y: 0.4
@@ -53,8 +50,6 @@ As teorias sobre a causa, em ordem de circulação pública:
 2. [[Azúrael]] está exercendo pressão de dentro do Abismo
 3. O Véu enfraquece em ciclos naturais
 
-> [!danger] O Que o Narrador Sabe
-> As três teorias são parcialmente corretas e incompletas. O Arquipélago é o maior fragmento da contra-criação de [[Azúrael]] — o que ele tentou construir antes de ser aprisionado. Explorar as ilhas reativou os nós de ancoragem da contra-criação, que por sua vez exercem pressão sobre o Véu de dentro do plano mortal. Azúrael não está forçando de fora — está esperando que o Véu ceda por si mesmo, alimentado pelas almas que estão sendo absorvidas pelo fragmento desde CF 4.246. O enfraquecimento não é cíclico. É progressivo e intencional.
 
 ---
 

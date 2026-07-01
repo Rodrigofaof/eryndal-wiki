@@ -37,8 +37,6 @@ governante: "Conselho dos Armadores (7 membros)"
 >> > [!warning] A Irmandade vs a Liga
 >> > A [[Irmandade da Bruma]] expandiu suas docas privadas e está cortando a [[Liga do Porto]] de informações sobre as expedições ao Arquipélago. A Liga está financiando investigadores privados.
 >>
->> > [!danger] O Navio de Vael
->> > O navio da expedição perdida de CF 3.950 está ancorado no estaleiro da Irmandade desde CF 4.050. Nenhum pesquisador que o examinou por mais de dois dias ficou igual. O mais recente pediu demissão do cargo e não explicou por quê.
 >
 >> [!col-img]
 >> ![porto-das-bandeiras](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865377/porto-das-bandeiras.png)

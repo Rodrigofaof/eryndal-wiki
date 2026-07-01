@@ -36,8 +36,6 @@ governante: "Memorialista de Ferro (cargo rotativo dos Filhos de Korreth)"
 >> > [!warning] Mobilização silenciosa
 >> > Os [[Filhos de Korreth]] começaram a trazer mais guerreiros para o Templo nas últimas semanas. Não anunciaram por quê. Cinzaferra está ficando lotada. As rações estão sendo racionadas.
 >>
->> > [!danger] As Fraturas próximas
->> > As rachaduras no Véu são visíveis a olho nu nas Terras Cinzentas — e nos últimos dias, a mais próxima de Cinzaferra avançou 200 metros em direção ao assentamento. O Posto da Névoa registrou isso. Ninguém foi informado do avanço exceto o Memorialista de Ferro.
 >
 >> [!col-img]
 >> ![cinzaferra](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865099/cinzaferra.png)

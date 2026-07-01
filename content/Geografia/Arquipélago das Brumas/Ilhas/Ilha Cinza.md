@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865258/ilha-cinza.png"
----
----
 tags: [local, arquipélago, ilha, irmandade, perigoso]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865258/ilha-cinza.png"
 banner_y: 0.4
@@ -40,8 +37,6 @@ descoberta: "CF 4.244"
 >> > [!warning] Efeito nos pesquisadores
 >> > Membros da base que ficam mais de 30 dias na ilha começam a apresentar padrão de sonhos mais intensos. Após 60 dias, dificuldade de distinguir sonho de vigília. A Comandante Nox está há 4 meses. Ela não relatou nenhum efeito. Os outros membros da base relatam que ela às vezes conversa com pessoas que não estão presentes.
 >>
->> > [!danger] A Sala Lacrada
->> > Contém seis objetos retirados das ruínas que produziram efeitos indesejáveis quando manuseados. O mais recente: uma pedra translúcida que, ao ser tocada, faz o tocador ver o mundo como se fosse antes da criação. Todos os seis tocadores recuperaram-se. O sétimo não tocou — viu pelos olhos do sexto e ficou em coma por três dias.
 >
 >> [!col-img]
 >> ![ilha-cinza](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865258/ilha-cinza.png)
@@ -66,8 +61,6 @@ descoberta: "CF 4.244"
 
 ---
 
-> [!danger] Segredo do Narrador
-> A névoa mais fina na Ilha Cinza não é natural e não é acidental. As ruínas da ilha contêm o equivalente a uma "sala de entrada" — um espaço projetado para receber visitantes. A ilha foi *preparada* para ser encontrada primeiro. As outras seis ilhas têm funções diferentes.
 
 > [!tip] Ganchos de Aventura
 > - A Dra. Fenris quer enviar um relatório confidencial para o [[Conselho dos Ancien]] sem que a Irmandade saiba — ela documentou coisas que a Comandante Nox pediu para não registrar

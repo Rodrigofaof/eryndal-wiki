@@ -38,8 +38,6 @@ status: "Ativo/Secreto"
 > [!warning] Tensões Ativas
 > Um dos três artefatos de pedra preta está respondendo a estímulo externo — pulsando em ritmo que não corresponde a nenhum Filamento mas que [[Riven Mão-Fria]] reconhece como correlato ao ritmo de Korreth. A câmara foi construída para neutralizar o Fio Vazio — não foi construída para conter resposta de artefato de origem desconhecida.
 
-> [!danger] Segredo do Narrador
-> O artefato que pulsa é um fragmento da estrutura de aprisionamento de Azúrael — não um fragmento de Azúrael em si, mas de o que mantinha Azúrael contido. O aprisionamento estava se desfazendo desde CF 0 (processo lento e inevitável). O fragmento está respondendo ao pulso de Korreth porque os dois eram partes do mesmo sistema: Korreth era a corrente; o aprisionamento era o cadeado. Quando Korreth for completamente ao Abismo, o cadeado abre — não por força, por obsolescência.
 
 > [!tip] Ganchos de Aventura
 > - [[Tess Fio-Partido]] sabe o layout. Entrar na câmara sem autorização da Vigília: seria espionagem de uma organização que monitora ameaças existenciais ao plano mortal. Mas o que está dentro precisa ser entendido antes que a situação torne a câmara irrelevante.

@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865264/inferis-retrato.jpg"
----
----
 tags: [raça, abissinos, ancestralidade, daggerheart, fratura, abismo]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865264/inferis-retrato.jpg"
 banner_y: 0.4

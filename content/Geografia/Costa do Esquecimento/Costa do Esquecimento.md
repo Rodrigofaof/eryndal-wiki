@@ -36,10 +36,6 @@ A costa oeste de [[Solathys]] tem um problema: as ruínas que existem lá não d
 
 ## 🔮 A Teoria Principal
 
-> [!danger] Pré-Eryndal
-> A teoria mais aceita entre os poucos que sabem é que essas estruturas foram construídas por **[[Azúrael]]** antes do aprisionamento — no período em que tentava criar sua contra-criação.
->
-> O que estava no templo pode ter sido a *marca* que ele deixou no mundo. Se foi removida — por quem, quando, e para onde — são perguntas sem resposta.
 
 ---
 

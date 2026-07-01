@@ -62,8 +62,6 @@ alinhamento: "Da altura certa, padrões invisíveis ao nível do solo tornam-se 
 > [!tip] Gancho de Aventura
 > Os Observadores têm um mapa de movimentos que cobre os últimos doze meses em toda Solathys — fauna, névoa, luz anômala, padrões climáticos. Estão dispostos a compartilhar o mapa completo com qualquer grupo que confirme ou refute a tese de Brel — e que consiga obter medições do fundo do oceano abaixo do Arquipélago.
 
-> [!danger] Segredo do Narrador
-> **Maren do Olho-Distante** ficou nos pontos de altitude mais altos durante [[A Fratura]] de CF 4.245. Da altitude onde estava, viu algo que não consegue descrever adequadamente: por um momento, a superfície de Eryndal ficou translúcida, e ele conseguiu ver através do chão como se fosse água. O que viu abaixo — estruturas, movimento, padrões geométricos — não corresponde a nada que existe no registro mortal de Eryndal. Ele não sabe se o que viu era real ou alucinação. Não contou para ninguém porque se foi alucinação, é um problema médico; se foi real, é um problema existencial.
 
 ---
 

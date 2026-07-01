@@ -62,8 +62,6 @@ alinhamento: "Paciência como metodologia — o oceano conta a história em séc
 > [!tip] Gancho de Aventura
 > Os Vigias precisam de uma equipe para realizar medições no quinto e sétimo pontos de convergência — locais no oceano que nenhum membro consegue alcançar sozinho. Oferecem, em troca, informações completas de navegação para qualquer destino em Eryndal, incluindo rotas que a [[Irmandade da Bruma]] não conhece.
 
-> [!danger] Segredo do Narrador
-> **Vessen do Mar-Profundo** mergulhou há três meses para coletar amostras de fundo próximo à quinta ilha. Não voltou. O arquivo dos Vigias tem a última entrada dele: uma descrição de estruturas no leito oceânico que não foram construídas por nenhuma raça conhecida de Eryndal. As estruturas têm a geometria característica dos glifos encontrados nas ruínas do [[Arquipélago das Brumas]]. Lorath mantém isso em arquivamento restrito.
 
 ---
 

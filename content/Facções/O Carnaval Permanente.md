@@ -62,8 +62,6 @@ alinhamento: "Ilusão como política — informação como devoção a Nyxara"
 > [!tip] Gancho de Aventura
 > O Carnaval quer um contato nos [[Filhos de Korreth]] — grupo que consistentemente recusa presença Faerie em seus territórios. Precisam de intermediários que não sejam reconhecidos como associados do Carnaval para estabelecer o primeiro canal.
 
-> [!danger] Segredo do Narrador
-> **Sirvael da Risada-Dupla** sabe onde está [[Mira Soren]]. Sabe porque Mira comprou passagem encoberta no Carnaval para chegar à [[A Sétima Ilha]]. Sirvael não vai dizer por nenhum preço — não por lealdade, mas porque sabe que Nyxara quer que Mira chegue lá. Vender essa informação seria agir contra a deusa.
 
 ---
 

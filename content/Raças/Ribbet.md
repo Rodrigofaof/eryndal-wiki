@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865388/ribbet-retrato.jpg"
----
----
 tags: [raça, brumeiros, ancestralidade, daggerheart, ribbet, arquipélago]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865388/ribbet-retrato.jpg"
 banner_y: 0.4

@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865311/linha-do-tempo.png"
----
----
 tags: [crônicas, mundo, narrativa, história]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865311/linha-do-tempo.png"
 banner_y: 0.4
@@ -212,12 +209,6 @@ Está esperando que alguém abra a porta por dentro.
 
 ---
 
-> [!danger] O Que o Narrador Sabe — e a Crônica Não Conta
-> A versão pública dessa narrativa omite o que Syleth sabe mas não disse:
-> 1. O Arquipélago não foi *descoberto* — foi *liberado*. Existia antes da Forja Primordial como fragmento da contra-criação de Azúrael. Thalris guiou Davar até lá deliberadamente.
-> 2. As almas que desaparecem não estão sendo destruídas — estão sendo absorvidas pelo fragmento da contra-criação, que existe como estado de consciência coletiva desde CF 0.
-> 3. Korreth não está "acordando para os mortais" — está sendo chamado por Azúrael, porque os dois são fragmentos do mesmo Vazio anterior à criação.
-> 4. A mensagem que [[Eira a Sussurradora]] carrega de Nyxara diz que o Véu não pode ser reparado — apenas substituído, por alguém que desça ao Abismo e concorde com Azúrael em novo pacto.
 
 ---
 

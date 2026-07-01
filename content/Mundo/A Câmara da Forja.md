@@ -38,8 +38,6 @@ status: "Ativo/Acesso Restrito"
 > [!warning] Tensões Ativas
 > A ferramenta que [[Kor Dente-de-Pedra]] está construindo foi projetada para abrir algo. A trava que ela encaixa — nunca vista por Kor — é exatamente a dimensão do mecanismo de vedação do quarto nível de Groven, construído em CF 3.500 e localizado dois andares abaixo da Câmara da Forja.
 
-> [!danger] Segredo do Narrador
-> O calor da Câmara da Forja não vem do centro do planeta — vem do Abismo. Azúrael, aprisionado no Abismo, está em contato com o que está imediatamente acima de sua posição cosmológica: e As Raízes estão imediatamente acima. O calor é, literalmente, a presença de Azúrael aquecendo o chão que separa o Abismo de Eryndal. Quando a ferramenta de Kor abrir o quarto nível e revelar a passagem para o Limiar, o aumento de temperatura será perceptível. E Azúrael vai saber que alguém chegou à borda.
 
 > [!tip] Ganchos de Aventura
 > - O estoque de pedra preta da Câmara da Forja. Quem tem acesso ao estoque oficial? Quem tem acesso a pedra preta de origem não-declarada? As respostas às duas perguntas são diferentes.

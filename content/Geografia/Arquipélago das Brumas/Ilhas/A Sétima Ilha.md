@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782864897/a-setima-ilha.png"
----
----
 tags: [local, arquipélago, ilha, mistério, azúrael, não-alcançada]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782864897/a-setima-ilha.png"
 banner_y: 0.4
@@ -48,12 +45,6 @@ descoberta: "Avistada em CF 4.244 — nunca alcançada"
 
 ---
 
-> [!danger] Segredo do Narrador
-> A Sétima Ilha é o coração do Arquipélago — e o núcleo da "marca" que Azúrael deixou ao ser aprisionado. É onde as almas que Morthus perdeu estão sendo absorvidas. É onde a teoria de Mira Soren encontraria sua prova definitiva. E é onde a resposta para como selar A Fratura — ou como abrir permanentemente o Abismo — existe em forma física.
->
-> Quando alguém finalmente chegar lá, encontrará ruínas de uma civilização que nunca existiu em Eryndal: a contra-criação que Azúrael tentou fazer antes de ser aprisionado. Incompleta. Esperando alguém que termine o que ele começou — ou destrua o que sobrou.
->
-> [[Mira Soren]] está lá. Chegou de alguma forma que nenhuma expedição conseguiu replicar. E ela ainda está viva.
 
 ---
 

@@ -45,8 +45,6 @@ status: "Ativo / Acesso Restrito"
 >> | **Acesso** | 2 membros sênior do Conselho |
 >> | **Criado** | CF 2.550 |
 
-> [!danger] Segredo do Narrador
-> O Arquivo Selado contém a chave para entender tudo que está acontecendo em CF 4.247 — o mapa de Vareleth, os textos de Serath, o dossiê da Noite das Vozes. O Ancião Syleth já está chegando perto da conclusão. Mas a conclusão tem uma implicação que vai além de análise acadêmica: requer ação, e a ação requerida é exatamente o que a mensagem de Eira a Sussurradora diz.
 
 > [!tip] Gancho de Aventura
 > O Arquivo Selado é acessível via aprovação do Conselho. O Ancião Syleth, em circunstâncias adequadas, pode aprovar o acesso de personagens de confiança. O que eles encontrariam lá poderia ser a análise mais completa dos eventos atuais disponível em qualquer lugar de Eryndal.

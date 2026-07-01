@@ -62,8 +62,6 @@ alinhamento: "O pulso foi real e foi para baixo — não para cima. Alguém prec
 > [!tip] Gancho de Aventura
 > Os Vigias precisam de alguém que acesse o [[O Arquivo Selado]] em [[Auranthas]] e localize qualquer texto que descreva a criação de Korreth. Não o relato mitológico — o registro técnico, se existir. Dorath acredita que Korreth não foi criado pelos deuses: foi encontrado. E que [[Azúrael]] sabia disso.
 
-> [!danger] Segredo do Narrador
-> **Ireth do Peso** tem acesso a textos Giant-kin que descrevem o pulso de Korreth com detalhes que não estão em nenhum arquivo mortal. Esses textos dizem que o que os Giant-kins sentem no sangue não é o dragão — é a marca que o dragão deixou quando foi usado como instrumento na criação de Eryndal. O sangue Giant-kin é literalmente tecido do mundo. O pulso não é comunicação de Korreth — é o mundo sentindo que algo está errado com suas fundações.
 
 ---
 

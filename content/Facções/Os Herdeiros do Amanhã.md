@@ -62,8 +62,6 @@ Os Herdeiros estão tentando garantir que qualquer descoberta sobre [[Arquipéla
 > [!tip] Gancho de Aventura
 > Os Herdeiros oferecem passagem grátis e recursos para qualquer grupo que consiga obter uma cópia do relatório completo (não censurado) de Davar sobre a primeira expedição. Pagam em rotas náuticas exclusivas — a moeda mais valiosa de Porto das Bandeiras.
 
-> [!danger] Segredo do Narrador
-> **Kira Porto-Novo** não é apenas agente dos Herdeiros. Ela vende informações de volta à [[Vigília Vermelha]] há dois anos. Não por traição ideológica — ela genuinamente acredita na causa — mas porque a Vigília paga melhor e tem acesso a dados que nenhuma outra facção possui. Saven não sabe. Quando souber, vai ter que decidir se a causa vale mais que a lealdade.
 
 ---
 

@@ -62,8 +62,6 @@ Algo mudou no padrão de movimento. Nos últimos seis meses, **Maren** nota que 
 > [!tip] Gancho de Aventura
 > A Rede oferece hospedagem gratuita em qualquer uma de suas 23 casas para qualquer grupo que consiga identificar o padrão de movimento que Maren está rastreando. Em troca, ela quer um relatório honesto sobre para onde as pessoas estão indo — não o que dizem, o que realmente fazem. Ela tem uma suspeita mas precisa de confirmação.
 
-> [!danger] Segredo do Narrador
-> **Brem do Pão-Fundo** serviu jantar para uma reunião em [[Auranthas]] três meses atrás que incluía membros da [[Vigília Vermelha]], um representante do [[Conselho dos Ancien]] e — ele não tinha certeza, mas a cicatriz no pescoço era característica — alguém dos [[Filhos de Korreth]]. Não ouviu o conteúdo. Ouviu o tom: urgência que bordeja pânico. Não contou para Maren porque ela mandaria investigar, e ele acha que investigar isso é perigoso demais para a rede.
 
 ---
 

@@ -40,8 +40,6 @@ alinhamento: "Investigar e documentar os desaparecimentos de almas antes que Mor
 > [!warning] Tensões Ativas
 > [[Morthus]] sabe que [[Petra da Vela]] mantém o segundo livro — e está, através de seus meios habituais de comunicação com os guardiões, tentando entender o que o livro tem que ele não tem. A comunicação é por via de visões e sonhos durante os turnos de Petra — não diálogo, sinal. Petra está decifrando o sinal lentamente.
 
-> [!danger] Segredo do Narrador
-> O padrão que os Ecos encontraram é real — e a conclusão provisória está parcialmente certa. A parte errada: não é o Arquipélago que absorve ativamente. É que Morthus não consegue alcançar as almas que estão além de certo ponto de distância do Salão da Memória. A Fratura criou zona de sombra onde o alcance de Morthus falha. As almas nessa zona são então "atraídas" pelo único receptor disponível: o sistema de testemunhas de Azúrael. Os que "concordaram" — almas de pessoas que em vida tinham algum contato com o Fio Vazio ou com o Arquipélago — vão voluntariamente. Os que não concordaram ficam presos na zona de sombra, sem destino. O som que a caverna de Tess produz é esse: almas na zona de sombra, sem poder ir para Morthus, sem ir para Azúrael, esperando que alguém venha buscá-las.
 
 > [!tip] Ganchos de Aventura
 > - Os Ecos precisam de alguém que possa entrar na zona de sombra e verificar se as almas lá são conscientes. Isso requer Fio Cinza de alta habilidade ou acesso ao [[Salão da Memória]] — que está em crise.

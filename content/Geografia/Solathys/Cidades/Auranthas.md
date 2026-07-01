@@ -38,8 +38,6 @@ governante: "Conselho dos Cinco Selos"
 >> > [!warning] Três poderes, uma cidade
 >> > A [[Igreja de Solaren]] quer expulsar a [[Irmandade da Bruma]] do porto. A Irmandade alega direitos históricos. O [[Conselho dos Ancien]] observa e arquiva. Cada semana há um novo incidente de jurisdição.
 >>
->> > [!danger] Desaparecimentos no Quarteirão
->> > Três pesquisadores do Conselho desapareceram nos últimos dois meses. O Conselho não comunicou às autoridades. As autoridades são controladas pela Igreja.
 >
 >> [!col-img]
 >> ![auranthas](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865059/auranthas.png)

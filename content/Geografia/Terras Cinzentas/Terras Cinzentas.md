@@ -43,10 +43,6 @@ Há também ruínas de fortalezas das Guerras Divinas — agora habitadas por cr
 
 ## ⚠️ A Fratura Aqui
 
-> [!danger] Zona de Alta Atividade
-> [[A Fratura]] se manifesta com mais intensidade nas Terras Cinzentas do que em qualquer outro lugar de [[Solathys]]. As rachaduras no Véu são **visíveis a olho nu** — como fissuras luminosas no ar.
->
-> Criaturas do [[Cosmologia|Abismo]] emergem com frequência crescente. Os clãs locais estão mobilizando — não em guerra, mas em *preparação*.
 
 ---
 

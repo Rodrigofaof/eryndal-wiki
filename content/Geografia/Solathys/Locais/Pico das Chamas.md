@@ -52,12 +52,6 @@ status: "Ativo — inacessível para não-iniciados"
 > [!warning] O Peregrino Permanente
 > Nos registros dos [[Filhos de Korreth]], há um peregrino que subiu ao Pico das Chamas em CF 4.187 — sessenta anos atrás — e nunca desceu. Não morreu: o [[Arauto Brenn]] confirma que o pulso dracônico ainda registra presença viva no cume. O que ele está fazendo lá, por que não volta, se pode voltar — essas perguntas não têm resposta.
 
-> [!danger] Korreth ou Outra Coisa
-> O [[Conselho dos Ancien]] tem, nos arquivos selados, uma análise cosmológica do Pacto de Korreth que o [[Clã de Pedra]] não conhece e que os [[Filhos de Korreth]] resistiriam a aceitar: Korreth não era criação divina. Era fragmento do Vazio que existia antes de CF 0. O Pacto de Varroth não criou o sangue dracônico — *vinculou* um fragmento do Vazio à criação mortal através de sangue.
->
-> O que o pulso dracônico transmite — o que os Filhos interpretam como Korreth respondendo a Varroth — pode ser o Vazio respondendo à pressão de [[A Fratura]] através do único ponto de acesso que ainda tem no plano mortal: o sangue dos descendentes do Pacto.
->
-> Se for isso, o peregrino no cume não está esperando. Está sendo usado como condutor.
 
 ---
 

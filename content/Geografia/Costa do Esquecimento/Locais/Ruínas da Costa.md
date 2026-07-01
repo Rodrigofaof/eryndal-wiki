@@ -51,12 +51,6 @@ status: "Proibido — vedado pela Igreja de Solaren desde CF 4.197"
 > [!warning] O Depósito da Igreja
 > [[Alto Sacerdote Aldren Vaux]] tem um artefato recuperado das ruínas — uma pedra translúcida descrita como capaz de fazer o tocador "ver o mundo como era antes da criação" — num depósito selado em Auranthas. [[Tessara Venn]] catalogou o objeto antes de ser demitida. O artefato nunca foi devolvido ao sítio nem destruído.
 
-> [!danger] O Que as Ruínas São
-> [[Petra Canto-Fundo]] chegou, dezoito anos depois da investigação original, à hipótese que o [[Conselho dos Ancien]] ainda não formalizou: as ruínas não são destroços de algo que existiu. São a contra-criação de Azúrael — o projeto que ele iniciou antes de ser aprisionado em CF 0 e que os seis deuses não conseguiram destruir completamente, apenas submergir.
->
-> Se a temperatura continuar subindo e atingir o ponto de ativação, o que vai acontecer não é uma ruína emergindo. É um processo retomando. A fundação de algo que nunca foi concluído, retomando de onde parou quatro mil e duzentos anos atrás.
->
-> E o símbolo de Azúrael no centro não é marca de posse. É endereço de retorno. Como quem deixa uma nota numa construção inacabada: *"Voltarei."*
 
 ---
 

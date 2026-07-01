@@ -62,8 +62,6 @@ A Forja quer acesso ao quarto nível selado de Groven — não para enfrentar o 
 > [!tip] Gancho de Aventura
 > A Forja precisa de alguém externo — não Dwarf, sem histórico em Groven — para entrar no quarto nível e recuperar um objeto específico que **Doreth das Runas** identificou em gravuras do primeiro século. Ela sabe onde está. Não sabe o que há em volta dele.
 
-> [!danger] Segredo do Narrador
-> **Keld da Maça-Antiga** tem em sua posse um texto que descreve a técnica usada para selar o quarto nível originalmente. O texto diz explicitamente que o selo foi projetado para *durar trezentos anos*. Esse prazo passou em CF 3.800. Keld não contou para ninguém porque não sabe o que fazer com essa informação — e tem medo do que Brund faria se soubesse.
 
 ---
 

@@ -1,7 +1,4 @@
 ---
-banner: "[[velhar.png]]"
----
----
 tags: [reino, elf, extinto]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865491/velhar.png"
 banner_y: 0.4
@@ -25,8 +22,6 @@ capital: "Velhar-Anath"
 >> ## 💀 A Dissolução
 >> Três gerações de conflitos sobre quem controlava as runas. O reino não foi conquistado nem destruído — simplesmente fragmentou-se quando seus líderes escolheram direções opostas e nenhum cedeu. Seus cidadãos dispersaram-se por Solathys. Muitos chegaram a Auranthas e influenciaram sua cultura profundamente.
 >>
->> > [!danger] As Runas de Nyxara
->> > O paradeiro das runas ancestrais de Velhar é desconhecido. O Conselho dos Ancien afirma tê-las. A Igreja de Solaren nega que existam. Nyxara nunca comentou.
 >
 >> [!col-img]
 >> ![velhar](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865491/velhar.png)

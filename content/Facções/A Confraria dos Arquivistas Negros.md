@@ -40,8 +40,6 @@ alinhamento: "Preservar o que as instituições destroem antes que possa ser ent
 > [!warning] Tensões Ativas
 > A Confraria tem a cópia dos documentos que Syleth removeu. Syleth não sabe disso. Quando souber — e vai saber, porque está procurando cópias — a tensão interna do Conselho vai escalar para algo que pode quebrar a organização.
 
-> [!danger] Segredo do Narrador
-> A cópia dos documentos que a Confraria tem inclui a cláusula de Nyxara no Pacto do Véu — completa, não fragmentada, com contexto. O membro da Confraria que copiou em CF 4.230 morreu em CF 4.243 sem revelar para outros membros o que havia copiado. A Confraria tem o texto mas não sabe que tem — está nos arquivos não-catalogados que ninguém examinou desde a morte do membro.
 
 > [!tip] Ganchos de Aventura
 > - A Confraria pode ser aliada para acesso ao Arquivo Selado e a material que o Conselho oficial não disponibilizaria. O custo: os personagens precisam demonstrar que entendem a distinção entre "perigoso demais para existir" e "perigoso demais para ser mal compreendido".

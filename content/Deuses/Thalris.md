@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865467/Thalris.png"
----
----
 tags: [deus, thalris, mar, descoberta]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865467/Thalris.png"
 banner_y: 0.4
@@ -13,7 +10,6 @@ alinhamento: "Caos"
 
 # Thalris — O Deus da Descoberta
 
-> [!abstract] 🎭 [[Ficha — Thalris|Ficha de Roleplay → Thalris]]
 
 > [!quote] *"O horizonte é de vocês. Eu só mostrei o caminho."*
 
@@ -38,8 +34,6 @@ alinhamento: "Caos"
 >> - Descobrir o que as ilhas contêm antes que [[Solaren]] as interdite
 >> - Decidir se conta aos outros deuses o que fez
 >>
->> > [!danger] Segredo do Narrador
->> > Thalris sabe onde fica a 7ª ilha. Não diz porque o que há lá exige ser encontrado *por escolha mortal* — o Pacto do Véu também o impede de ir diretamente.
 >
 >> [!col-img]
 >> ![Thalris](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865467/Thalris.png)

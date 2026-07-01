@@ -61,8 +61,6 @@ Desde CF 4.246, **Ferro-Sete** está rastreando um padrão: almas Clank que para
 > [!tip] Gancho de Aventura
 > Os Sem-Sombra precisam de alguém que consiga falar com [[Morthus]] — ou com alguém que tenha acesso ao [[Salão da Memória]]. Eles têm uma lista de 47 nomes de Clanks que pararam permanentemente e querem saber se ao menos um chegou lá. Pagam com informações sobre a estrutura técnica de [[Groven Profundo]] que nenhum mapa oficial contém.
 
-> [!danger] Segredo do Narrador
-> **Placa-de-Salto** parou por seis horas durante uma expedição de reconhecimento ao terceiro nível de Groven e voltou com coordenadas gravadas em seu compartimento interno — coordenadas que apontam para a [[A Sétima Ilha]], no [[Arquipélago das Brumas]]. Ela não sabe de onde vieram. Não contou para ninguém, inclusive Ferro-Sete, porque não consegue explicar e tem medo do que isso implica sobre o que existe além do Véu.
 
 ---
 

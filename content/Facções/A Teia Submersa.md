@@ -61,8 +61,6 @@ A Teia detectou um padrão específico: algo no plano subterrâneo profundo — 
 > [!tip] Gancho de Aventura
 > A Teia pode fornecer, para quem tiver paciência para ouvir **Soren-de-Cinco-Hastes** traduzir, um mapa completo de todas as anomalias de Filamento em Solathys — marcadas por intensidade e frequência. É o mapa de [[A Fratura]] mais preciso que existe. O preço não é dinheiro. É uma amostra de terra de cada lugar que o grupo visitar daqui em diante, entregue a qualquer colônia Fungril que encontrarem.
 
-> [!danger] Segredo do Narrador
-> A frequência que **Draven-em-Florescer** detectou não vem do subsolo de Solathys. Vem do Abismo — e é a voz de [[Azúrael]]. Não um grito, não um chamado. Uma contagem. A Teia está contando sem saber que está contando. Quando a contagem chegar a zero, alguém ou algo vai saber exatamente onde estão todos os pontos onde o Véu é mais fino.
 
 ---
 

@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865170/Elyndra.png"
----
----
 tags:
   - deus
   - elyndra
@@ -17,7 +14,6 @@ alinhamento: Equilíbrio
 
 # Elyndra — A Mãe do Equilíbrio
 
-> [!abstract] 🎭 [[Ficha — Elyndra|Ficha de Roleplay → Elyndra]]
 
 > [!quote] *"Tempestades e flores brotam da mesma fonte. Só os mortais acham isso contraditório."*
 
@@ -41,8 +37,6 @@ alinhamento: Equilíbrio
 >> > [!warning] Com Raiva Silenciosa
 >> > O desmatamento para construção naval está destruindo bordas da [[Floresta de Vyr]]. Seus servos na floresta receberam uma missão: descobrir o que está nas ilhas.
 >>
->> > [!danger] Segredo do Narrador
->> > Ela não compartilhou o plano sobre o Arquipélago com [[Solaren]]. Acredita que as ilhas são um Nó Vivo que, se corrompido, pode destruir a floresta por ressonância.
 >
 >> [!col-img]
 >> ![Elyndra](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865170/Elyndra.png)

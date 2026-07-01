@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865190/filamentos.png"
----
----
 tags: [sistema, daggerheart, mecânicas, referência]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865190/filamentos.png"
 banner_y: 0.4
@@ -46,8 +43,6 @@ Os **9 Domínios** do Daggerheart se mapeiam diretamente aos [[Sistema de Magia|
 | **Bone** | Fio Cinza | [[Morthus]] | Mortos-vivos, memória, necromancia |
 | **Codex** | Fio Marinho | [[Thalris]] | Conhecimento, descoberta, runas antigas |
 
-> [!danger] O Domínio Proibido
-> Não existe Domínio oficial para o **Fio Vazio** ([[Azúrael]]). Personagens que acessam esse poder devem criar cartas de Domínio personalizadas com o Narrador — sempre com consequências severas e permanentes. A [[Vigília Vermelha]] é a única instituição com conhecimento documentado de como usar o Fio Vazio sem destruição imediata. Seu nome vem do efeito colateral mais visível: olhos avermelhados por horas.
 
 ---
 

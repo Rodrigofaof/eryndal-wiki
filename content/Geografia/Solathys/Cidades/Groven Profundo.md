@@ -33,8 +33,6 @@ governante: "Conselho dos Seis Clãs"
 >>
 >> ## ⚡ Estado Atual
 >>
->> > [!danger] O Quarto Nível
->> > O [[Clã de Pedra]] selou o acesso ao quarto nível em CF 3.500 após encontrar algo que não quis descrever. Em CF 4.247, com [[A Fratura]] avançando, o **Mestre Groven** mandou reforçar o selo. Os [[Fungril]] que habitam o subsolo começaram a subir — o equivalente fungril a correr em pânico.
 >>
 >> > [!warning] A Questão dos Clank
 >> > Os primeiros [[Clank]] foram criados em Groven no CF 2.950 para trabalho nos níveis perigosos. Alguns ainda vivem aqui. Eles ouviram — ou sentiram — algo nos dias anteriores ao lacramento do quarto nível. Nenhum foi formalmente interrogado.
@@ -78,8 +76,6 @@ Seção separada onde os [[Clank]] mais antigos de Groven habitam. Quieto. Muito
 
 ---
 
-> [!danger] Segredo do Narrador
-> O quarto nível não está vazio. O que está lá tem temperatura de forja e algo parecido com respiração. Desde A Fratura, a temperatura aumentou 0,6 graus. Veth Pedra-Viva sabe disso. Só ela.
 
 > [!tip] Ganchos de Aventura
 > - Orrum, o Clank mais antigo, está gravando algo nas paredes do Bairro dos Clank à noite — em uma linguagem que não é nenhuma conhecida

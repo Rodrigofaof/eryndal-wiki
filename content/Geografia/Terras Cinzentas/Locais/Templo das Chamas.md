@@ -51,10 +51,6 @@ status: "Ativo — sede dos Filhos de Korreth"
 > [!warning] A Décima Segunda Caixa de Leva
 > [[Leva Mão-Aberta]], ao observar a batalha do barco de pesca, viu um "terceiro elemento" se mover pelo campo durante o combate divino — algo nem Varroth nem Solaren. Os Filhos de Korreth sabem dessa observação (chegou a eles via arquivo do Conselho). Arauto Brenn tem uma teoria sobre o que era. Não compartilhou com ninguém fora dos Filhos.
 
-> [!danger] O Que Korreth Está Fazendo
-> Os [[Filhos de Korreth]] acreditam que Korreth está sendo chamado — por Varroth, acordando através do Templo. O que o lore selado do [[Conselho dos Ancien]] sugere, com base nos textos de [[Serath o Exilado]], é diferente: Korreth era um *fragmento do Vazio*, não uma criação divina. O Pacto de CF 800 foi [[Varroth]] tentando vincular esse fragmento à criação mortal através de sangue. Se Korreth está acordando, pode não ser Varroth que está chamando — pode ser o que está acordando nas [[As Raízes|Raízes]] que está chamando o fragmento de Vazio de volta.
->
-> As Fraturas vermelhas no Templo não são Varroth se comunicando. São o ponto onde a pressão de dentro das Raízes encontra a memória da batalha divina e encontra a menor resistência para emergir.
 
 ---
 

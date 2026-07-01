@@ -61,8 +61,6 @@ alinhamento: "Os lugares úmidos são onde o Véu afina — eles guardam essas f
 > [!tip] Gancho de Aventura
 > Os Guardiões precisam de alguém que consiga se comunicar com o eco que foi "para baixo". Não para trazê-lo de volta — para saber para onde foi e se foi voluntariamente. Já tentaram três rituais diferentes. Todos falharam da mesma forma. Precisam de um abordagem diferente — arcana ou cosmológica.
 
-> [!danger] Segredo do Narrador
-> **Keth das Águas-Rasas** sabe o que acontece com as almas que vão "para baixo". Sabe porque a avó dela foi uma delas — uma ribbet que morreu nos pântanos em CF 4.150 e cujo eco persistiu até CF 4.246, quando também foi para baixo. A última comunicação do eco dela, antes de ir, foi uma única frase em Ribbet antigo que traduz aproximadamente como: *"Ele me chamou pelo nome."* "Ele" não é Morthus. Os Guardiões já sabem disso. Keth está esperando alguém que possa fazer algo com essa informação antes de compartilhá-la.
 
 ---
 

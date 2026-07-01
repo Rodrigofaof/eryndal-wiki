@@ -1,7 +1,4 @@
 ---
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865397/salao-memoria.png"
----
----
 tags: [local, cosmologia, morthus, almas, salão-da-memória]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865397/salao-memoria.png"
 banner_y: 0.4
@@ -56,10 +53,6 @@ status: "Ativo — em crise desde CF 4.245"
 > [!warning] O Silêncio de Morthus
 > O [[Silêncio de Morthus]] (CF 1.677–1.717) foi o único período em que o Salão parou de receber almas — não por falha do espaço, mas por ausência de Morthus. Onde ele foi ainda é desconhecido. A [[Crônica do Silêncio]] documenta o impacto mortal desse período.
 
-> [!danger] Para Onde Vão as Almas
-> [[Morthus]] tem uma hipótese que ainda não compartilhou com ninguém: as almas que desaparecem não estão sendo destruídas. Estão sendo absorvidas por algo. O padrão de desaparecimento — sempre almas de pessoas que morreram próximas às [[A Fratura|Fraturas]] ou no [[Arquipélago das Brumas]] — sugere uma localização. Ele ainda está verificando antes de declarar.
->
-> A hipótese mais perturbadora, que a [[Crônica das Vozes]] sugere indiretamente: as almas estão alimentando a contra-criação de [[Azúrael]] — a entidade que os 17 Sussurradores perceberam em CF 1.620. Se correto, cada morte no Arquipélago não alimenta o Salão. Alimenta o que está acordando.
 
 ---
 

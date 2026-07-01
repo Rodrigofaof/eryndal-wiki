@@ -38,8 +38,6 @@ status: "Ativo"
 > [!warning] Tensões Ativas
 > Desde A Fratura (CF 4.245), as memórias do "Antes" entre os Inferis mais jovens de Grath-Nor ficaram mais intensas e mais frequentes. O Conclave interpreta isso de duas formas incompatíveis: que o Abismo está mais próximo (mau sinal) ou que Azúrael está comunicando mais ativamente (sinal que pode ser bom ou mau dependendo do que quer).
 
-> [!danger] Segredo do Narrador
-> O documento do Conclave de CF 4.211 que Mira Soren levou continha a descrição coletiva do "Antes": não é o Abismo como os mortais o entendem — é a memória de Azúrael antes do aprisionamento, experienciada pelos Inferis que existiram nesse estado. Os Inferis não foram criados por Azúrael — eles foram os primeiros experimentos de Azúrael em criar consciência mortal antes de os outros deuses fazerem o mesmo. São anteriores às outras raças. O que a Igreja de Solaren suprimiria se soubesse: os Inferis existiam antes dos Humanos. Antes de qualquer raça. A "memória do Vazio" não é trauma — é memória de infância.
 
 > [!tip] Ganchos de Aventura
 > - O documento do Conclave não está em Grath-Nor — Mira Soren levou. Mas existem três versões incompletas escritas por diferentes participantes. [[Isael de Grath-Nor]] tem uma das três.

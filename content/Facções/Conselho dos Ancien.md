@@ -31,10 +31,6 @@ A instituição mais antiga ainda ativa em [[Eryndal]]. Governa a Grande Bibliot
 
 ## 🧠 O Que Sabem
 
-> [!danger] Conhecimento Classificado
-> O Conselho sabe mais do que diz. Syleth reconhece a arquitetura das ruínas da [[Costa do Esquecimento]]. Conhece parcialmente a linguagem inscrita lá. **Está com medo há 50 anos.**
->
-> Eles documentaram a correlação entre expedições ao Arquipélago e pontos de [[A Fratura]]. Ainda debatem se tornam isso público. O debate dura dois anos.
 
 ---
 

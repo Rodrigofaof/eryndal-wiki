@@ -36,10 +36,6 @@ Mapear e explorar o [[Arquipélago das Brumas]] completamente — independente d
 
 ## ⚠️ Problema Atual
 
-> [!danger] As Transmissões Classificadas
-> Três expedições não voltaram. Cada grupo portava pedras de comunicação mágica fornecidas pelo [[Conselho dos Ancien]]. As duas últimas transmitiram algo antes do silêncio.
->
-> As transmissões foram classificadas. Davar as ouviu. Não parou as expedições.
 
 ---
 

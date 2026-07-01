@@ -27,12 +27,6 @@ O maior e mais influente dos clãs [[Dwarf]] nas Raízes. Está se isolando de f
 
 ## 👁️ O Que Estão Vendo
 
-> [!danger] Nos Níveis Inferiores
-> - Rachaduras emitindo **luz negra**
-> - Sons sem frequência identificável
-> - Membros que desceram para inspeção voltaram **quietos** — não agressivos, não corrompidos visualmente. Apenas... quietos.
->
-> Groven fechou os níveis inferiores. **Não explicou para ninguém fora do clã.**
 
 ---
 

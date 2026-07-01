@@ -62,8 +62,6 @@ alinhamento: "O instinto não mente — quando as presas fogem diferente, algo m
 > [!tip] Gancho de Aventura
 > A Caçada precisa de alguém que consiga acompanhar a migração para além da costa — de barco, o que os Kataris não têm acesso. Oferecem guias expertos em terreno de Terras Cinzentas, um mapa completo de comportamento animal da região e informações de terreno que nenhum mapa cartográfico contém.
 
-> [!danger] Segredo do Narrador
-> **Sael das Garras-Noturnas** encontrou um animal morto cujo comportamento antes da morte foi observado diretamente. Não morreu de causa natural nem de predador. Seus olhos tinham a coloração avermelhada característica de exposição ao [[Sistema de Magia|Fio Vazio]]. Um animal sem capacidade mágica foi exposto ao Fio Vazio de uma fonte que Sael não consegue localizar. Isso significa que o Fio Vazio está afetando seres sem consciência mágica — o que não deveria ser possível, e que tem implicações aterrorizantes sobre o estado atual do [[Véu]].
 
 ---
 

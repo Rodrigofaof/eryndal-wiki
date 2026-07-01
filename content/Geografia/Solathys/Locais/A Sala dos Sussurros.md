@@ -38,8 +38,6 @@ status: "Ativo/Secreto"
 > [!warning] Tensões Ativas
 > A rede "Os que perguntam" de [[Cael Branco]] tem dezesseis membros, dois dos quais são membros ativos da Igreja com acesso ao nível do arquivo regular. Se algum deles subir de nível sênior, pode ter acesso à Sala.
 
-> [!danger] Segredo do Narrador
-> O segundo conjunto de documentos que Vaux acessa (o que Cael não leu): está fisicamente na Sala dos Sussurros, em caixa de pedra com lacre de Solaren que só abre com Fio Solar. Contém cópia do texto de Serath o Exilado que o Conselho dos Ancien acredita ser o único exemplar existente — mas que a Igreja também tem, encontrado numa das operações da Purga de CF 3.200. E os dois textos são diferentes. A versão da Igreja tem um parágrafo a mais que a versão do Conselho. Esse parágrafo descreve, com precisão perturbadora, o que a "marca" de Azúrael faz a quem a recebe voluntariamente.
 
 > [!tip] Ganchos de Aventura
 > - O acesso à Sala exige conhecimento da sequência de pedras. Três pessoas na Igreja sabem: Vaux, o membro sênior mais antigo (que está com saúde debilitada), e alguém que Vaux não sabe que sabe.

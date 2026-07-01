@@ -40,8 +40,6 @@ alinhamento: "Compreender e controlar a pedra preta antes que outros o façam"
 > [!warning] Tensões Ativas
 > A Fratria está dividida sobre o que fazer com a ferramenta de Kor: uma facção quer adquiri-la antes que chegue ao encomendante anônimo; outra quer deixar o processo correr para ver quem aparece para reclamar.
 
-> [!danger] Segredo do Narrador
-> A Fratria tem, desde CF 3.500, cópia das marcas do terceiro nível — que são a mesma escrita de Azúrael que Korven copiou no quarto nível. Têm a tradução parcial: entendem "aqui começa" e "para o que está abaixo" mas não entendem a parte central. A parte central é o que precisariam de um Inferis — especificamente [[Isael de Grath-Nor]], que tem memória do "Antes" — para traduzir.
 
 > [!tip] Ganchos de Aventura
 > - A Fratria pode ser aliada inesperada se os personagens demonstrarem que entendem o quarto nível melhor do que ela. O que querem em troca: acesso ao que os personagens descobrirem lá dentro.
