@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [geografia, terras-cinzentas, norte]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865463/terras-cinzentas.png"
-banner_y: 0.4
 tipo: "Região"
 status: "Parcialmente explorado — HOSTIL"
 origem: "Batalha divina CF 2.087"

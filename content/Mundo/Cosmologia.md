@@ -1,7 +1,6 @@
 ---
 tags: [mundo, cosmologia, planos, véu, abismo]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782864893/a-fratura.png"
-banner_y: 0.4
 tipo: "Mundo"
 ---
 

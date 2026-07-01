@@ -5,7 +5,6 @@ tags:
   - ordem
   - sol
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865433/Solaren.png"
-banner_y: 0.4
 tipo: Deus
 dominio: Sol, Ordem, Civilização
 status: Ativo

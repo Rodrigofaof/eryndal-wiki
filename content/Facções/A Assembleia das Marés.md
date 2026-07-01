@@ -1,6 +1,5 @@
 ---
 tags: [faccao, confederacao, diplomatica, mar]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.220"
 lider: "Lira das Águas (porta-voz atual)"

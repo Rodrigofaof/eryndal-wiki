@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [local, solathys, cidade, confederação-thalrana, porto]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865117/confederacao-thalrana.png"
-banner_y: 0.4
 tipo: "Local"
 regiao: "Solathys"
 status: "Ativo"

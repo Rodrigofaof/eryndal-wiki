@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [local, terras-cinzentas, filhos-korreth, varroth, batalha-das-chamas]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865462/templo-das-chamas.jpg"
-banner_y: 0.5
 tipo: "Local"
 regiao: "Terras Cinzentas"
 status: "Ativo — sede dos Filhos de Korreth"

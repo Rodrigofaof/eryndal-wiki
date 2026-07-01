@@ -1,7 +1,6 @@
 ---
 tags: [reino, facção, povos-do-mar, thalris, ativo]
 banner: "[[confederacao-thalrana.png]]"
-banner_y: 0.4
 tipo: "Reino"
 fundado: "CF 3.380"
 lider: "Conselho das Correntes (sete vozes, uma por corrente principal)"

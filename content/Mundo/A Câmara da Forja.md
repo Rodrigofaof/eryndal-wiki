@@ -1,6 +1,5 @@
 ---
 tags: [local, as-raizes, dwarf, cosmologia]
-banner_y: 0.4
 tipo: "Local"
 regiao: "As Raízes"
 status: "Ativo/Acesso Restrito"

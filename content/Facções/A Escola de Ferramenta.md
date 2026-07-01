@@ -1,6 +1,5 @@
 ---
 tags: [faccao, goblin, clank, engenharia]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.190"
 lider: "Sem lider formal — estrutura de mestres e aprendizes"

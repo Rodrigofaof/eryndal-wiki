@@ -1,7 +1,6 @@
 ---
 tags: [crônicas, aventura, torrão-do-limiar, beren-voss, inquisição, carta]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865311/linha-do-tempo.png"
-banner_y: 0.5
 tipo: "Crônica"
 periodo: "CF 4.247"
 fonte: "Carta interceptada — remetente Beren Voss, destinatário não nomeado, portador detido em Auranthas"

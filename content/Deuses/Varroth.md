@@ -5,7 +5,6 @@ tags:
   - guerra
   - força
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865488/Varroth.png"
-banner_y: 0.4
 tipo: Deus
 dominio: Guerra, Conquista, Força
 status: Ativo

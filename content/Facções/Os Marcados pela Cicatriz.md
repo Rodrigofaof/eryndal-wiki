@@ -1,7 +1,5 @@
 ---
 tags: [facção, orc, cicatriz, varroth, história]
-banner: "Imagens/os-marcados-cicatriz.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.245"
 lider: "Grak Pele-de-Trovão"

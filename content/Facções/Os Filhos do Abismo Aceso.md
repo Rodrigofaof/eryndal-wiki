@@ -1,7 +1,5 @@
 ---
 tags: [facção, inferis, azurael, vazio, identidade]
-banner: "Imagens/os-filhos-abismo-aceso.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.211"
 lider: "Vael das Chamas-Negras"

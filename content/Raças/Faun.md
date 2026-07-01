@@ -1,7 +1,6 @@
 ---
 tags: [raça, faunos, ancestralidade, daggerheart, elyndra, natureza]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865185/faun-retrato.jpg"
-banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Faun"
 regiao: "Floresta de Vyr"

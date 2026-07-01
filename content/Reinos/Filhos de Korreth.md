@@ -1,7 +1,6 @@
 ---
 tags: [facção, guerreiros, terras-cinzentas, varroth]
 banner: "[[filhos-korreth.png]]"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 1.398"
 lider: "O Memorialista de Ferro (cargo rotativo)"

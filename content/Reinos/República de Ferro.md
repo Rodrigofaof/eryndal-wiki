@@ -1,7 +1,6 @@
 ---
 tags: [reino, human, extinto, secular]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865383/republica-ferro.png"
-banner_y: 0.4
 tipo: "Reino"
 fundado: "CF 1.644"
 dissolvido: "CF 2.087"

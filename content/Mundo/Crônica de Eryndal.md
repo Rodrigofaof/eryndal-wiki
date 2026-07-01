@@ -1,7 +1,6 @@
 ---
 tags: [crônicas, mundo, narrativa, história]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865311/linha-do-tempo.png"
-banner_y: 0.4
 tipo: "Crônica"
 periodo: "CF 0–CF 4.247"
 fonte: "Narração do Ancião Syleth, Grande Biblioteca de Auranthas, CF 4.201"

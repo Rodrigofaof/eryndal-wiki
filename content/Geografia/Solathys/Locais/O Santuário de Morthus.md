@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [local, cosmologia, morthus, guardioes-do-salao, culto]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865397/salao-memoria.png"
-banner_y: 0.4
 tipo: "Local"
 regiao: "Solathys (subterrâneo)"
 status: "Ativo / Secreto"

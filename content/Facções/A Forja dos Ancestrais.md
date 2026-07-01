@@ -1,7 +1,5 @@
 ---
 tags: [facção, dwarf, forja, profundezas, técnica]
-banner: "Imagens/a-forja-dos-ancestrais.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 1.000"
 lider: "Brund Cinza-do-Ferro"

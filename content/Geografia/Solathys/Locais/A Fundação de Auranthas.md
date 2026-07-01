@@ -1,6 +1,5 @@
 ---
 tags: [local, auranthas, ruinas, historia]
-banner_y: 0.4
 tipo: "Local"
 regiao: "Solathys"
 status: "Soterrado/Parcialmente Acessível"

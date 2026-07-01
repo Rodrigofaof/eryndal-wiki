@@ -1,7 +1,5 @@
 ---
 tags: [raça, drakona, ancestralidade, daggerheart, korreth, varroth]
-banner: "Imagens/drakona-retrato-m.png"
-banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Drakona"
 regiao: "Solathys — dispersos, concentração nos Filhos de Korreth"

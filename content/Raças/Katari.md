@@ -1,7 +1,6 @@
 ---
 tags: [raça, felanis, ancestralidade, daggerheart, katari, caçadores]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865285/katari-retrato.jpg"
-banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Katari"
 regiao: "Sul de Solathys"

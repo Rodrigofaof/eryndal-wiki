@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [local, costa-esquecimento, azurael, ruínas, pedra-negra, ativo]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865393/ruinas-da-costa.jpg"
-banner_y: 0.5
 tipo: "Local"
 regiao: "Costa do Esquecimento — costa norte"
 status: "Proibido — vedado pela Igreja de Solaren desde CF 4.197"

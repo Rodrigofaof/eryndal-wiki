@@ -1,7 +1,6 @@
 ---
 tags: [local, cosmologia, azúrael, abismo, vazio]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865061/azurael.png"
-banner_y: 0.4
 tipo: "Local"
 regiao: "Cosmologia"
 status: "Inacessível / Ativo"

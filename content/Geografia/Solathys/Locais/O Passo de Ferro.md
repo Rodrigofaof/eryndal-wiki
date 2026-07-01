@@ -1,6 +1,5 @@
 ---
 tags: [local, solathys, passagem]
-banner_y: 0.4
 tipo: "Local"
 regiao: "Solathys"
 status: "Ativo"

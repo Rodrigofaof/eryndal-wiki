@@ -5,7 +5,6 @@ tags:
   - natureza
   - equilíbrio
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865170/Elyndra.png"
-banner_y: 0.4
 tipo: Deus
 dominio: Natureza, Equilíbrio, Vida
 status: Ativo

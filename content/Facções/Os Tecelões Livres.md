@@ -1,6 +1,5 @@
 ---
 tags: [faccao, magia, independente, fio-vazio]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.142"
 lider: "Sem liderança (princípio fundante)"

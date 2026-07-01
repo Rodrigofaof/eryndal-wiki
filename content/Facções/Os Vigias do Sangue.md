@@ -1,7 +1,5 @@
 ---
 tags: [facção, giant-kin, korreth, pulso, sangue]
-banner: "Imagens/os-vigias-do-sangue.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.245"
 lider: "Dorath Grito-de-Pedra"

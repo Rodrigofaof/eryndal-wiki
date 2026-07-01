@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [local, solathys, montanhas, varroth, filhos-korreth, ossos-do-mundo]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865362/ossos-do-mundo.jpg"
-banner_y: 0.4
 tipo: "Local"
 regiao: "Solathys — coluna central"
 status: "Ativo — tremores crescentes desde CF 4.245"

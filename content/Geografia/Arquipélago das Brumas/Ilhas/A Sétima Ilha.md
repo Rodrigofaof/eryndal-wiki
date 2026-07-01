@@ -1,7 +1,6 @@
 ---
 tags: [local, arquipélago, ilha, mistério, azúrael, não-alcançada]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782864897/a-setima-ilha.png"
-banner_y: 0.4
 tipo: "Ilha"
 regiao: "Arquipélago das Brumas"
 status: "NÃO ALCANÇADA"

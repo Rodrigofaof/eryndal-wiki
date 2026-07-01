@@ -1,6 +1,5 @@
 ---
 tags: [faccao, conselho-ancien, arquivo, secreto]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 2.720"
 lider: "Ancião Syleth (membro sênior; não lider oficial)"

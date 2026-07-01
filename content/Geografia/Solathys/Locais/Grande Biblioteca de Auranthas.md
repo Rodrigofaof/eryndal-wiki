@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [local, auranthas, solathys, conselho-ancien, biblioteca, conhecimento]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865237/grande-biblioteca.jpg"
-banner_y: 0.4
 tipo: "Local"
 regiao: "Solathys — Auranthas"
 status: "Ativo — acesso parcialmente restrito"

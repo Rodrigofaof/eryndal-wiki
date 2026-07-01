@@ -1,7 +1,6 @@
 ---
 tags: [raça, gorún, ancestralidade, daggerheart, varroth, guerreiros]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865355/orc-retrato.jpg"
-banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Orc"
 regiao: "Terras Cinzentas"

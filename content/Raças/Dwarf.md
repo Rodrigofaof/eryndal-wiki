@@ -1,7 +1,6 @@
 ---
 tags: [raça, gorvath, ancestralidade, daggerheart]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865156/dwarf-retrato.png"
-banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Dwarf"
 regiao: "Raízes"

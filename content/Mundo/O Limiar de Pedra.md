@@ -1,7 +1,6 @@
 ---
 tags: [local, cosmologia, raízes, limiar, abismo, dwarf]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865310/limiar-de-pedra.jpg"
-banner_y: 0.5
 tipo: "Local"
 regiao: "As Raízes — fronteira com o Abismo Sem Fim"
 status: "Existente — localização precisa desconhecida"

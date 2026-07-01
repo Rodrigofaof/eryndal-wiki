@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [local, terras-cinzentas, batalha-das-chamas, varroth, solaren]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865463/terras-cinzentas.png"
-banner_y: 0.4
 tipo: "Local"
 regiao: "Terras Cinzentas"
 status: "Ativo / Perigoso"

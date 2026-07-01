@@ -1,11 +1,10 @@
-﻿---
+---
 tags:
   - facção
   - elf
   - conhecimento
   - conselho
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865166/elf-retrato.png"
-banner_y: 0.3
 tipo: Facção
 lider: Ancião Syleth
 sede: Grande Biblioteca de Nyxara, Auranthas

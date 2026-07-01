@@ -1,7 +1,5 @@
 ---
 tags: [facção, clank, alma, identidade, morthus]
-banner: "Imagens/os-sem-sombra.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 3.052"
 lider: "Ferro-Sete"

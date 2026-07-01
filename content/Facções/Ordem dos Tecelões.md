@@ -1,7 +1,6 @@
 ---
 tags: [facção, magia, academia, auranthas]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865190/filamentos.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 1.934"
 lider: "Archimaga Presente (cargo vitalício)"

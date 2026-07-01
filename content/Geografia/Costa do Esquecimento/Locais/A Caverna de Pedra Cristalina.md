@@ -1,6 +1,5 @@
 ---
 tags: [local, costa-do-esquecimento, almas, anomalia]
-banner_y: 0.4
 tipo: "Local"
 regiao: "Costa do Esquecimento"
 status: "Ativo/Perigoso"

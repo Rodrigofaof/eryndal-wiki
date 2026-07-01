@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [facção, irmandade, exploração, bruma]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865265/irmandade-bruma.png"
-banner_y: 0.3
 tipo: "Facção"
 lider: "Almirante Serafin Davar"
 sede: "Porto das Bandeiras, Solathys"

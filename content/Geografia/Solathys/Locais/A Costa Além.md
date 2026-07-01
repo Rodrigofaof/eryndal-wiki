@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [local, solathys, mar-thalran, exploração, mistério]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
-banner_y: 0.4
 tipo: "Local"
 regiao: "Mar Thalran / Além"
 status: "Inacessível de forma consistente"

@@ -1,6 +1,5 @@
 ---
 tags: [faccao, halfling, simiah, memoria, nome]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.246"
 lider: "Petra da Vela (fundadora) + Maren Folha-Longa (marco legal)"

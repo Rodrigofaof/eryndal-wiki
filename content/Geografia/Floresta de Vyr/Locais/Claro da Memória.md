@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [local, floresta-vyr, faun, firbolg, sagrado]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865106/claro-da-memoria.png"
-banner_y: 0.4
 tipo: "Local Sagrado"
 regiao: "Floresta de Vyr"
 status: "Ativo — acesso restrito a não-convidados"

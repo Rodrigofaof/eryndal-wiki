@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [cidade, terras-cinzentas, orc, giant-kin, filhos-de-korreth]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865099/cinzaferra.png"
-banner_y: 0.4
 tipo: "Assentamento"
 regiao: "Terras Cinzentas"
 populacao: "~3.000"

@@ -5,7 +5,6 @@ tags:
   - ancestralidade
   - daggerheart
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865166/elf-retrato.png"
-banner_y: 0.4
 tipo: Ancestralidade
 equivalente: Elf
 regiao: Solathys

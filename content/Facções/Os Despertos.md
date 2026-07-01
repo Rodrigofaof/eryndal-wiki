@@ -1,6 +1,5 @@
 ---
 tags: [faccao, inferis, grath-nor, memoria]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.211"
 lider: "Ancião Reth de Grath-Nor"

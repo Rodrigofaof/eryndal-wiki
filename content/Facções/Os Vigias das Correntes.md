@@ -1,7 +1,5 @@
 ---
 tags: [facção, galapa, oceano, thalris, correntes]
-banner: "Imagens/os-vigias-das-correntes.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 2.100"
 lider: "Lorath da Corrente Funda"

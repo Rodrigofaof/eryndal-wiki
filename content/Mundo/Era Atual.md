@@ -1,7 +1,6 @@
 ---
 tags: [crônicas, era-atual, presente]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
-banner_y: 0.5
 ---
 
 # Era Atual — CF 4.247

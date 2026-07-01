@@ -1,7 +1,6 @@
 ---
 tags: [reino, elf, extinto]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865491/velhar.png"
-banner_y: 0.4
 tipo: "Reino"
 fundado: "CF 1.367"
 dissolvido: "CF 1.867"

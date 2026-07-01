@@ -1,7 +1,5 @@
 ---
 tags: [facção, firbolg, floresta, memória, elyndra]
-banner: "Imagens/as-raizes-que-lembram.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 89"
 lider: "Seren-de-Vyr"

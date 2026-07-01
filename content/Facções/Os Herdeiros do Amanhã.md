@@ -1,7 +1,5 @@
 ---
 tags: [facção, human, porto, mortais, expansão]
-banner: "Imagens/os-herdeiros-amanha.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.050"
 lider: "Saven Braço-de-Vento"

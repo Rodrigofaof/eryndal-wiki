@@ -1,6 +1,5 @@
 ---
 tags: [faccao, mercenarios, arquipelago, veteranos]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.244"
 lider: "Vael Pedra-Preta"

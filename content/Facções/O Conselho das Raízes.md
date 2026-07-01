@@ -1,6 +1,5 @@
 ---
 tags: [faccao, dwarf, raizes, governanca]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 750"
 lider: "Mestre Groven (posição vitalícia enquanto ativo)"

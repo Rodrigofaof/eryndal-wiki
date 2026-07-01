@@ -1,6 +1,5 @@
 ---
 tags: [faccao, ribbet, comercio, costa]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 3.600"
 lider: "Orveth Boca-de-Pedra"

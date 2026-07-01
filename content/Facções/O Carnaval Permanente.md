@@ -1,7 +1,5 @@
 ---
 tags: [facção, faerie, nyxara, espionagem, ilusão]
-banner: "Imagens/o-carnaval-permanente.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 2.300"
 lider: "Sirvael da Risada-Dupla"

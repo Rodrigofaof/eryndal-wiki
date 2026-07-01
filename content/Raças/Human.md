@@ -1,7 +1,6 @@
 ---
 tags: [raça, humanos, ancestralidade, daggerheart]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865255/human-retrato.png"
-banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Human"
 regiao: "Solathys"

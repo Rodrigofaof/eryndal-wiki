@@ -1,7 +1,5 @@
 ---
 tags: [facção, goblin, engenharia, espionagem, informação]
-banner: "Imagens/a-engrenagem-oculta.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 3.800"
 lider: "Vrex da Chave-Mestra"

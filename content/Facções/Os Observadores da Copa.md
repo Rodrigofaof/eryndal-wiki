@@ -1,7 +1,5 @@
 ---
 tags: [facção, simiah, copa, padrões, observação]
-banner: "Imagens/os-observadores-copa.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.050"
 lider: "Tael das Alturas-Calmas"

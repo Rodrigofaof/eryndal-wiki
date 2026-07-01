@@ -1,6 +1,5 @@
 ---
 tags: [faccao, azurael, filosofico, secreto]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 3.800"
 lider: "Isael de Grath-Nor (por padrão; nunca aceitou o título)"

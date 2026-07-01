@@ -5,7 +5,6 @@ tags:
   - noite
   - segredos
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865349/Nyxara.png"
-banner_y: 0.4
 tipo: Deus
 dominio: Noite, Segredos, Saber
 status: Ativo

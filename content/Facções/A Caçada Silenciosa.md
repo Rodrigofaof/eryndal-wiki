@@ -1,7 +1,5 @@
 ---
 tags: [facção, katari, caça, instinto, animais]
-banner: "Imagens/a-cacada-silenciosa.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 3.000"
 lider: "Sraeth do Faro-Aguçado"

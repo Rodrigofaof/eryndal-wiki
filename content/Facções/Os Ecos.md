@@ -1,6 +1,5 @@
 ---
 tags: [faccao, morthus, almas, investigacao]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.246"
 lider: "Petra da Vela"

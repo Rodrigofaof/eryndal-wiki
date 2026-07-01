@@ -1,7 +1,6 @@
 ---
 tags: [deus, thalris, mar, descoberta]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865467/Thalris.png"
-banner_y: 0.4
 tipo: "Deus"
 dominio: "Mar, Vento, Descoberta"
 status: "Ativo"

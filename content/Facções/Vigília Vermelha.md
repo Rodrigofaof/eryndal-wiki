@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [facção, secreta, fio-vazio, azúrael, perigosa]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865499/vigilia-vermelha.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 2.660"
 lider: "Desconhecido — A Voz"

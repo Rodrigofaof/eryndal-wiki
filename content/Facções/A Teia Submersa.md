@@ -1,7 +1,5 @@
 ---
 tags: [facção, fungril, rede, filamentos, percepção]
-banner: "Imagens/a-teia-submersa.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "Desconhecida"
 lider: "Korven-em-Escuta"

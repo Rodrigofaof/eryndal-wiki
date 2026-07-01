@@ -1,7 +1,6 @@
 ---
 tags: [raça, cascogens, ancestralidade, daggerheart, thalris, mar]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865207/galapa-retrato.png"
-banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Galapa"
 regiao: "Mar profundo"

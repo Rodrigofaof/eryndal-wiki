@@ -1,6 +1,5 @@
 ---
 tags: [local, oceano, anomalia]
-banner_y: 0.4
 tipo: "Local"
 regiao: "Mar Thalran"
 status: "Ativo/Anomalia"

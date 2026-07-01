@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [local, mar-thalran, thalris, anomalia, cosmologia]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
-banner_y: 0.4
 tipo: "Local"
 regiao: "Mar Thalran"
 status: "Ativo / Anomalia"

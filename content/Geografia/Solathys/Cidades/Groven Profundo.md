@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [cidade, solathys, dwarf, subterrânea, raízes]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865241/groven-profundo.jpg"
-banner_y: 0.4
 tipo: "Cidade"
 regiao: "Solathys (subsolo)"
 populacao: "~45.000"

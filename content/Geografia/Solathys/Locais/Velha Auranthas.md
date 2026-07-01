@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [local, solathys, auranthas, ruínas, histórico]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865059/auranthas.png"
-banner_y: 0.4
 tipo: "Local"
 regiao: "Solathys"
 status: "Soterrado parcialmente"

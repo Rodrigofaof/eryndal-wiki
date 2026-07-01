@@ -1,7 +1,6 @@
 ---
 tags: [local, cosmologia, morthus, almas, salão-da-memória]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865397/salao-memoria.png"
-banner_y: 0.4
 tipo: "Local"
 regiao: "Cosmologia — entre o Plano Mortal e o Abismo Sem Fim"
 status: "Ativo — em crise desde CF 4.245"

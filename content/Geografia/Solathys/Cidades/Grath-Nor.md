@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [cidade, inferis, ilha, mistério, abismo]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865239/grath-nor.png"
-banner_y: 0.4
 tipo: "Cidade"
 regiao: "Mar Thalran Sul — ilha independente"
 populacao: "~12.000"

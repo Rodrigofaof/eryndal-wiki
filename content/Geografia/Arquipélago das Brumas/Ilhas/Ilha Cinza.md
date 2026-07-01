@@ -1,7 +1,6 @@
 ---
 tags: [local, arquipélago, ilha, irmandade, perigoso]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865258/ilha-cinza.png"
-banner_y: 0.4
 tipo: "Ilha"
 regiao: "Arquipélago das Brumas"
 status: "Base estabelecida — instável"

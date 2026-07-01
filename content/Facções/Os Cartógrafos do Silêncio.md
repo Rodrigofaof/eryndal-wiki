@@ -1,6 +1,5 @@
 ---
 tags: [faccao, elf, conhecimento, mapa]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 2.280"
 lider: "Varath o Memorialista (atual; não eleito — assumido por competência)"

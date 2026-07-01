@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [cidade, solathys, porto, exploração, human, ribbet]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865377/porto-das-bandeiras.png"
-banner_y: 0.4
 tipo: "Cidade"
 regiao: "Solathys"
 populacao: "~80.000"

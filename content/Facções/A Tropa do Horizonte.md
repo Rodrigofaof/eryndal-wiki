@@ -1,6 +1,5 @@
 ---
 tags: [faccao, exploradores, arquipelago, independente]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.244"
 lider: "Fenn Nuvem-Baixa (de fato; recusa o título)"

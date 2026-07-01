@@ -1,6 +1,5 @@
 ---
 tags: [local, floresta-de-vyr, fronteira]
-banner_y: 0.4
 tipo: "Local"
 regiao: "Floresta de Vyr"
 status: "Ativo/Perigoso"

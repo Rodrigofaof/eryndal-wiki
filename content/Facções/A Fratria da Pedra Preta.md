@@ -1,6 +1,5 @@
 ---
 tags: [faccao, dwarf, pedra-preta, secreto]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 3.412"
 lider: "Desconhecido (possivelmente múltiplos)"

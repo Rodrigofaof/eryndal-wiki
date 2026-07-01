@@ -1,6 +1,5 @@
 ---
 tags: [local, filhos-de-korreth, korreth, sagrado]
-banner_y: 0.4
 tipo: "Local"
 regiao: "Solathys"
 status: "Ativo/Acesso Restrito"

@@ -27,12 +27,22 @@ function countGt(line) {
 }
 
 function filterContent(content) {
-  // Normalize line endings to LF for consistent processing
+  // Normalize: strip BOM and convert CRLF to LF
+  content = content.replace(/^﻿/, "")
   content = content.replace(/\r\n/g, "\n")
 
   // 1. Fix double frontmatter: "---\nbanner: ...\n---\n---\n..."
   // Remove the leading single-field block if the file starts with one
   content = content.replace(/^---\n(?:banner|banner_y):[^\n]*\n---\n(?=---\n)/, "")
+
+  // 2. Remove banner fields pointing to local Imagens/ paths (Quartz can't resolve them
+  //    and may render the entire frontmatter as plain text when they're invalid)
+  content = content.replace(/^banner: ["']Imagens\/[^"'\n]+["']\n/m, "")
+  content = content.replace(/^banner_y: [^\n]+\n/m, (match, offset) => {
+    // Only remove banner_y if the banner line was already removed (no Cloudinary URL)
+    const hasCloudinBanner = /^banner: "https:\/\//.test(content)
+    return hasCloudinBanner ? match : ""
+  })
 
   const lines = content.split("\n")
   const result = []

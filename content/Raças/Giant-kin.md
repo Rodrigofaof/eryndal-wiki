@@ -1,7 +1,6 @@
 ---
 tags: [raça, titânicos, ancestralidade, daggerheart, vazio, gigantes]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865219/giant-kin-retrato.jpg"
-banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Giant-kin"
 regiao: "Terras Cinzentas"

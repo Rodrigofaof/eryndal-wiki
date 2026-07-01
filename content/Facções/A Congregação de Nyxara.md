@@ -1,6 +1,5 @@
 ---
 tags: [faccao, faerie, nyxara, visoes]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 1.620"
 lider: "Rotativo (aquele/a em vigília no Santuário na semana de tomada de decisão)"

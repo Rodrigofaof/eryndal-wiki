@@ -1,7 +1,6 @@
 ---
 tags: [local, arquipélago-das-brumas, ilhas, azúrael, vazio]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
-banner_y: 0.4
 tipo: "Local"
 regiao: "Arquipélago das Brumas"
 status: "Explorado parcialmente / Perigoso"

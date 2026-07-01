@@ -1,7 +1,6 @@
 ---
 tags: [raça, menorin, ancestralidade, daggerheart, halfling, comunidade]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865245/halfling-retrato.jpg"
-banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Halfling"
 regiao: "Planícies de Solathys"

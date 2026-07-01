@@ -1,7 +1,5 @@
 ---
 tags: [facção, ribbet, pantanal, veu, morthus]
-banner: "Imagens/os-guardioes-pantanal.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 2.200"
 lider: "Keth das Águas-Rasas"

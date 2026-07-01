@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [local, solathys, ossos-do-mundo, varroth, korreth, filhos-korreth]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865370/pico-das-chamas.png"
-banner_y: 0.5
 tipo: "Local"
 regiao: "Os Ossos do Mundo — pico central"
 status: "Ativo — inacessível para não-iniciados"

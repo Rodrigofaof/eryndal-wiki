@@ -1,6 +1,5 @@
 ---
 tags: [local, ilha, inferis, mar-thalran]
-banner_y: 0.4
 tipo: "Local"
 regiao: "Mar Thalran Sul"
 status: "Ativo"

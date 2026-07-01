@@ -1,7 +1,5 @@
 ---
 tags: [facção, elf, memória, arquivo, pacto-do-veu]
-banner: "Imagens/o-conclave-das-eras.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 890"
 lider: "Vaelith Arco-de-Lua"

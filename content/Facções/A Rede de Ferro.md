@@ -1,6 +1,5 @@
 ---
 tags: [faccao, mercadores, informacao, porto]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 3.800"
 lider: "Kessa Porto-Fundo"

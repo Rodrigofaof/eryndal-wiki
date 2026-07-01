@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [local, solathys, groven-profundo, dwarf, quarto-nivel]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865241/groven-profundo.jpg"
-banner_y: 0.5
 tipo: "Local"
 regiao: "Solathys"
 status: "Ativo / Acesso Restrito"

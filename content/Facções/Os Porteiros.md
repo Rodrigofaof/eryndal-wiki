@@ -1,6 +1,5 @@
 ---
 tags: [faccao, firbolg, faun, fronteira]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.068"
 lider: "Bren do Limiar (Floresta de Vyr) + Conselho de três Faun (Costa)"

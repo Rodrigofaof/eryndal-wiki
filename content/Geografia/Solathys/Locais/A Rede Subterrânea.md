@@ -1,6 +1,5 @@
 ---
 tags: [local, rede, sussurradores, subterraneo]
-banner_y: 0.4
 tipo: "Local"
 regiao: "Solathys (subterrâneo)"
 status: "Ativo/Secreto"

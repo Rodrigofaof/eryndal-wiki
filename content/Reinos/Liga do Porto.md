@@ -1,7 +1,6 @@
 ---
 tags: [facção, comércio, liga, extinta-parcialmente]
 banner: "[[liga-porto.png]]"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 2.401"
 lider: "Conselho dos Sete Portos"

@@ -1,6 +1,5 @@
 ---
 tags: [faccao, auranthas, resistencia]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.245"
 lider: "Sem liderança formal — rede horizontal"

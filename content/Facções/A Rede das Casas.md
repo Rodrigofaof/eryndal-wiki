@@ -1,7 +1,5 @@
 ---
 tags: [facção, halfling, hospedagem, informação, comunidade]
-banner: "Imagens/a-rede-das-casas.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 2.500"
 lider: "Maren da Casa-Quente"

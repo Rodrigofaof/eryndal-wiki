@@ -1,6 +1,5 @@
 ---
 tags: [faccao, clank, morthus, direitos]
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 4.243"
 lider: "Sable Porto-de-Ferro (advogada) + Keth-Seis (representante Clank)"

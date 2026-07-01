@@ -1,7 +1,6 @@
 ---
 tags: [deus, azúrael, vazio, aprisionado, mistério]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865061/azurael.png"
-banner_y: 0.5
 tipo: "Deus"
 dominio: "Vazio, O Que Não Deveria Existir"
 status: "Aprisionado"

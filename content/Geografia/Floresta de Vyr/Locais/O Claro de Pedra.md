@@ -1,6 +1,5 @@
 ---
 tags: [local, floresta-de-vyr, pedra-preta, anomalia]
-banner_y: 0.4
 tipo: "Local"
 regiao: "Floresta de Vyr"
 status: "Ativo/Perigoso"

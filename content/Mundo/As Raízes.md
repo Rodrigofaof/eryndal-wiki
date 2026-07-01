@@ -1,7 +1,6 @@
 ---
 tags: [local, cosmologia, raízes, dwarf, abismo, profundezas]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865055/as-raizes.jpg"
-banner_y: 0.5
 tipo: "Local"
 regiao: "Cosmologia — entre Eryndal e o Abismo Sem Fim"
 status: "Ativo — níveis superiores habitados, inferiores selados"

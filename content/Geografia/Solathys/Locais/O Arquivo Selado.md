@@ -1,7 +1,6 @@
-﻿---
+---
 tags: [local, solathys, grande-biblioteca, conselho-ancien, arquivo]
 banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865237/grande-biblioteca.jpg"
-banner_y: 0.4
 tipo: "Local"
 regiao: "Solathys"
 status: "Ativo / Acesso Restrito"

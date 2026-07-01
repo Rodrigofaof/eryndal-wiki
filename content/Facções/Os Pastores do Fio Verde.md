@@ -1,7 +1,5 @@
 ---
 tags: [facção, faun, elyndra, fio-verde, floresta]
-banner: "Imagens/os-pastores-fio-verde.png"
-banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 620"
 lider: "Belas das Raízes Cantantes"
