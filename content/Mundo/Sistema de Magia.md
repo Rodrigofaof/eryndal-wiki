@@ -1,6 +1,5 @@
 ---
 tags: [mundo, magia, mecânica, filamentos]
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865190/filamentos.png"
 tipo: "Mundo"
 ---
 

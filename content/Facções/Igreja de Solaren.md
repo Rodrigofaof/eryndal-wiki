@@ -4,7 +4,6 @@ tags:
   - igreja
   - solaren
   - ordem
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865256/igreja-solaren.jpg"
 tipo: Facção
 lider: Alto Sacerdote Aldren Vaux
 sede: Auranthas, Solathys
@@ -14,7 +13,7 @@ alinhamento: Ordem
 # Igreja de Solaren
 
 > [!infobox]
-> ![igreja-solaren](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865256/igreja-solaren.jpg)
+> ![[igreja-solaren.png]]
 > | | |
 > |---|---|
 > | **Tipo** | Organização religiosa |

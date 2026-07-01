@@ -7,51 +7,37 @@ tags: [índice]
 
 > *Os deuses criaram com amor e destruíram por acidente. Os mortais sobreviveram a tudo e construíram algo que os deuses não previram: irrelevância divina.*
 
-**Ano atual:** CF 4.247 — [[A Fratura]] está em curso. O [[Véu]] enfraquece. Algo desperta nas profundezas.
+**Ano atual:** CF 4.247 — [[A Fratura]] está em curso.
 
 ---
 
-## 🌌 O Mundo
+## 📜 A Relíquia de Torrão do Limiar
+
+[[Carta de Beren Voss ao Inquisidor]] — documento interceptado, CF 4.247
+
+---
+
+## 👥 Personagens
 
 | | |
 |---|---|
-| [[Cosmologia]] | Os três planos: Céu Eterno, Eryndal e o Abismo |
-| [[Sistema de Magia]] | Os sete Filamentos e seus custos |
-| [[A Fratura]] | O que está acontecendo agora |
-| [[Linha do Tempo Completa]] | CF 0 até o presente |
-| [[Era Atual]] | CF 4.247 em detalhe |
+| [[Beren Voss]] | Antiquário de Auranthas |
+| [[Vessa Raiz-Funda]] | Guardiã do Poço Cerimonial |
+| [[Coren das Cinzas]] | Protetor do vilarejo |
+| [[Nera Dente-de-Sal]] | Mercenária contratada |
+| [[Inquisidor Crae]] | Inquisidor da Igreja de Solaren |
+| [[Velo Belgarde]] | Aventureiro de Auranthas |
 
 ---
 
-## ⚡ Os Sete Deuses
+## 🗺️ Lugares
 
 | | |
 |---|---|
-| [[Solaren]] | Deus da Luz e da Ordem |
-| [[Nyxara]] | Deusa da Noite e dos Segredos |
-| [[Varroth]] | Deus da Guerra e da Sobrevivência |
-| [[Elyndra]] | Deusa da Natureza e do Crescimento |
-| [[Morthus]] | Deus da Morte e da Memória |
-| [[Thalris]] | Deus do Mar e do Tempo |
-| [[Azúrael]] | O Aprisionado — Deus do Vazio |
-
----
-
-## 🧬 Ancestralidades
-
-[[Human]] · [[Elf]] · [[Dwarf]] · [[Drakona]] · [[Clank]] · [[Faerie]] · [[Faun]] · [[Firbolg]] · [[Fungril]] · [[Galapa]] · [[Giant-kin]] · [[Goblin]] · [[Halfling]] · [[Inferis]] · [[Katari]] · [[Orc]] · [[Ribbet]] · [[Simiah]]
-
----
-
-## 🗺️ Geografia
-
-| | |
-|---|---|
-| [[Solathys]] | O continente principal |
-| [[Arquipélago das Brumas]] | As ilhas descobertas em CF 4.244 |
-| [[Terras Cinzentas]] | O norte devastado |
-| [[Floresta de Vyr]] | O domínio de Elyndra |
-| [[Costa do Esquecimento]] | A costa oeste proibida |
+| [[Torrão do Limiar]] | O vilarejo na fronteira das Terras Cinzentas |
+| [[Auranthas]] | A grande cidade do interior de Solathys |
+| [[Terras Cinzentas]] | O território devastado ao norte |
+| [[Grande Biblioteca de Auranthas]] | O maior arquivo de conhecimento de Eryndal |
 
 ---
 
@@ -60,18 +46,17 @@ tags: [índice]
 | | |
 |---|---|
 | [[Igreja de Solaren]] | A maior força institucional de Eryndal |
-| [[Irmandade da Bruma]] | Exploradores do Arquipélago |
-| [[Conselho dos Ancien]] | Guardiões do conhecimento |
-| [[Clã de Pedra]] | Protetores das profundezas |
-| [[Vigília Vermelha]] | Vigilantes do Fio Vazio (secretos) |
-| [[Filhos de Korreth]] | Herdeiros do dragão primordial |
+| [[Vigília Vermelha]] | Vigilantes do Fio Vazio |
 
 ---
 
-## 📜 Crônicas
+## 🌌 O Mundo
 
-[[Carta de Beren Voss ao Inquisidor]] — documento interceptado, CF 4.247
+| | |
+|---|---|
+| [[Sistema de Magia]] | Os sete Filamentos e seus custos |
+| [[A Fratura]] | O que está acontecendo agora em CF 4.247 |
 
 ---
 
-*Use a busca (ícone 🔍 no topo) ou o grafo de links para navegar.*
+*Use a busca (ícone 🔍 no topo) para navegar.*

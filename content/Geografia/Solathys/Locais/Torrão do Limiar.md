@@ -1,6 +1,5 @@
 ---
 tags: [local, solathys, terras-cinzentas, halfling, human, dwarf, faun, aventura]
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865463/terras-cinzentas.png"
 tipo: "Local"
 regiao: "Solathys"
 status: "Ativo / Tenso"

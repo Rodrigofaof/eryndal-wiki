@@ -1,6 +1,5 @@
 ---
 tags: [cidade, solathys, capital, human, elf]
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865059/auranthas.png"
 tipo: "Cidade"
 regiao: "Solathys"
 populacao: "~200.000"
@@ -39,7 +38,7 @@ governante: "Conselho dos Cinco Selos"
 >>
 >
 >> [!col-img]
->> ![auranthas](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865059/auranthas.png)
+>> ![[auranthas.png]]
 >>
 >> | Ficha | |
 >> |---|---|

@@ -1,6 +1,5 @@
 ---
 tags: [crônicas, a-fratura, mistério, conflito-central]
-banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782864893/a-fratura.png"
 ---
 
 # A Fratura
