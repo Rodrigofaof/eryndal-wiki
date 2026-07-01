@@ -13,7 +13,7 @@ alinhamento: Ordem
 # Igreja de Solaren
 
 > [!infobox]
-> ![[igreja-solaren.png]]
+> ![igreja-solaren.png](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865256/igreja-solaren.jpg)
 > | | |
 > |---|---|
 > | **Tipo** | Organização religiosa |

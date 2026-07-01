@@ -1,4 +1,5 @@
 ---
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865068/Beto.jpg"
 tipo: "Personagem"
 raca: "Inferis"
 epoca: "CF 4.221–presente"
@@ -27,7 +28,7 @@ papel: "Personagem Jogador — Guerreiro aristocrata de Auranthas. Aliado de Vic
 >> > Velo foi instrumento de remover a pedra que impedia o avanço das [[Terras Cinzentas]]. [[Vessa Raiz-Funda]] acordou com esse conhecimento e com o cenário devastado ao seu redor. Velo sabe o que foi feito. O que faz com isso define o próximo arco.
 >
 >> [!col-img]
->> ![[inferis-retrato.png]]
+>> ![inferis-retrato.png](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865264/inferis-retrato.jpg)
 >>
 >> | Personagem | |
 >> |---|---|

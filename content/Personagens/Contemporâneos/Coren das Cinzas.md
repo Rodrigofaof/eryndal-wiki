@@ -1,4 +1,5 @@
 ---
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865463/terras-cinzentas.png"
 tipo: "Personagem"
 raca: "Dwarf"
 epoca: "CF 4.215–presente"
@@ -29,11 +30,15 @@ papel: "Guardião não-oficial de Torrão do Limiar; terceira geração de Dwarf
 >>
 >> Isso significa que Coren é a única outra pessoa além de Vessa que tocou a Pedra-Âncora no contexto do ritual. E que sente o pulso novo desde CF 4.245 como algo que não consegue descrever adequadamente — só sabe que é diferente, e que diferente nesse contexto nunca é bom.
 >>
->> ## ⚠️ Estado Atual (CF 4.247)
->> Coren está dormindo mal há semanas. Não porque tenha medo — porque não sabe para onde olhar. A ameaça de [[Beren Voss]] está vindo de Auranthas, via terceiros contratados. A mudança na pedra está vindo de dentro do ritual. A linha cinza está avançando no horizonte. Qualquer um desses problemas seria gerenciável. Os três juntos o deixam com a sensação de estar colocando os dedos em buracos numa represa que está cedendo.
+>> ## ⚠️ O Que Aconteceu (CF 4.247)
+>> A [[A Relíquia de Torrão do Limiar|Pedra-Âncora de Véspera]] foi removida. [[Vessa Raiz-Funda]] está morta — morta dentro do Poço das Raízes, que ela guardou por 31 anos. Coren ficou em [[Torrão do Limiar]].
+>>
+>> As bordas dos campos próximas à linha cinza já começaram a desbotar — a mudança ainda é sutil, mas ele conhece os campos bem demais para não ver. Os moradores estão discutindo evacuação. Duzentas pessoas sem para onde ir.
+>>
+>> Coren não consegue abandonar o poço. Mesmo vazio. O livro de 335 anos de registros de Vessa está nas suas mãos. Não sabe o que fazer com ele. Não é leitor — é guardião. E agora não há o que guardar.
 >
 >> [!col-img]
->> ![[coren-das-cinzas.png]]
+>> ![coren-das-cinzas.png](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865122/coren-das-cinzas.png)
 >>
 >> | Ficha | |
 >> |---|---|
@@ -44,11 +49,11 @@ papel: "Guardião não-oficial de Torrão do Limiar; terceira geração de Dwarf
 >> | **Facção** | Nenhuma (lealdade ao vilarejo) |
 >> | **Época** | CF 4.215–presente |
 
-> [!warning] Tensão Ativa
-> Coren está monitorando os forasteiros enviados por Beren Voss e vai interceptá-los antes que cheguem ao poço. A escolha é: falar com [[Vessa Raiz-Funda]] ou bloquear com força. Ele vai tentar o primeiro caminho — mas tem pouca margem de paciência antes do segundo.
+> [!warning] CF 4.247 — Resultado
+> Coren das Cinzas permanece em [[Torrão do Limiar]]. [[Vessa Raiz-Funda]] está morta. Ele foi incapaz de proteger o poço — não estava lá quando a infiltração aconteceu. Essa falha vai durar mais do que qualquer linha cinza avançando nos campos.
 
-> [!tip] Gancho de Aventura
-> Se os heróis provarem que estão do lado certo, Coren vai ser um aliado incondicional — com todas as vantagens táticas que um Dwarf guardião num terreno que conhece tem. E sabe coisas sobre a estrutura do poço que nem Vessa sabe, porque é o artesão que faz a manutenção da pedra.
+> [!tip] O Que Coren Tem
+> O livro de registros de Vessa. A estrutura intacta do poço. Conhecimento técnico da pedra e do pedestal que nem Vessa tinha — porque ele fazia a manutenção. E raiva suficiente para agir se alguém aparecer com uma razão que valha.
 
 
 ---

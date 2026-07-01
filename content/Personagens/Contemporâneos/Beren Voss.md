@@ -1,4 +1,5 @@
 ---
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865237/grande-biblioteca.jpg"
 tipo: "Personagem"
 raca: "Human"
 epoca: "CF 4.201–presente"
@@ -26,15 +27,17 @@ papel: "Antiquário de Auranthas; intermediário involuntário da Inquisição d
 >>
 >> A Pedra-Âncora de [[Torrão do Limiar]] foi identificada num relatório de inspeção eclesiástica de três anos atrás. Beren foi ao vilarejo, ofereceu compra justa, foi recusado. Voltou com documentação fabricada de "herança familiar", foi recusado com mais rispidez. Agora está tentando contratar terceiros para recuperar a pedra.
 >>
->> ## ⚠️ Estado Atual (CF 4.247)
->> Beren está sendo usado. Não sabe o nome do mandante real ([[Inquisidor Crae]]). Não sabe por que a pedra realmente é alvo (porque prova que conexão divina direta é possível sem a Igreja). Não sabe que o vilarejo vai ser destruído se a pedra for removida.
+>> ## ⚠️ O Que Aconteceu (CF 4.247)
+>> Beren não era o fim da cadeia. Era um homem honesto sendo usado por uma instituição que não lhe contou a história completa. Acreditou que estava ajudando até o fim.
 >>
->> Acredita que está ajudando. Isso o torna mais difícil de condenar — e mais interessante como personagem numa cena de confronto.
+>> A missão foi concluída: a Pedra-Âncora de Véspera foi removida de [[Torrão do Limiar]] e entregue ao intermediário designado. Beren enviou relatório detalhado ao destinatário eclesiástico — nomeando os aventureiros, descrevendo os métodos, registrando a morte de [[Vessa Raiz-Funda]].
 >>
->> O detalhe que o trai: as cartas de autorização que carrega têm, embaixo do seu lacre pessoal, o lacre secundário da Inquisição de Solaren. Ele não o colocou lá — veio já nas cartas pré-impressas que lhe foram fornecidas. Ele nunca olhou com atenção suficiente para notar.
+>> Duas semanas depois foi detido por agentes da [[Igreja de Solaren]]. Sabia demais sobre os métodos e rotas de recolhimento para ser mantido como homem livre. Está num mosteiro de Solaren em "retiro espiritual". Não recebe visitas.
+>>
+>> O detalhe que o trairia: as cartas de autorização que carregava tinham, embaixo do seu lacre pessoal, o lacre secundário da Inquisição de Solaren — que ele nunca olhou com atenção suficiente para notar.
 >
 >> [!col-img]
->> ![[beren-voss.png]]
+>> ![beren-voss.png](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865067/beren-voss.png)
 >>
 >> | Ficha | |
 >> |---|---|
@@ -45,11 +48,11 @@ papel: "Antiquário de Auranthas; intermediário involuntário da Inquisição d
 >> | **Facção** | Nenhuma (intermediário involuntário da Igreja) |
 >> | **Época** | CF 4.201–presente |
 
-> [!warning] Tensão Ativa
-> Beren contratou [[Nera Dente-de-Sal]] como contingência caso os heróis falhassem ou o vilarejo resistisse com força. Não disse a Nera que os heróis também eram descartáveis se soubessem demais. Nera ainda não descobriu isso — mas vai descobrir.
+> [!warning] CF 4.247 — Resultado
+> Beren Voss está detido num mosteiro de Solaren. A [[Carta de Beren Voss ao Inquisidor|carta que enviou ao seu mandante]] foi interceptada antes de chegar ao destino. Seus documentos — incluindo correspondência que apontava para a cadeia de intermediários eclesiásticos — provavelmente foram confiscados. Mas talvez não todos.
 
-> [!tip] Gancho de Aventura
-> Beren não é o fim da cadeia. Os documentos que carrega, se examinados com cuidado, apontam para um funcionário eclesiástico → que aponta para outro → que eventualmente chega a [[Inquisidor Crae]]. Cada intermediário é uma cena diferente. O confronto com Crae pode ser o ponto mais interessante da investigação.
+> [!tip] O Que Ele Sabe
+> Beren conhece o funcionário eclesiástico que o contactou. Conhece o local onde entregava os relatórios. Conhece os outros objetos que já foram "recolhidos" pela mesma operação antes da Pedra-Âncora. Se alguém conseguir falar com ele — o que não é simples — ele pode ser o elo que liga tudo.
 
 
 ---

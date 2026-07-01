@@ -1,8 +1,9 @@
 ---
 tags: [local, solathys, terras-cinzentas, halfling, human, dwarf, faun, aventura]
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865463/terras-cinzentas.png"
 tipo: "Local"
 regiao: "Solathys"
-status: "Ativo / Tenso"
+status: "Ativo / Crítico"
 ---
 
 # Torrão do Limiar
@@ -23,12 +24,19 @@ status: "Ativo / Tenso"
 >>
 >> A cor característica do vilarejo, vista de fora: o contraste entre o verde vivo dos campos e a linha cinza-esverdeada que começa a cinquenta metros do último muro. A linha avança quando chove pouco ou quando o ritual atrasa. Recua quando o ritual é feito cedo. Os moradores aprenderam a ler essa linha como outros leem o céu antes de uma tempestade.
 >>
->> ## ⚠️ Estado Atual (CF 4.247)
->> [[Beren Voss]], um antiquário de [[Auranthas]] agindo como intermediário para [[Inquisidor Crae]] e a [[Igreja de Solaren]], tentou comprar a Pedra-Âncora três vezes e foi recusado. Agora está tentando recuperá-la através de terceiros contratados. O vilarejo sabe que novas visitas de forasteiros podem ser mais uma tentativa.
+>> ## ⚠️ O Que Aconteceu (CF 4.247)
+>> A Pedra-Âncora de Véspera foi removida do Poço das Raízes por um grupo de aventureiros contratados por [[Beren Voss]], agindo como intermediário de uma autoridade eclesiástica não identificada. A guardiã [[Vessa Raiz-Funda]] foi morta no interior do poço. Os Sentinelas da Raiz foram derrotados.
 >>
->> [[Vessa Raiz-Funda]], guardiã da pedra há 31 anos, nota que desde CF 4.245 a pedra exige dois participantes no ritual onde antes bastava um. Os veios verdes pulsam em padrões novos — ela não sabe o que eles significam, mas sabe que algo mudou.
+>> O ritual semanal não pode mais ser realizado. O filamento de Fio Verde que [[Essel das Cinzas]] âncou ao solo há 335 anos está se desfazendo.
 >>
->> A linha cinza no horizonte avançou 12 metros em dois anos. Não é muito, mas é mais do que avançou nos 30 anos anteriores. Vessa não disse isso para ninguém além de [[Coren das Cinzas]].
+>> Os campos estão desbotando nas bordas — devagar, mas de forma visível. Os duzentos moradores de Torrão do Limiar estão discutindo evacuação. [[Coren das Cinzas]] permanece no vilarejo, sozinho, com o livro de registros de Vessa nas mãos.
+>>
+>> | Torrão do Limiar | |
+>> |---|---|
+>> | **Guardiã** | ~~[[Vessa Raiz-Funda]]~~ (morta) |
+>> | **Guardião** | [[Coren das Cinzas]] (permanece) |
+>> | **Pedra-Âncora** | Removida — destino desconhecido |
+>> | **Campos** | Desbotando nas bordas |
 >
 >> [!col-img]
 >> ![[torrao-do-limiar.png]]
@@ -37,10 +45,10 @@ status: "Ativo / Tenso"
 >> |---|---|
 >> | **Tipo** | Vilarejo fronteiriço |
 >> | **Região** | Solathys, fronteira das Terras Cinzentas |
->> | **Status** | Ativo / Tenso |
+>> | **Status** | Crítico |
 >> | **Fundado** | CF 3.912 (por Essel das Cinzas) |
->> | **População** | ~180 (Human, Halfling, Dwarf principalmente) |
->> | **Guardiã** | [[Vessa Raiz-Funda]] |
+>> | **População** | ~200 (Human, Halfling, Dwarf principalmente) |
+>> | **Guardiã** | ~~[[Vessa Raiz-Funda]]~~ (morta) |
 >> | **Guardião** | [[Coren das Cinzas]] |
 
 ## 🕯️ O Poço das Raízes
@@ -59,14 +67,12 @@ Descobriu na tradição oral dos Faun que conexão com os Filamentos não requer
 
 Morreu no CF 3.953. O filamento continuou porque já estava enraizado fundo demais para desfazer-se quando ela foi embora. A pedra é o ponto físico de ancoragem.
 
-> [!warning] Tensão Ativa
-> [[Beren Voss]] está tentando contratar forasteiros para recuperar a pedra. O vilarejo sabe que novas caras com propostas educadas podem ser mais tentativas do mesmo. A hostilidade inicial a qualquer forasteiro é defensiva, não agressiva — mas Coren das Cinzas não diferencia com facilidade.
-
-> [!tip] Gancho de Aventura
-> A aventura [[A Relíquia de Torrão do Limiar]] está ancorada neste local. O vilarejo é o ponto central da decisão moral: a pedra fica ou vai? E quem tem razão sobre o que é "certo" nesse caso?
+> [!warning] CF 4.247 — Resultado
+> A Pedra-Âncora foi removida. [[Vessa Raiz-Funda]] está morta. Os campos estão morrendo devagar. O vilarejo tem semanas — talvez meses — antes de precisar esvaziar. [[Coren das Cinzas]] permanece. O livro de 335 anos de registros ainda existe.
 
 > [!question] Mistério em Aberto
-> Por que A Pedra-Âncora de Véspera ficou mais exigente desde CF 4.245 — o início de [[A Fratura]]? Vessa acredita que a pedra está *respondendo* às Fraturas do Véu, tentando compensar automaticamente. Se ela estiver certa, a pedra pode ser uma chave para entender onde as Fraturas são mais graves.
+> A Pedra-Âncora de Véspera estava respondendo às Fraturas do Véu desde CF 4.245 — pulsando em direção a algo. Onde ela está agora? O que a [[Igreja de Solaren]] vai fazer com ela? E se a pedra ainda está tentando alcançar outros pontos de ancoragem que Essel das Cinzas planejou mas nunca completou...
+
 
 
 ---

@@ -1,8 +1,9 @@
 ---
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865055/as-raizes.jpg"
 tipo: "Personagem"
 raca: "Halfling"
-epoca: "CF 4.183–presente"
-papel: "Guardiã do Poço das Raízes em Torrão do Limiar; décima primeira na cadeia ininterrupta de guardiãs desde Essel das Cinzas; única pessoa que realiza o ritual semanal da Pedra-Âncora"
+epoca: "CF 4.183–4.247"
+papel: "Guardiã do Poço das Raízes em Torrão do Limiar; décima primeira na cadeia ininterrupta de guardiãs desde Essel das Cinzas; morta por Velo Belgarde no interior do poço após a remoção da Pedra-Âncora de Véspera"
 ---
 
 # Vessa Raiz-Funda
@@ -29,11 +30,15 @@ papel: "Guardiã do Poço das Raízes em Torrão do Limiar; décima primeira na 
 >>
 >> Se acreditar que o forasteiro é uma ameaça: vai ser tão educada que demora alguns segundos para perceber que foi expulsa com cortesia absoluta.
 >>
->> ## ⚠️ Estado Atual (CF 4.247)
->> A tentativa de [[Beren Voss]] de contratar terceiros é a terceira ofensiva. Vessa sabe que vai ter uma quarta se a terceira falhar. Está considerando, pela primeira vez, pedir ajuda externa — mas não sabe a quem. A [[Igreja de Solaren]] é o inimigo. A [[Vigília Vermelha]] é desconhecida. O [[Conselho dos Ancien]] está em Auranthas. A [[Confederação Thalrana]] está longe demais.
+>> ## ⚠️ O Que Aconteceu (CF 4.247)
+>> Um grupo de aventureiros contratados por [[Beren Voss]] infiltrou o Poço das Raízes. Vessa foi neutralizada enquanto realizava o ritual semanal. Quando acordou, a [[A Relíquia de Torrão do Limiar|Pedra-Âncora de Véspera]] já havia sido removida do pedestal. Os Sentinelas da Raiz haviam sido derrotados.
+>>
+>> Vessa explicou o que foi feito — com clareza e sem colapso. Disse o que precisava ser dito. Foi morta logo depois, por [[Velo Belgarde]], dentro do poço.
+>>
+>> A cadeia de 116 guardiãs desde Essel das Cinzas terminou aqui. O ritual semanal não pode mais ser realizado. Vessa Raiz-Funda está morta.
 >
 >> [!col-img]
->> ![[vessa-raiz-funda.png]]
+>> ![vessa-raiz-funda.png](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865496/vessa-raiz-funda.png)
 >>
 >> | Ficha | |
 >> |---|---|
@@ -44,11 +49,11 @@ papel: "Guardiã do Poço das Raízes em Torrão do Limiar; décima primeira na 
 >> | **Facção** | Nenhuma (independente) |
 >> | **Época** | CF 4.183–presente |
 
-> [!warning] Tensão Ativa
-> Vessa suspeita que o ritual semanal, sozinha, não vai ser suficiente por muito mais tempo. O padrão de pulso novo na pedra — que ela ainda não consegue ler — pode ser a pedra tentando alcançar outros pontos da rede de Essel (que ela não sabe que existem). Ou pode ser algo pior.
+> [!warning] CF 4.247 — Resultado
+> Vessa Raiz-Funda está morta. O livro de 335 anos de registros do ritual permanece em [[Torrão do Limiar]], agora nas mãos de [[Coren das Cinzas]], que não sabe como lê-lo. Os campos do vilarejo estão começando a desbotar nas bordas. Sem guardiã e sem pedra, o ritual não pode ser retomado.
 
-> [!tip] Gancho de Aventura
-> Se os heróis ajudarem [[Torrão do Limiar]], Vessa pode se tornar uma aliada extraordinária — ela conhece mais sobre magia pré-Igreja e conexão direta com Filamentos do que a maioria dos estudiosos de Auranthas. E tem um livro de 335 anos de dados empíricos sobre como uma âncora de Fio Verde se comporta sob diferentes condições.
+> [!tip] Legado
+> O livro de registros de Vessa — 335 anos de observações empíricas sobre como um filamento de Fio Verde responde a condições climáticas, à Fratura e à presença humana — pode ser a chave para entender como criar ou restaurar âncoras de Fio Verde. Coren o tem. Não sabe o que vale.
 
 
 ---

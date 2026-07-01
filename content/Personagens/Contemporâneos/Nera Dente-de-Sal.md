@@ -1,4 +1,5 @@
 ---
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865125/costa-esquecimento.png"
 tipo: "Personagem"
 raca: "Katari"
 epoca: "CF 4.210–presente"
@@ -39,7 +40,7 @@ papel: "Capitã mercenária contratada por Beren Voss como contingência; chegar
 >> Nera está acampada a uma hora do vilarejo, esperando o prazo. Tavi Voo-Baixo está incomum — quieta, o que nunca é bom sinal. Bren Casco-Duro já perguntou uma vez se o briefing estava completo. Korven está afiando um machado e não disse nada. Nera sabe que esse trabalho tem algo errado mas não tem ainda informação suficiente para cancelar.
 >
 >> [!col-img]
->> ![[nera-dente-de-sal.png]]
+>> ![nera-dente-de-sal.png](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865343/nera-dente-de-sal.png)
 >>
 >> | Ficha | |
 >> |---|---|

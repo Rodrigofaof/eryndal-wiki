@@ -1,5 +1,6 @@
 ---
 tags: [geografia, terras-cinzentas, norte]
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865463/terras-cinzentas.png"
 tipo: "Região"
 status: "Parcialmente explorado — HOSTIL"
 origem: "Batalha divina CF 2.087"
@@ -8,7 +9,7 @@ origem: "Batalha divina CF 2.087"
 # Terras Cinzentas
 
 > [!infobox]
-> ![[terras-cinzentas.png]]
+> ![terras-cinzentas.png](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865463/terras-cinzentas.png)
 > | | |
 > |---|---|
 > | **Tipo** | Região ártica amaldiçoada |

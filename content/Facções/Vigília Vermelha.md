@@ -1,5 +1,6 @@
 ---
 tags: [facção, secreta, fio-vazio, azúrael, perigosa]
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865499/vigilia-vermelha.png"
 tipo: "Facção"
 fundada: "CF 2.660"
 lider: "Desconhecido — A Voz"
@@ -38,7 +39,7 @@ alinhamento: "Proteção de Eryndal através do conhecimento proibido"
 >> Ainda não informaram ninguém.
 >
 >> [!col-img]
->> ![[vigilia-vermelha.png]]
+>> ![vigilia-vermelha.png](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865499/vigilia-vermelha.png)
 >>
 >> | Ficha | |
 >> |---|---|
