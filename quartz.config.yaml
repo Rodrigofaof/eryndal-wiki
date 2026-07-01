@@ -24,29 +24,29 @@ configuration:
     cdnCaching: true
     typography:
       header: Cinzel
-      body: Lora
+      body: Crimson Text
       code: JetBrains Mono
     colors:
       lightMode:
-        light: "#f5f0e8"
-        lightgray: "#e0d4bc"
-        gray: "#9e8e72"
-        darkgray: "#4a3a26"
-        dark: "#2c1f0f"
-        secondary: "#8b6914"
-        tertiary: "#4a7a5a"
-        highlight: "rgba(139, 105, 20, 0.12)"
-        textHighlight: "#f0d08088"
+        light: "#ffffff"
+        lightgray: "#dde5ee"
+        gray: "#7a90a8"
+        darkgray: "#1e3a6e"
+        dark: "#0d2040"
+        secondary: "#1a4080"
+        tertiary: "#2a6a4a"
+        highlight: "rgba(26, 64, 128, 0.07)"
+        textHighlight: "#b8d0f088"
       darkMode:
-        light: "#16120e"
-        lightgray: "#2d2318"
-        gray: "#6b5a42"
-        darkgray: "#c4b49a"
-        dark: "#f0e8d8"
-        secondary: "#d4a840"
-        tertiary: "#6aaa78"
-        highlight: "rgba(212, 168, 64, 0.15)"
-        textHighlight: "#a0680288"
+        light: "#0e1525"
+        lightgray: "#1a2540"
+        gray: "#3a5070"
+        darkgray: "#aabdd8"
+        dark: "#d0dfee"
+        secondary: "#6090d0"
+        tertiary: "#5a9a70"
+        highlight: "rgba(96, 144, 208, 0.12)"
+        textHighlight: "#3a5a8088"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true

@@ -19,6 +19,8 @@ tags: [índice]
 
 ## 👥 Personagens
 
+**NPCs**
+
 | | |
 |---|---|
 | [[Beren Voss]] | Antiquário de Auranthas |
@@ -26,7 +28,14 @@ tags: [índice]
 | [[Coren das Cinzas]] | Protetor do vilarejo |
 | [[Nera Dente-de-Sal]] | Mercenária contratada |
 | [[Inquisidor Crae]] | Inquisidor da Igreja de Solaren |
-| [[Velo Belgarde]] | Aventureiro de Auranthas |
+
+**Aventureiros**
+
+| | |
+|---|---|
+| [[Velo Belgarde]] | Inferis — Beto |
+| [[Galinor]] | Firbolg druida — Heitor |
+| [[Talon]] | Quacho Seraph, seguidor de Elyndra — Lavi |
 
 ---
 
