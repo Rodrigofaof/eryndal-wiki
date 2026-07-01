@@ -1,6 +1,6 @@
 ﻿---
 tags: [facção, irmandade, exploração, bruma]
-banner: "Imagens/irmandade-bruma.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865265/irmandade-bruma.png"
 banner_y: 0.3
 tipo: "Facção"
 lider: "Almirante Serafin Davar"
@@ -11,7 +11,7 @@ alinhamento: "Descoberta"
 # Irmandade da Bruma
 
 > [!infobox]
-> ![[irmandade-bruma.png]]
+> ![irmandade-bruma](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865265/irmandade-bruma.png)
 > | | |
 > |---|---|
 > | **Tipo** | Organização de exploração |

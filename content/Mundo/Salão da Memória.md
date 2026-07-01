@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/salao-memoria.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865397/salao-memoria.png"
 ---
 ---
 tags: [local, cosmologia, morthus, almas, salão-da-memória]
-banner: "Imagens/salao-memoria.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865397/salao-memoria.png"
 banner_y: 0.4
 tipo: "Local"
 regiao: "Cosmologia — entre o Plano Mortal e o Abismo Sem Fim"
@@ -37,7 +37,7 @@ status: "Ativo — em crise desde CF 4.245"
 >> Em CF 4.246, quando o Ancião Syleth fez a pergunta direta via oráculo, Morthus confirmou: as almas desaparecidas não estão no Salão, não estão no Abismo, não estão no Céu Eterno. Estão em algum lugar que ele não consegue localizar.
 >
 >> [!col-img]
->> ![[salao-memoria.png]]
+>> ![salao-memoria](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865397/salao-memoria.png)
 >>
 >> | Local | |
 >> |---|---|

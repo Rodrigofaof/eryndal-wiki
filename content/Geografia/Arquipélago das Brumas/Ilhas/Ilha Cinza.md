@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/ilha-cinza.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865258/ilha-cinza.png"
 ---
 ---
 tags: [local, arquipélago, ilha, irmandade, perigoso]
-banner: "Imagens/ilha-cinza.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865258/ilha-cinza.png"
 banner_y: 0.4
 tipo: "Ilha"
 regiao: "Arquipélago das Brumas"
@@ -44,7 +44,7 @@ descoberta: "CF 4.244"
 >> > Contém seis objetos retirados das ruínas que produziram efeitos indesejáveis quando manuseados. O mais recente: uma pedra translúcida que, ao ser tocada, faz o tocador ver o mundo como se fosse antes da criação. Todos os seis tocadores recuperaram-se. O sétimo não tocou — viu pelos olhos do sexto e ficou em coma por três dias.
 >
 >> [!col-img]
->> ![[ilha-cinza.png]]
+>> ![ilha-cinza](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865258/ilha-cinza.png)
 >>
 >> | Ficha | |
 >> |---|---|

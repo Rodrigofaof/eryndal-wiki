@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/fungril-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865203/fungril-retrato.jpg"
 ---
 ---
 tags: [raça, micelar, ancestralidade, daggerheart, gorvath, raízes, fungo]
-banner: "Imagens/fungril-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865203/fungril-retrato.jpg"
 banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Fungril"
@@ -54,7 +54,7 @@ origem: "Rede fúngica"
 >> *Relacionado: [[Raças do Mundo]], [[Dwarf]], [[Cosmologia]], [[A Fratura]]*
 >
 >> [!col-img]
->> ![[fungril-retrato.png]]
+>> ![fungril-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865203/fungril-retrato.jpg)
 >>
 >> | Ficha | |
 >> |---|---|

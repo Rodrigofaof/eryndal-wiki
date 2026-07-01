@@ -1,6 +1,6 @@
 ﻿---
 tags: [cidade, solathys, capital, human, elf]
-banner: "Imagens/auranthas.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865059/auranthas.png"
 banner_y: 0.4
 tipo: "Cidade"
 regiao: "Solathys"
@@ -42,7 +42,7 @@ governante: "Conselho dos Cinco Selos"
 >> > Três pesquisadores do Conselho desapareceram nos últimos dois meses. O Conselho não comunicou às autoridades. As autoridades são controladas pela Igreja.
 >
 >> [!col-img]
->> ![[auranthas.png]]
+>> ![auranthas](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865059/auranthas.png)
 >>
 >> | Ficha | |
 >> |---|---|

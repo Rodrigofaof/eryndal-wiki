@@ -1,6 +1,6 @@
 ﻿---
 tags: [local, solathys, ossos-do-mundo, varroth, korreth, filhos-korreth]
-banner: "Imagens/pico-das-chamas.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865370/pico-das-chamas.png"
 banner_y: 0.5
 tipo: "Local"
 regiao: "Os Ossos do Mundo — pico central"
@@ -36,7 +36,7 @@ status: "Ativo — inacessível para não-iniciados"
 >> Três expedições documentadas chegaram ao cume. Uma voltou com relato incoerente que o [[Conselho dos Ancien]] arquivou como "estado alterado prolongado." Uma não voltou. A terceira, de CF 4.180, voltou com dois de três membros — o sobrevivente único deixou o único relato citado acima e recusou elaborar o que havia no cume.
 >
 >> [!col-img]
->> ![[pico-das-chamas.png]]
+>> ![pico-das-chamas](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865370/pico-das-chamas.png)
 >>
 >> | Local | |
 >> |---|---|

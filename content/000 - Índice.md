@@ -1,5 +1,5 @@
 ---
-banner: "Imagens/arquipelago-brumas.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
 banner_y: 0.55
 tags: [índice, meta]
 ---

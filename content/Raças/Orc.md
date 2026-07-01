@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/orc-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865355/orc-retrato.jpg"
 ---
 ---
 tags: [raça, gorún, ancestralidade, daggerheart, varroth, guerreiros]
-banner: "Imagens/orc-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865355/orc-retrato.jpg"
 banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Orc"
@@ -51,7 +51,7 @@ origem: "Varroth (saturação)"
 >> *Relacionado: [[Raças do Mundo]], [[Varroth]], [[Sistema de Magia]]*
 >
 >> [!col-img]
->> ![[orc-retrato.png]]
+>> ![orc-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865355/orc-retrato.jpg)
 >>
 >> | Ficha | |
 >> |---|---|

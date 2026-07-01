@@ -3,7 +3,7 @@ banner: "[[clank-retrato.png]]"
 ---
 ---
 tags: [raça, forjados, ancestralidade, daggerheart, gorvath, construto]
-banner: "Imagens/clank-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865104/clank-retrato.png"
 banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Clank"
@@ -51,7 +51,7 @@ origem: "Artificers Dwarf"
 >> *Relacionado: [[Raças do Mundo]], [[Dwarf]], [[Morthus]], [[Sistema de Magia]]*
 >
 >> [!col-img]
->> ![[clank-retrato.png]]
+>> ![clank-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865104/clank-retrato.png)
 >>
 >> | Ficha | |
 >> |---|---|

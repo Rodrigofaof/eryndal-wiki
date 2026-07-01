@@ -1,6 +1,6 @@
 ﻿---
 tags: [cidade, solathys, dwarf, subterrânea, raízes]
-banner: "Imagens/groven-profundo.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865241/groven-profundo.jpg"
 banner_y: 0.4
 tipo: "Cidade"
 regiao: "Solathys (subsolo)"
@@ -40,7 +40,7 @@ governante: "Conselho dos Seis Clãs"
 >> > Os primeiros [[Clank]] foram criados em Groven no CF 2.950 para trabalho nos níveis perigosos. Alguns ainda vivem aqui. Eles ouviram — ou sentiram — algo nos dias anteriores ao lacramento do quarto nível. Nenhum foi formalmente interrogado.
 >
 >> [!col-img]
->> ![[groven-profundo.png]]
+>> ![groven-profundo](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865241/groven-profundo.jpg)
 >>
 >> | Ficha | |
 >> |---|---|

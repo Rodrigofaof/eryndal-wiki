@@ -1,6 +1,6 @@
 ﻿---
 tags: [local, vyr-anath, floresta-vyr, elf, ruínas, história]
-banner: "Imagens/vyr-anath.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865503/vyr-anath.png"
 banner_y: 0.4
 tipo: "Local"
 status: "Soterrado sob a Floresta de Vyr"
@@ -33,7 +33,7 @@ status: "Soterrado sob a Floresta de Vyr"
 >> Isso não é sobrenatural no sentido de fantasmas ou ecos mágicos. É mais simples: espaços onde determinadas coisas aconteceram repetidamente por séculos retêm algo daquelas coisas. Não memória — *hábito*. A câmara central de Vyr-Anath ainda tem o hábito de receber a presença de Elyndra.
 >
 >> [!col-img]
->> ![[vyr-anath.png]]
+>> ![vyr-anath](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865503/vyr-anath.png)
 >>
 >> | Local | |
 >> |---|---|

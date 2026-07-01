@@ -1,6 +1,6 @@
 ﻿---
 tags: [geografia, costa-do-esquecimento, ruínas, mistério]
-banner: "Imagens/costa-esquecimento.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865125/costa-esquecimento.png"
 banner_y: 0.4
 tipo: "Região"
 status: "PROIBIDO — Igreja de Solaren"
@@ -10,7 +10,7 @@ ruinas_apareceram: "CF 4.197"
 # Costa do Esquecimento
 
 > [!infobox]
-> ![[costa-esquecimento.png]]
+> ![costa-esquecimento](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865125/costa-esquecimento.png)
 > | | |
 > |---|---|
 > | **Tipo** | Costa com ruínas pré-criação |

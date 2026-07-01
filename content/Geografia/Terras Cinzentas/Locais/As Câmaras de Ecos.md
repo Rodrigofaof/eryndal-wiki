@@ -1,6 +1,6 @@
 ﻿---
 tags: [local, terras-cinzentas, batalha-das-chamas, varroth, solaren]
-banner: "Imagens/terras-cinzentas.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865463/terras-cinzentas.png"
 banner_y: 0.4
 tipo: "Local"
 regiao: "Terras Cinzentas"
@@ -31,7 +31,7 @@ status: "Ativo / Perigoso"
 >> A [[Vigília Vermelha]] tem dados documentando a mudança. O que a mudança significa — sua equipe de análise tem três interpretações conflitantes e uma reunião agendada para CF 4.248 para resolver o conflito.
 >
 >> [!col-img]
->> ![[terras-cinzentas.png]]
+>> ![terras-cinzentas](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865463/terras-cinzentas.png)
 >>
 >> | As Câmaras de Ecos | |
 >> |---|---|

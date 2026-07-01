@@ -1,5 +1,5 @@
 ---
-banner: "Imagens/Varroth.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865488/Varroth.png"
 ---
 ---
 tags:
@@ -7,7 +7,7 @@ tags:
   - varroth
   - guerra
   - força
-banner: "Imagens/Varroth.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865488/Varroth.png"
 banner_y: 0.4
 tipo: Deus
 dominio: Guerra, Conquista, Força
@@ -45,7 +45,7 @@ alinhamento: Conflito
 >> > A batalha do CF 2.087 deixou a essência de Korreth presa nas [[Terras Cinzentas]]. [[A Fratura]] está reativando essa essência.
 >
 >> [!col-img]
->> ![[Varroth.png]]
+>> ![Varroth](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865488/Varroth.png)
 >>
 >> | Ficha | |
 >> |---|---|

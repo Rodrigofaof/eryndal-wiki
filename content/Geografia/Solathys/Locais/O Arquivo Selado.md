@@ -1,6 +1,6 @@
 ﻿---
 tags: [local, solathys, grande-biblioteca, conselho-ancien, arquivo]
-banner: "Imagens/grande-biblioteca.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865237/grande-biblioteca.jpg"
 banner_y: 0.4
 tipo: "Local"
 regiao: "Solathys"
@@ -35,7 +35,7 @@ status: "Ativo / Acesso Restrito"
 >> Os textos que Syleth está relendo: a correlação entre o mapa de Vareleth e os eventos de CF 4.197 a CF 4.247. Ele está verificando se a geometria de contenção que Vareleth identificou explica o padrão das Fraturas atuais.
 >
 >> [!col-img]
->> ![[grande-biblioteca.png]]
+>> ![grande-biblioteca](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865237/grande-biblioteca.jpg)
 >>
 >> | O Arquivo Selado | |
 >> |---|---|

@@ -1,6 +1,6 @@
 ﻿---
 tags: [cidade, solathys, porto, exploração, human, ribbet]
-banner: "Imagens/porto-das-bandeiras.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865377/porto-das-bandeiras.png"
 banner_y: 0.4
 tipo: "Cidade"
 regiao: "Solathys"
@@ -41,7 +41,7 @@ governante: "Conselho dos Armadores (7 membros)"
 >> > O navio da expedição perdida de CF 3.950 está ancorado no estaleiro da Irmandade desde CF 4.050. Nenhum pesquisador que o examinou por mais de dois dias ficou igual. O mais recente pediu demissão do cargo e não explicou por quê.
 >
 >> [!col-img]
->> ![[porto-das-bandeiras.png]]
+>> ![porto-das-bandeiras](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865377/porto-das-bandeiras.png)
 >>
 >> | Ficha | |
 >> |---|---|

@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/as-raizes.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865055/as-raizes.jpg"
 ---
 ---
 tags: [local, cosmologia, raízes, dwarf, abismo, profundezas]
-banner: "Imagens/as-raizes.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865055/as-raizes.jpg"
 banner_y: 0.5
 tipo: "Local"
 regiao: "Cosmologia — entre Eryndal e o Abismo Sem Fim"
@@ -39,7 +39,7 @@ status: "Ativo — níveis superiores habitados, inferiores selados"
 >> A resposta padrão, em variações: *"Não havia nada. Mas o nada estava prestando atenção."*
 >
 >> [!col-img]
->> ![[as-raizes.png]]
+>> ![as-raizes](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865055/as-raizes.jpg)
 >>
 >> | Local | |
 >> |---|---|

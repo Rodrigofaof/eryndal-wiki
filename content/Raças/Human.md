@@ -3,7 +3,7 @@ banner: "[[human-retrato.png]]"
 ---
 ---
 tags: [raça, humanos, ancestralidade, daggerheart]
-banner: "Imagens/human-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865255/human-retrato.png"
 banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Human"
@@ -49,7 +49,7 @@ origem: "Desconhecida"
 >> *Relacionado: [[Raças do Mundo]], [[Solathys]], [[Irmandade da Bruma]], [[Panteão]]*
 >
 >> [!col-img]
->> ![[human-retrato.png]]
+>> ![human-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865255/human-retrato.png)
 >>
 >> | Ficha | |
 >> |---|---|

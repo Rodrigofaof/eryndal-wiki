@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/limiar-de-pedra.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865310/limiar-de-pedra.jpg"
 ---
 ---
 tags: [local, cosmologia, raízes, limiar, abismo, dwarf]
-banner: "Imagens/limiar-de-pedra.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865310/limiar-de-pedra.jpg"
 banner_y: 0.5
 tipo: "Local"
 regiao: "As Raízes — fronteira com o Abismo Sem Fim"
@@ -43,7 +43,7 @@ status: "Existente — localização precisa desconhecida"
 >> O que acontece quando o Limiar encontra o que está no quarto nível, ninguém sabe. Nenhuma cosmologia mortal documentou esse cenário.
 >
 >> [!col-img]
->> ![[limiar-de-pedra.png]]
+>> ![limiar-de-pedra](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865310/limiar-de-pedra.jpg)
 >>
 >> | Local | |
 >> |---|---|

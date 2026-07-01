@@ -1,6 +1,6 @@
 ﻿---
 tags: [facção, dwarf, subsolo, pedra]
-banner: "Imagens/dwarf-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865156/dwarf-retrato.png"
 banner_y: 0.4
 tipo: "Facção"
 lider: "Mestre Groven"
@@ -11,7 +11,7 @@ alinhamento: "Isolamento — Sobrevivência"
 # Clã de Pedra
 
 > [!infobox]
-> ![[dwarf-retrato.png]]
+> ![dwarf-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865156/dwarf-retrato.png)
 > | | |
 > |---|---|
 > | **Tipo** | Clã Dwarf das profundezas |

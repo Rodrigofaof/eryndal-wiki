@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/arquipelago-brumas.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
 ---
 ---
 tags: [geografia, arquipélago, mistério, a-fratura]
-banner: "Imagens/arquipelago-brumas.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
 banner_y: 0.4
 tipo: "Região"
 status: "Parcialmente explorado — PERIGOSO"
@@ -13,7 +13,7 @@ descoberto: "CF 4.244"
 # Arquipélago das Brumas
 
 > [!infobox]
-> ![[arquipelago-brumas.png]]
+> ![arquipelago-brumas](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png)
 > | | |
 > |---|---|
 > | **Tipo** | Arquipélago de 7 ilhas |

@@ -1,6 +1,6 @@
 ﻿---
 tags: [local, solathys, groven-profundo, dwarf, quarto-nivel]
-banner: "Imagens/groven-profundo.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865241/groven-profundo.jpg"
 banner_y: 0.5
 tipo: "Local"
 regiao: "Solathys"
@@ -31,7 +31,7 @@ status: "Ativo / Acesso Restrito"
 >> O som continua. Os moradores evacuados dos níveis inferiores disseram a vizinhos que o som ficou mais alto nos últimos seis meses — dois intervalos de 4 segundos tornando-se um único batimento de 8 segundos, como uma respiração se aprofundando.
 >
 >> [!col-img]
->> ![[groven-profundo.png]]
+>> ![groven-profundo](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865241/groven-profundo.jpg)
 >>
 >> | A Câmara do Pulso | |
 >> |---|---|

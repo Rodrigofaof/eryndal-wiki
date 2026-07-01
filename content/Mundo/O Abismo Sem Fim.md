@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/azurael.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865061/azurael.png"
 ---
 ---
 tags: [local, cosmologia, azúrael, abismo, vazio]
-banner: "Imagens/azurael.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865061/azurael.png"
 banner_y: 0.4
 tipo: "Local"
 regiao: "Cosmologia"
@@ -36,7 +36,7 @@ status: "Inacessível / Ativo"
 >> A mensagem que [[Eira a Sussurradora]] carrega de [[Nyxara]] diz exatamente isso.
 >
 >> [!col-img]
->> ![[azurael.png]]
+>> ![azurael](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865061/azurael.png)
 >>
 >> | O Abismo Sem Fim | |
 >> |---|---|

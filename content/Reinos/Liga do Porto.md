@@ -39,7 +39,7 @@ alinhamento: "Comércio e influência"
 >> As quatro rotas terrestres principais também estão sendo cortadas pela [[Floresta de Vyr]] em expansão. A Liga está operando com 60% de sua capacidade logística normal.
 >
 >> [!col-img]
->> ![[liga-porto.png]]
+>> ![liga-porto](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865309/liga-porto.jpg)
 >>
 >> | Ficha | |
 >> |---|---|

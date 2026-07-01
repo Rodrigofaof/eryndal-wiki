@@ -3,7 +3,7 @@ banner: "[[galapa-retrato.png]]"
 ---
 ---
 tags: [raça, cascogens, ancestralidade, daggerheart, thalris, mar]
-banner: "Imagens/galapa-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865207/galapa-retrato.png"
 banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Galapa"
@@ -51,7 +51,7 @@ origem: "Pré-Maregente"
 >> *Relacionado: [[Raças do Mundo]], [[Thalris]], [[Arquipélago das Brumas]]*
 >
 >> [!col-img]
->> ![[galapa-retrato.png]]
+>> ![galapa-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865207/galapa-retrato.png)
 >>
 >> | Ficha | |
 >> |---|---|

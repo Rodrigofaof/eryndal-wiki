@@ -1,6 +1,6 @@
 ﻿---
 tags: [cidade, terras-cinzentas, orc, giant-kin, filhos-de-korreth]
-banner: "Imagens/cinzaferra.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865099/cinzaferra.png"
 banner_y: 0.4
 tipo: "Assentamento"
 regiao: "Terras Cinzentas"
@@ -40,7 +40,7 @@ governante: "Memorialista de Ferro (cargo rotativo dos Filhos de Korreth)"
 >> > As rachaduras no Véu são visíveis a olho nu nas Terras Cinzentas — e nos últimos dias, a mais próxima de Cinzaferra avançou 200 metros em direção ao assentamento. O Posto da Névoa registrou isso. Ninguém foi informado do avanço exceto o Memorialista de Ferro.
 >
 >> [!col-img]
->> ![[cinzaferra.png]]
+>> ![cinzaferra](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865099/cinzaferra.png)
 >>
 >> | Ficha | |
 >> |---|---|

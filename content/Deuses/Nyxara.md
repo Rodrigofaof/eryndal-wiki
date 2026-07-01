@@ -1,5 +1,5 @@
 ---
-banner: "Imagens/Nyxara.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865349/Nyxara.png"
 ---
 ---
 tags:
@@ -7,7 +7,7 @@ tags:
   - nyxara
   - noite
   - segredos
-banner: "Imagens/Nyxara.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865349/Nyxara.png"
 banner_y: 0.4
 tipo: Deus
 dominio: Noite, Segredos, Saber
@@ -44,7 +44,7 @@ alinhamento: Neutro
 >> > Nyxara tem a resposta sobre a origem dos [[Human]]. Decidiu que a humanidade deve encontrá-la sozinha — revelar prematuramente destruiria algo essencial.
 >
 >> [!col-img]
->> ![[Nyxara.png]]
+>> ![Nyxara](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865349/Nyxara.png)
 >>
 >> | Ficha | |
 >> |---|---|

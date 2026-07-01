@@ -1,6 +1,6 @@
 ﻿---
 tags: [local, solathys, mar-thalran, exploração, mistério]
-banner: "Imagens/arquipelago-brumas.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
 banner_y: 0.4
 tipo: "Local"
 regiao: "Mar Thalran / Além"
@@ -31,7 +31,7 @@ status: "Inacessível de forma consistente"
 >> O [[Almirante Serafin Davar]] tem, no seu navio-almirante, um compartimento trancado com as coordenadas de quatro expedições à Costa Além. Ele nunca partiu lá deliberadamente. Mas chegou à mesma longitude acidentalmente em CF 4.143 e não entrou nas coordenadas no relatório de rotina.
 >
 >> [!col-img]
->> ![[arquipelago-brumas.png]]
+>> ![arquipelago-brumas](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png)
 >>
 >> | A Costa Além | |
 >> |---|---|

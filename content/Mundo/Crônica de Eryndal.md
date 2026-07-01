@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/linha-do-tempo.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865311/linha-do-tempo.png"
 ---
 ---
 tags: [crônicas, mundo, narrativa, história]
-banner: "Imagens/linha-do-tempo.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865311/linha-do-tempo.png"
 banner_y: 0.4
 tipo: "Crônica"
 periodo: "CF 0–CF 4.247"

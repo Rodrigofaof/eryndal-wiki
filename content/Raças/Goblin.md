@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/goblin-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865232/goblin-retrato.jpg"
 ---
 ---
 tags: [raça, graüns, ancestralidade, daggerheart, nyxara, goblins]
-banner: "Imagens/goblin-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865232/goblin-retrato.jpg"
 banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Goblin"
@@ -53,7 +53,7 @@ origem: "Nyxara (ecos)"
 >> *Relacionado: [[Raças do Mundo]], [[Nyxara]], [[Sistema de Magia]], [[Irmandade da Bruma]]*
 >
 >> [!col-img]
->> ![[goblin-retrato.png]]
+>> ![goblin-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865232/goblin-retrato.jpg)
 >>
 >> | Ficha | |
 >> |---|---|

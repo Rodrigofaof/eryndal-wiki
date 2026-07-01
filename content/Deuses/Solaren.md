@@ -4,7 +4,7 @@ tags:
   - solaren
   - ordem
   - sol
-banner: "Imagens/Solaren.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865433/Solaren.png"
 banner_y: 0.4
 tipo: Deus
 dominio: Sol, Ordem, Civilização
@@ -43,7 +43,7 @@ alinhamento: Ordem
 >> > Solaren sabe das ruínas da [[Costa do Esquecimento]]. Não age porque confirmar a marca de Azúrael é inadmissível para um deus da ordem.
 >
 >> [!col-img]
->> ![[Solaren.png]]
+>> ![Solaren](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865433/Solaren.png)
 >>
 >> | Ficha | |
 >> |---|---|

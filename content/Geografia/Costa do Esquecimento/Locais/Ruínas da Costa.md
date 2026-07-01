@@ -1,6 +1,6 @@
 ﻿---
 tags: [local, costa-esquecimento, azurael, ruínas, pedra-negra, ativo]
-banner: "Imagens/ruinas-da-costa.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865393/ruinas-da-costa.jpg"
 banner_y: 0.5
 tipo: "Local"
 regiao: "Costa do Esquecimento — costa norte"
@@ -32,7 +32,7 @@ status: "Proibido — vedado pela Igreja de Solaren desde CF 4.197"
 >> As [[A Fratura|Fraturas]] mais intensas da costa oeste de Solathys seguem o padrão dos onze pontos de Petra — superposição que nenhuma instituição notou formalmente ainda porque o mapa de Petra está no arquivo do [[Conselho dos Ancien]] e o mapa das Fraturas está com a [[Vigília Vermelha]], e as duas organizações não compartilham dados com frequência.
 >
 >> [!col-img]
->> ![[ruinas-da-costa.png]]
+>> ![ruinas-da-costa](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865393/ruinas-da-costa.jpg)
 >>
 >> | Local | |
 >> |---|---|

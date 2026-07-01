@@ -3,7 +3,7 @@ banner: "[[katari-retrato.png]]"
 ---
 ---
 tags: [raça, felanis, ancestralidade, daggerheart, katari, caçadores]
-banner: "Imagens/katari-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865285/katari-retrato.jpg"
 banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Katari"
@@ -51,7 +51,7 @@ origem: "Costas sul"
 >> *Relacionado: [[Raças do Mundo]], [[Irmandade da Bruma]], [[Arquipélago das Brumas]]*
 >
 >> [!col-img]
->> ![[katari-retrato.png]]
+>> ![katari-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865285/katari-retrato.jpg)
 >>
 >> | Ficha | |
 >> |---|---|

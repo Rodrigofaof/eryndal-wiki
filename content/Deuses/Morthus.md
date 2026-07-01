@@ -1,5 +1,5 @@
 ---
-banner: "Imagens/Morthus.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865339/Morthus.png"
 ---
 ---
 tags:
@@ -7,7 +7,7 @@ tags:
   - morthus
   - morte
   - memória
-banner: "Imagens/Morthus.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865339/Morthus.png"
 banner_y: 0.4
 tipo: Deus
 dominio: Morte, Memória, Almas
@@ -27,7 +27,7 @@ alinhamento: Neutro
 >> Morthus é o mais silencioso dos deuses — e possivelmente o mais importante. Sem ele, as almas não teriam para onde ir. Sem seu *arquivamento*, a memória coletiva de [[Eryndal]] se perderia.
 >>
 >> ## 🏛️ O Salão da Memória
->> ![[salao-memoria.png]]
+>> ![salao-memoria](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865397/salao-memoria.png)
 >> O domínio de Morthus — um lugar entre o [[Cosmologia|Plano Mortal]] e o Abismo onde almas são preservadas como chamas em lanternas. Ele conhece cada uma pelo nome.
 >>
 >> > [!info] A Primeira Alma
@@ -44,7 +44,7 @@ alinhamento: Neutro
 >> > Desde [[A Fratura]], **almas desaparecem antes de chegar ao Salão**. Morthus não sabe para onde vão. Está procurando. Sozinho. Sem avisar ninguém.
 >
 >> [!col-img]
->> ![[Morthus.png]]
+>> ![Morthus](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865339/Morthus.png)
 >>
 >> | Ficha | |
 >> |---|---|

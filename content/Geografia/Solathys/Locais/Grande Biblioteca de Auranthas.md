@@ -1,6 +1,6 @@
 ﻿---
 tags: [local, auranthas, solathys, conselho-ancien, biblioteca, conhecimento]
-banner: "Imagens/grande-biblioteca.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865237/grande-biblioteca.jpg"
 banner_y: 0.4
 tipo: "Local"
 regiao: "Solathys — Auranthas"
@@ -36,7 +36,7 @@ status: "Ativo — acesso parcialmente restrito"
 >> A teoria que ele não colocou em relatório formal: o padrão das páginas removidas não é aleatório. Todas são de documentos que fazem referência ao [[Arquipélago das Brumas]] antes de CF 4.100 — ou seja, antes de qualquer expedição mortal chegar lá. Alguém está apagando evidências de que o Arquipélago era conhecido antes de ser "descoberto".
 >
 >> [!col-img]
->> ![[grande-biblioteca.png]]
+>> ![grande-biblioteca](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865237/grande-biblioteca.jpg)
 >>
 >> | Local | |
 >> |---|---|

@@ -3,7 +3,7 @@ banner: "[[velhar.png]]"
 ---
 ---
 tags: [reino, elf, extinto]
-banner: "Imagens/velhar.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865491/velhar.png"
 banner_y: 0.4
 tipo: "Reino"
 fundado: "CF 1.367"
@@ -29,7 +29,7 @@ capital: "Velhar-Anath"
 >> > O paradeiro das runas ancestrais de Velhar é desconhecido. O Conselho dos Ancien afirma tê-las. A Igreja de Solaren nega que existam. Nyxara nunca comentou.
 >
 >> [!col-img]
->> ![[velhar.png]]
+>> ![velhar](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865491/velhar.png)
 >>
 >> | Ficha | |
 >> |---|---|

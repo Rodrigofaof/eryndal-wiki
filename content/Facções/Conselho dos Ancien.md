@@ -4,7 +4,7 @@ tags:
   - elf
   - conhecimento
   - conselho
-banner: "Imagens/elf-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865166/elf-retrato.png"
 banner_y: 0.3
 tipo: Facção
 lider: Ancião Syleth
@@ -15,7 +15,7 @@ alinhamento: Neutro — Preservação
 # Conselho dos Ancien
 
 > [!infobox]
-> ![[elf-retrato.png]]
+> ![elf-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865166/elf-retrato.png)
 > | | |
 > |---|---|
 > | **Tipo** | Governo informal dos Elf |

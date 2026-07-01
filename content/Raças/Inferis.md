@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/inferis-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865264/inferis-retrato.jpg"
 ---
 ---
 tags: [raça, abissinos, ancestralidade, daggerheart, fratura, abismo]
-banner: "Imagens/inferis-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865264/inferis-retrato.jpg"
 banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Inferis"
@@ -51,7 +51,7 @@ origem: "Nascidos perto de Fraturas"
 >> *Relacionado: [[Raças do Mundo]], [[A Fratura]], [[Azúrael]], [[Nyxara]], [[Costa do Esquecimento]]*
 >
 >> [!col-img]
->> ![[inferis-retrato.png]]
+>> ![inferis-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865264/inferis-retrato.jpg)
 >>
 >> | Ficha | |
 >> |---|---|

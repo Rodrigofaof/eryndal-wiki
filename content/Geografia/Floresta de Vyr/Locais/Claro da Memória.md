@@ -1,6 +1,6 @@
 ﻿---
 tags: [local, floresta-vyr, faun, firbolg, sagrado]
-banner: "Imagens/claro-da-memoria.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865106/claro-da-memoria.png"
 banner_y: 0.4
 tipo: "Local Sagrado"
 regiao: "Floresta de Vyr"
@@ -37,7 +37,7 @@ guardiao: "Sylara, Anciã dos Faun"
 >> > Sylara recebeu, três dias atrás, a comunicação mais clara de Elyndra em séculos — não em palavras, mas em imagem: a floresta se contraindo. Se enrolando ao redor de algo no centro. Como uma criatura se preparando para absorver um golpe.
 >
 >> [!col-img]
->> ![[claro-da-memoria.png]]
+>> ![claro-da-memoria](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865106/claro-da-memoria.png)
 >>
 >> | Ficha | |
 >> |---|---|

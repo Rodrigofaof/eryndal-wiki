@@ -3,7 +3,7 @@ banner: "[[republica-ferro.png]]"
 ---
 ---
 tags: [reino, human, extinto, secular]
-banner: "Imagens/republica-ferro.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865383/republica-ferro.png"
 banner_y: 0.4
 tipo: "Reino"
 fundado: "CF 1.644"
@@ -47,7 +47,7 @@ capital: "Porto das Chamas"
 >> O último líder eleito da República, **Aldren Quinto** (sem relação direta com o fundador, mas que usou o nome por tradição), estava no porto quando a capital afundou. Ele sobreviveu. A República, não.
 >
 >> [!col-img]
->> ![[republica-ferro.png]]
+>> ![republica-ferro](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865383/republica-ferro.png)
 >>
 >> | Ficha | |
 >> |---|---|

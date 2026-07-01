@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/auranthas.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865059/auranthas.png"
 ---
 ---
 tags: [geografia, solathys, continente]
-banner: "Imagens/auranthas.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865059/auranthas.png"
 banner_y: 0.4
 tipo: "Região"
 status: "Explorado"
@@ -13,7 +13,7 @@ habitantes: "Human, Elf, Dwarf"
 # Solathys — O Continente Conhecido
 
 > [!infobox]
-> ![[auranthas.png]]
+> ![auranthas](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865059/auranthas.png)
 > | | |
 > |---|---|
 > | **Tipo** | Continente principal |

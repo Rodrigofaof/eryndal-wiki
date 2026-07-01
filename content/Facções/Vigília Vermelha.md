@@ -1,6 +1,6 @@
 ﻿---
 tags: [facção, secreta, fio-vazio, azúrael, perigosa]
-banner: "Imagens/vigilia-vermelha.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865499/vigilia-vermelha.png"
 banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 2.660"
@@ -40,7 +40,7 @@ alinhamento: "Proteção de Eryndal através do conhecimento proibido"
 >> Ainda não informaram ninguém.
 >
 >> [!col-img]
->> ![[vigilia-vermelha.png]]
+>> ![vigilia-vermelha](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865499/vigilia-vermelha.png)
 >>
 >> | Ficha | |
 >> |---|---|

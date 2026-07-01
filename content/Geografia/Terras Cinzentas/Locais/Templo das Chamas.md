@@ -1,6 +1,6 @@
 ﻿---
 tags: [local, terras-cinzentas, filhos-korreth, varroth, batalha-das-chamas]
-banner: "Imagens/templo-das-chamas.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865462/templo-das-chamas.jpg"
 banner_y: 0.5
 tipo: "Local"
 regiao: "Terras Cinzentas"
@@ -32,7 +32,7 @@ status: "Ativo — sede dos Filhos de Korreth"
 >> As [[A Fratura|Fraturas]] aparecem nas Terras Cinzentas com maior frequência e intensidade do que em qualquer outro lugar de [[Eryndal]]. No raio de cem metros ao redor do Templo, as Fraturas têm um comportamento diferente: em vez de brilhar com luz sem cor, brilham brevemente em vermelho-sangue antes de se estabilizar. Os Filhos interpretam isso como Varroth se comunicando através do Véu. O [[Conselho dos Ancien]] interpreta como algo mais perturbador.
 >
 >> [!col-img]
->> ![[templo-das-chamas.png]]
+>> ![templo-das-chamas](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865462/templo-das-chamas.jpg)
 >>
 >> | Local | |
 >> |---|---|

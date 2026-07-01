@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/faun-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865185/faun-retrato.jpg"
 ---
 ---
 tags: [raça, faunos, ancestralidade, daggerheart, elyndra, natureza]
-banner: "Imagens/faun-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865185/faun-retrato.jpg"
 banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Faun"
@@ -51,7 +51,7 @@ origem: "Elyndra (alegria)"
 >> *Relacionado: [[Raças do Mundo]], [[Elyndra]], [[Floresta de Vyr]]*
 >
 >> [!col-img]
->> ![[faun-retrato.png]]
+>> ![faun-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865185/faun-retrato.jpg)
 >>
 >> | Ficha | |
 >> |---|---|

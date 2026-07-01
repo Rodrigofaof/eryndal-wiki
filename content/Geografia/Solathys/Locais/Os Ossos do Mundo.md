@@ -1,6 +1,6 @@
 ﻿---
 tags: [local, solathys, montanhas, varroth, filhos-korreth, ossos-do-mundo]
-banner: "Imagens/ossos-do-mundo.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865362/ossos-do-mundo.jpg"
 banner_y: 0.4
 tipo: "Local"
 regiao: "Solathys — coluna central"
@@ -33,7 +33,7 @@ status: "Ativo — tremores crescentes desde CF 4.245"
 >> Os [[Filhos de Korreth]] sentem isso como sinal de que Korreth está acordando. O Arauto Brenn diz que o ritmo dos tremores corresponde ao *pulso dracônico* que experimenta no [[Templo das Chamas]]. As duas fontes sincronizaram em CF 4.246.
 >
 >> [!col-img]
->> ![[ossos-do-mundo.png]]
+>> ![ossos-do-mundo](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865362/ossos-do-mundo.jpg)
 >>
 >> | Local | |
 >> |---|---|

@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/Thalris.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865467/Thalris.png"
 ---
 ---
 tags: [deus, thalris, mar, descoberta]
-banner: "Imagens/Thalris.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865467/Thalris.png"
 banner_y: 0.4
 tipo: "Deus"
 dominio: "Mar, Vento, Descoberta"
@@ -42,7 +42,7 @@ alinhamento: "Caos"
 >> > Thalris sabe onde fica a 7ª ilha. Não diz porque o que há lá exige ser encontrado *por escolha mortal* — o Pacto do Véu também o impede de ir diretamente.
 >
 >> [!col-img]
->> ![[Thalris.png]]
+>> ![Thalris](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865467/Thalris.png)
 >>
 >> | Ficha | |
 >> |---|---|

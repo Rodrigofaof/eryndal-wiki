@@ -1,5 +1,5 @@
 ---
-banner: "Imagens/Elyndra.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865170/Elyndra.png"
 ---
 ---
 tags:
@@ -7,7 +7,7 @@ tags:
   - elyndra
   - natureza
   - equilíbrio
-banner: "Imagens/Elyndra.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865170/Elyndra.png"
 banner_y: 0.4
 tipo: Deus
 dominio: Natureza, Equilíbrio, Vida
@@ -45,7 +45,7 @@ alinhamento: Equilíbrio
 >> > Ela não compartilhou o plano sobre o Arquipélago com [[Solaren]]. Acredita que as ilhas são um Nó Vivo que, se corrompido, pode destruir a floresta por ressonância.
 >
 >> [!col-img]
->> ![[Elyndra.png]]
+>> ![Elyndra](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865170/Elyndra.png)
 >>
 >> | Ficha | |
 >> |---|---|

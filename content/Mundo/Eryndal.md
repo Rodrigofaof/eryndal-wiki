@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/linha-do-tempo.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865311/linha-do-tempo.png"
 ---
 ---
 tags: [mundo, visão-geral, lore]
-banner: "Imagens/linha-do-tempo.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865311/linha-do-tempo.png"
 banner_y: 0.4
 tipo: "Mundo"
 ---
@@ -44,7 +44,7 @@ tipo: "Mundo"
 >> | **Maior Mistério** | Para onde vão as almas que não chegam a [[Morthus]] |
 >
 >> [!col-img]
->> ![[auranthas.png]]
+>> ![auranthas](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865059/auranthas.png)
 >>
 >> | Eryndal | |
 >> |---|---|

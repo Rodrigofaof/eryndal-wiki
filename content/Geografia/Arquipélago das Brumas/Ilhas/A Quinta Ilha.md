@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/arquipelago-brumas.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
 ---
 ---
 tags: [local, arquipélago-das-brumas, ilhas, azúrael, vazio]
-banner: "Imagens/arquipelago-brumas.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
 banner_y: 0.4
 tipo: "Local"
 regiao: "Arquipélago das Brumas"
@@ -36,7 +36,7 @@ status: "Explorado parcialmente / Perigoso"
 >> Nenhuma expedição chegou ao interior das câmaras mais profundas. As equipes que tentaram relataram desorientação progressiva e incapacidade de manter direção consistente — não por armadilhas, mas como se o espaço interno não seguisse as mesmas regras de geometria que o exterior.
 >
 >> [!col-img]
->> ![[arquipelago-brumas.png]]
+>> ![arquipelago-brumas](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png)
 >>
 >> | A Quinta Ilha | |
 >> |---|---|

@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/ribbet-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865388/ribbet-retrato.jpg"
 ---
 ---
 tags: [raça, brumeiros, ancestralidade, daggerheart, ribbet, arquipélago]
-banner: "Imagens/ribbet-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865388/ribbet-retrato.jpg"
 banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Ribbet"
@@ -53,7 +53,7 @@ origem: "Ancestral costeiro"
 >> *Relacionado: [[Raças do Mundo]], [[Arquipélago das Brumas]], [[Costa do Esquecimento]]*
 >
 >> [!col-img]
->> ![[ribbet-retrato.png]]
+>> ![ribbet-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865388/ribbet-retrato.jpg)
 >>
 >> | Ficha | |
 >> |---|---|

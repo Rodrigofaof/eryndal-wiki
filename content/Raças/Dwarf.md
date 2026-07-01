@@ -3,7 +3,7 @@ banner: "[[dwarf-retrato.png]]"
 ---
 ---
 tags: [raça, gorvath, ancestralidade, daggerheart]
-banner: "Imagens/dwarf-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865156/dwarf-retrato.png"
 banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Dwarf"
@@ -50,7 +50,7 @@ origem: "Elyndra (rejeitados)"
 >> *Relacionado: [[Raças do Mundo]], [[Elyndra]], [[Cosmologia]], [[A Fratura]]*
 >
 >> [!col-img]
->> ![[dwarf-retrato.png]]
+>> ![dwarf-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865156/dwarf-retrato.png)
 >>
 >> | Ficha | |
 >> |---|---|

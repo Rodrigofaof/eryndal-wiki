@@ -1,6 +1,6 @@
 ﻿---
 tags: [cidade, inferis, ilha, mistério, abismo]
-banner: "Imagens/grath-nor.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865239/grath-nor.png"
 banner_y: 0.4
 tipo: "Cidade"
 regiao: "Mar Thalran Sul — ilha independente"
@@ -43,7 +43,7 @@ governante: "O Círculo das Memórias (5 Anciãos Inferis)"
 >> > O poço no centro de Grath-Nor existia antes dos primeiros [[Inferis]] chegarem à ilha. Profundidade desconhecida. Nenhuma corda alcançou o fundo. Desde A Fratura, uma luz fraca — não solar, não lunar — emana dele durante a noite.
 >
 >> [!col-img]
->> ![[grath-nor.png]]
+>> ![grath-nor](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865239/grath-nor.png)
 >>
 >> | Ficha | |
 >> |---|---|

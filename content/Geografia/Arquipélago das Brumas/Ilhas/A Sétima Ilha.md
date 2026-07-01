@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/a-setima-ilha.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782864897/a-setima-ilha.png"
 ---
 ---
 tags: [local, arquipélago, ilha, mistério, azúrael, não-alcançada]
-banner: "Imagens/a-setima-ilha.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782864897/a-setima-ilha.png"
 banner_y: 0.4
 tipo: "Ilha"
 regiao: "Arquipélago das Brumas"
@@ -36,7 +36,7 @@ descoberta: "Avistada em CF 4.244 — nunca alcançada"
 >> > - [[Thalris]] — quando consultado pelos oráculos da [[Confederação Thalrana]] — disse apenas: *"Não ainda."*
 >
 >> [!col-img]
->> ![[a-setima-ilha.png]]
+>> ![a-setima-ilha](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782864897/a-setima-ilha.png)
 >>
 >> | Ficha | |
 >> |---|---|

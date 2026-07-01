@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/filamentos.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865190/filamentos.png"
 ---
 ---
 tags: [facção, magia, academia, auranthas]
-banner: "Imagens/filamentos.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865190/filamentos.png"
 banner_y: 0.4
 tipo: "Facção"
 fundada: "CF 1.934"
@@ -31,7 +31,7 @@ alinhamento: "Conhecimento mágico sistemático"
 >> > [!warning] Com [[A Fratura]] causando comportamentos anômalos nos Filamentos — magias produzindo efeitos do Fio Vazio sem intenção — a Academia está em colapso técnico. Professores contrariando teorias publicadas dias antes. A Archimaga atual não aparece em público há semanas.
 >
 >> [!col-img]
->> ![[filamentos.png]]
+>> ![filamentos](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865190/filamentos.png)
 >>
 >> | Ficha | |
 >> |---|---|

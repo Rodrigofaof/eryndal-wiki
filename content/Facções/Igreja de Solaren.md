@@ -1,5 +1,5 @@
 ---
-banner: "Imagens/igreja-solaren.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865256/igreja-solaren.jpg"
 ---
 ---
 tags:
@@ -7,7 +7,7 @@ tags:
   - igreja
   - solaren
   - ordem
-banner: "Imagens/igreja-solaren.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865256/igreja-solaren.jpg"
 banner_y: 0.6
 tipo: Facção
 lider: Alto Sacerdote Aldren Vaux
@@ -18,7 +18,7 @@ alinhamento: Ordem
 # Igreja de Solaren
 
 > [!infobox]
-> ![[igreja-solaren.png]]
+> ![igreja-solaren](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865256/igreja-solaren.jpg)
 > | | |
 > |---|---|
 > | **Tipo** | Organização religiosa |

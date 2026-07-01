@@ -44,7 +44,7 @@ alinhamento: "Soberania marítima, equilíbrio entre raças"
 >> | [[Conselho dos Ancien]] | Respeito mútuo — os Elf lembram quando os povos do mar nasceram |
 >
 >> [!col-img]
->> ![[confederacao-thalrana.png]]
+>> ![confederacao-thalrana](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865117/confederacao-thalrana.png)
 >>
 >> | Ficha | |
 >> |---|---|

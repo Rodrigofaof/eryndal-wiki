@@ -1,6 +1,6 @@
 ﻿---
 tags: [local, solathys, cidade, confederação-thalrana, porto]
-banner: "Imagens/confederacao-thalrana.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865117/confederacao-thalrana.png"
 banner_y: 0.4
 tipo: "Local"
 regiao: "Solathys"
@@ -31,7 +31,7 @@ status: "Ativo"
 >> A Confederação está debatendo se emite um aviso formal sobre as correntes. O debate travou porque emitir o aviso implica admitir que as correntes são anômalas, o que implica explicar por que são anômalas, o que ninguém consegue fazer sem implicar um deus.
 >
 >> [!col-img]
->> ![[confederacao-thalrana.png]]
+>> ![confederacao-thalrana](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865117/confederacao-thalrana.png)
 >>
 >> | Porto de Thalran | |
 >> |---|---|

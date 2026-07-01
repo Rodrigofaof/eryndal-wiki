@@ -3,7 +3,7 @@ banner: "[[faerie-retrato.png]]"
 ---
 ---
 tags: [raça, fadais, ancestralidade, daggerheart, filamentos, fadas]
-banner: "Imagens/faerie-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865179/faerie-retrato.png"
 banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Faerie"
@@ -51,7 +51,7 @@ origem: "Filamentos cruzados"
 >> *Relacionado: [[Raças do Mundo]], [[Sistema de Magia]], [[A Fratura]], [[Cosmologia]]*
 >
 >> [!col-img]
->> ![[faerie-retrato.png]]
+>> ![faerie-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865179/faerie-retrato.png)
 >>
 >> | Ficha | |
 >> |---|---|

@@ -1,6 +1,6 @@
 ---
 tags: [local, solathys, terras-cinzentas, halfling, human, dwarf, faun, aventura]
-banner: "Imagens/terras-cinzentas.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865463/terras-cinzentas.png"
 banner_y: 0.6
 tipo: "Local"
 regiao: "Solathys"

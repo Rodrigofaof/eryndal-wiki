@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/azurael.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865061/azurael.png"
 ---
 ---
 tags: [deus, azúrael, vazio, aprisionado, mistério]
-banner: "Imagens/azurael.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865061/azurael.png"
 banner_y: 0.5
 tipo: "Deus"
 dominio: "Vazio, O Que Não Deveria Existir"
@@ -40,7 +40,7 @@ alinhamento: "Destruição"
 >> > - Alguém entre os vivos **carrega sua marca**
 >
 >> [!col-img]
->> ![[azurael.png]]
+>> ![azurael](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865061/azurael.png)
 >>
 >> | Ficha | |
 >> |---|---|

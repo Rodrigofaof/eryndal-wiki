@@ -1,6 +1,6 @@
 ﻿---
 tags: [local, solathys, auranthas, ruínas, histórico]
-banner: "Imagens/auranthas.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865059/auranthas.png"
 banner_y: 0.4
 tipo: "Local"
 regiao: "Solathys"
@@ -31,7 +31,7 @@ status: "Soterrado parcialmente"
 >> Em CF 4.197, quando as pedras negras começaram a emergir na [[Costa do Esquecimento]], [[Petra Canto-Fundo]] enviou à Igreja de Solaren um relatório comparando os símbolos nas pedras com símbolos encontrados nas paredes de Velha Auranthas. A Igreja classificou o relatório como "análise especulativa sem base verificável" e fechou o acesso às passagens por três semanas para "inspeção de segurança estrutural."
 >
 >> [!col-img]
->> ![[auranthas.png]]
+>> ![auranthas](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865059/auranthas.png)
 >>
 >> | Velha Auranthas | |
 >> |---|---|

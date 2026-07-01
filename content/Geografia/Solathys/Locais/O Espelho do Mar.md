@@ -1,6 +1,6 @@
 ﻿---
 tags: [local, mar-thalran, thalris, anomalia, cosmologia]
-banner: "Imagens/arquipelago-brumas.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png"
 banner_y: 0.4
 tipo: "Local"
 regiao: "Mar Thalran"
@@ -35,7 +35,7 @@ status: "Ativo / Anomalia"
 >> [[Soran das Ondas]] identificou que o Espelho do Mar está no cruzamento de duas das correntes que foram modificadas em direção ao Arquipélago das Brumas nos últimos duzentos anos. Não é coincidência. É o ponto central de convergência.
 >
 >> [!col-img]
->> ![[arquipelago-brumas.png]]
+>> ![arquipelago-brumas](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865053/arquipelago-brumas.png)
 >>
 >> | O Espelho do Mar | |
 >> |---|---|

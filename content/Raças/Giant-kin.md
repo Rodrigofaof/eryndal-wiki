@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/giant-kin-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865219/giant-kin-retrato.jpg"
 ---
 ---
 tags: [raça, titânicos, ancestralidade, daggerheart, vazio, gigantes]
-banner: "Imagens/giant-kin-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865219/giant-kin-retrato.jpg"
 banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Giant-kin"
@@ -53,7 +53,7 @@ origem: "Vazio pré-criação"
 >> *Relacionado: [[Raças do Mundo]], [[Cosmologia]], [[Azúrael]], [[A Fratura]]*
 >
 >> [!col-img]
->> ![[giant-kin-retrato.png]]
+>> ![giant-kin-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865219/giant-kin-retrato.jpg)
 >>
 >> | Ficha | |
 >> |---|---|

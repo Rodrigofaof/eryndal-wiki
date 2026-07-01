@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/simiah-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865424/simiah-retrato.jpg"
 ---
 ---
 tags: [raça, arborinos, ancestralidade, daggerheart, simiah, floresta-de-vyr]
-banner: "Imagens/simiah-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865424/simiah-retrato.jpg"
 banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Simiah"
@@ -53,7 +53,7 @@ origem: "Elyndra"
 >> *Relacionado: [[Raças do Mundo]], [[Elyndra]], [[Floresta de Vyr]], *
 >
 >> [!col-img]
->> ![[simiah-retrato.png]]
+>> ![simiah-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865424/simiah-retrato.jpg)
 >>
 >> | Ficha | |
 >> |---|---|

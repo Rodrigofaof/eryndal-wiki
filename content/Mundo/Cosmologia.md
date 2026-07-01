@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/a-fratura.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782864893/a-fratura.png"
 ---
 ---
 tags: [mundo, cosmologia, planos, véu, abismo]
-banner: "Imagens/a-fratura.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782864893/a-fratura.png"
 banner_y: 0.4
 tipo: "Mundo"
 ---

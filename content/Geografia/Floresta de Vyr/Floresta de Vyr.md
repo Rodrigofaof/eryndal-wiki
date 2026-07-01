@@ -1,6 +1,6 @@
 ﻿---
 tags: [geografia, floresta-de-vyr, elyndra]
-banner: "Imagens/floresta-vyr.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865198/floresta-vyr.png"
 banner_y: 0.4
 tipo: "Região"
 status: "Interior inexplorado — VIVO"
@@ -10,7 +10,7 @@ plantada: "CF 89 por Elyndra"
 # Floresta de Vyr
 
 > [!infobox]
-> ![[floresta-vyr.png]]
+> ![floresta-vyr](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865198/floresta-vyr.png)
 > | | |
 > |---|---|
 > | **Tipo** | Floresta consciente |

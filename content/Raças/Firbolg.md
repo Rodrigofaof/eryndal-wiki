@@ -1,9 +1,9 @@
 ---
-banner: "Imagens/firbolg-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865196/firbolg-retrato.png"
 ---
 ---
 tags: [raça, fyrbolg, ancestralidade, daggerheart, floresta, antigos]
-banner: "Imagens/firbolg-retrato.png"
+banner: "https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865196/firbolg-retrato.png"
 banner_y: 0.4
 tipo: "Ancestralidade"
 equivalente: "Firbolg"
@@ -51,7 +51,7 @@ origem: "Pré-Sylvani"
 >> *Relacionado: [[Raças do Mundo]], [[Elyndra]], [[Floresta de Vyr]], *
 >
 >> [!col-img]
->> ![[firbolg-retrato.png]]
+>> ![firbolg-retrato](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865196/firbolg-retrato.png)
 >>
 >> | Ficha | |
 >> |---|---|

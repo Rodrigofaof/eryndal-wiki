@@ -44,7 +44,7 @@ alinhamento: "Varroth — força e honra de combate"
 >> | [[Terras Cinzentas]] | O Templo é o único poder estável da região |
 >
 >> [!col-img]
->> ![[filhos-korreth.png]]
+>> ![filhos-korreth](https://res.cloudinary.com/gkpf1l0q/image/upload/v1782865191/filhos-korreth.png)
 >>
 >> | Ficha | |
 >> |---|---|
